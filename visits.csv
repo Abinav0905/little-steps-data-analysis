@@ -1,0 +1,1001 @@
+﻿visit_id,patient_id,nurse_id,visit_start_time,visit_end_time,service_type,visit_location,nurse_notes
+6a4a715f-94c5-4b5d-8f51-51f07f298fb6,P59581,N1565,2025-09-02 00:08:24,2025-09-02 00:55:24,Wound Care,East,The nurse changed the wound dressing. The patient is stable.
+27bfc4de-9dd2-4b6b-b05f-f9560a3fd00f,P66547,N5698,"August 24, 2025 10:42PM","August 25, 2025 12:12AM",General Check-up,East,The nurse reviewed the oxygen level. The patient is in pain. Critical is required.
+9c2d0018-8f20-4789-a383-906d49042fbc,P47919,N3012,2025-09-02 11:07:33,2025/09/02 11:56,Physical Therapy,East,Review is required. The nurse assisted the mobility exercise. The patient is weak.
+bbedc08d-0ada-4c8f-bac4-3008ac279a01,P18359,N8991,2025-09-15 21:24:42,2025-09-15 22:12:42,General Check-up,North,Follow-up is required. The nurse reviewed the vital signs. The patient is dizzy.
+155c3765-22d5-41cc-95f5-a94ef19748ae,P45602,N7948,2025-08-31 07:19:11,2025-08-31 07:47:11,Pyhcisal Therapy,North,ASAP is required. The nurse observed the patient condition. The patient is restless.
+abeb9a9f-420e-4d33-8a70-081fc43e7499,P42892,N7325,2025-09-06 10:18:14,09/06/2025 11:27,General Check-up,West,The nurse observed the vital signs. The patient is restless. Urgent is required.
+3f579361-69b1-4a84-b30b-3e4b2251bc10,P86548,N9196,2025-08-31 01:13:57,2025-08-31 02:12:57,General Check-up,East,ASAP is required. The nurse observed the temperature. The patient is in pain.
+91477f2d-28c8-4ada-b072-02c747eac564,P52180,N1568,09/16/2025 21:22,2025-09-16 21:51:07,General Check-up,West,The nurse observed the vital signs. The patient is stable.
+2beedf85-2cd0-4f2d-b309-b3bb9131e539,P79973,N3088,09/02/2025 13:53,2025-09-02 15:14:16,Physical Therapy,North,Review is required. The nurse guided the gait practice. The patient is weak.
+c10be3fc-63d3-46c9-93c1-6d8814f61954,P66397,N4605,2025-08-31 03:32:13,2025-08-31 03:45:13,General Check-up,South,Review is required. The nurse checked the blood pressure. The patient is dizzy.
+2ae18a73-3379-4b50-a27b-3f3228654da7,P64566,N8221,"August 27, 2025 09:36AM",2025-08-27 10:35:21,General Check-up,East,Follow-up is required. The nurse reviewed the blood pressure. The patient is improving.
+c34e645d-6639-4c79-a281-a70e45368624,P98143,N9438,08/25/2025 14:00,,General Check-up,Notrh,Review is required. ##--## The nurse monitored the patient condition. !!! The patient is dizzy. ###$$$%%%^^^
+02345724-538a-446d-be13-b63800344f6b,P24910,N3933,2025-09-02 20:27:02,2025-09-02 20:49:02,Physical Therapy,West,The nurse guided the mobility exercise. The patient is stable.
+71b4dff4-1131-4577-91a8-635a1f16e702,P46842,N3507,"September 07, 2025 07:50PM",2025-09-07 21:03:17,Wound Care,South,Review is required. The nurse cleaned the wound dressing. The patient is improving.
+18305e9f-6f73-4bcb-93af-808a93a2dfb8,P22320,N7368,"September 14, 2025 12:58AM",2025-09-14 01:08:53,Medication Administration,Notrh,Follow-up is required. The nurse administered the injection. The patient is improving.
+f25b6a17-b5eb-444d-964b-cfa7a3b9c0fb,P92552,N3943,2025-08-25 16:48:01,2025-08-25 18:24:01,Medication Administration,East,Monitoring is required. The nurse delivered the oral dose. The patient is weak.
+dce0428d-df95-4399-93cf-97122440fb10,P46024,N5472,2025-08-25 22:05:44,,Physical Therapy,West,The nurse monitored the strength training. The patient is stable.
+87519617-0ba0-431c-aa94-ede54b2b39d0,P35198,N8250,2025-08-27 22:39:40,08/28/2025 00:30,General Check-up,South,The nurse checked the oxygen level. The patient is improving. Ongoing assessment is required.
+04f4fc68-1234-4a7d-82d3-6eac9de96a6f,P24151,N5472,09/03/2025 08:01,2025/09/03 08:25,Physical Therapy,Notrh,The nurse assisted the gait practice. The patient is dizzy. Follow-up is required.
+a04499ba-cea9-4fd1-91a5-4ef93a25980a,P67227,N7368,2025/08/31 19:55,2025-08-31 21:43:49,Wound Cae,North,
+ae9a7336-98e0-43f3-be25-f23307195759,P26942,N8880,08/24/2025 01:00,2025-08-24 02:30:04,Medication Administration,South,The nurse provided the oral dose. The patient is in pain. Action is required.
+09db38d9-aec4-4fe4-94a8-ed13d15e8697,P54379,N2804,09/11/2025 03:57,2025-09-11 04:12:08,General Check-up,West,The nurse reviewed the blood pressure. The patient is improving. Follow-up is required.
+d7cebb55-ad6d-49a5-a0ff-c513f6a9b456,P18780,N4701,09/05/2025 12:17,,Medication Administration,North,The nurse provided the injection. The patient is comfortable.
+e3100f03-15f4-4d15-bdd4-c594debca717,P39656,N4178,09/04/2025 18:36,2025-09-04 20:21:43,General Check-up,East,The nurse checked the temperature. The patient is stable.
+e475f174-df8c-4b05-af82-ade9e5fd86e7,P79915,N4605,2025-08-21 01:15:00,,Medication Administration,North,ASAP is required. The nurse provided the oral dose. The patient is restless.
+607fd089-93e2-4153-bf72-e043a0b0ffa9,P83768,N7368,2025-09-05 11:21:09,09/05/2025 11:42,Physical Therapy,West,The nurse monitored the mobility exercise. The patient is improving. Monitoring is required.
+184c6792-db25-493f-9bc2-9879f693a176,P76810,N8286,2025-09-06 03:25:26,2025-09-06 04:53:26,General Check-up,South,ASAP is required. The nurse monitored the oxygen level. The patient is in pain.
+81819e77-549d-4b5b-911a-cac30d9f913e,P65943,N8068,2025-09-03 02:21:45,,Wound Care,East,The nurse changed the bandage. The patient is stable.
+2eb47a64-4511-4d53-8045-b6899fdcdbe3,P69982,N5881,2025-08-27 19:58:34,2025-08-27 21:10:34,Medication Administration,West,The nurse administered the oral dose. The patient is comfortable.
+10549162-0c95-42ed-b498-24f77ab367a9,P72760,N5647,2025-09-16 23:45:27,,Physical Therapy,South,Urgent is required. The nurse assisted the mobility exercise. The patient is restless.
+f02b9ad4-b27c-4971-88be-f5a2043dd894,P75810,N5881,2025-09-08 11:56:17,2025-09-08 12:43:17,General Check-up,East,The nurse reviewed the temperature. The patient is comfortable.
+a67370a5-c23f-4d7c-9666-9e5c03c26c8e,P23952,N1451,2025-09-18 09:46:48,"September 18, 2025 10:28AM",General Check-up,West,Monitoring is required. The nurse reviewed the blood pressure. The patient is dizzy.
+ffcb008f-fa2c-40ee-bd8e-e8da28430c97,P20621,N3933,2025-09-08 17:05:44,2025-09-08 17:39:44,Wound Care,East,The nurse applied the bandage. The patient is weak. Follow-up is required.
+82d1c3ce-b140-4b51-8224-816882b8d617,P63937,N5698,09/03/2025 12:33,2025-09-03 14:16:22,Medication Administration,North,The nurse administered the medication. The patient is comfortable.
+585de5cd-4404-4a5e-b1d5-ba90b4934864,P62507,N2536,08/25/2025 19:30,2025-08-25 20:00:32,Medication Administration,South,Action is required. The nurse administered the injection. The patient is restless.
+94504b55-95e0-4109-b794-50b1d7ef705c,P93308,N3933,2025-09-04 16:10:10,2025-09-04 17:02:10,General Check-up,West,The nurse reviewed the vital signs. The patient is dizzy. Follow-up is required.
+e419b8cf-4ae0-4c1d-894d-f9f7a47034d2,P94628,N5170,2025-09-06 08:16:26,2025-09-06 08:28:26,Physical Therapy,North,The nurse guided the mobility exercise. The patient is improving. Monitoring is required.
+55bcc717-ca1e-43e3-a8f5-1c32a49ffff9,P51923,N4957,08/19/2025 17:19,2025-08-19 18:01:42,Physical Therapy,South,Monitoring is required. The nurse guided the gait practice. The patient is improving.
+fa53ac49-9d53-4a16-b379-5af07bd2b927,P88715,N2340,09/02/2025 23:17,2025-09-03 00:23:48,General Check-up,South,Action is required. The nurse observed the patient condition. The patient is restless.
+40cb5d22-d33d-4cf5-8700-ac0d06bcf311,P18243,N3280,2025-09-11 09:22:21,2025-09-11 10:31:21,General Check-up,South,The nurse checked the temperature. The patient is stable.
+8a33a9c4-9e3c-4407-9ba6-e95c5d372868,P26942,N8068,2025/08/25 09:13,2025-08-25 10:55:49,Wound Care,North,The nurse applied the bandage. The patient is in pain. ASAP is required.
+7fa9ac8d-b0ac-483f-bc7d-e4c5a5dc0363,P39656,N5551,09/09/2025 12:00,2025/09/09 13:54,Wound Care,East,Follow-up is required. The nurse dressed the bandage. The patient is dizzy.
+a3623cba-0e56-44dd-b263-3de66e755de6,P34793,N7658,2025-09-16 14:32:27,2025-09-16 15:50:27,Physical Therapy,North,Monitoring is required. The nurse monitored the strength training. The patient is weak.
+f52acefb-584b-455f-9244-9485760cf81a,P17053,N8221,2025/08/21 19:11,2025-08-21 19:52:53,General Check-up,South,The nurse reviewed the blood pressure. The patient is stable.
+7450ea7b-3165-4053-bdee-e06347f8a530,P95148,N7300,2025/09/15 14:15,2025-09-15 15:05:50,General Check-up,South,The nurse observed the patient condition. The patient is comfortable.
+4b572e36-9da4-48d2-ad61-82fb3f0ec501,P69363,N4605,2025-08-23 09:37:44,,Medication Administration,South,Critical is required. The nurse delivered the IV line. The patient is restless.
+9d668e42-3d47-4bb3-ac7a-9ab5bb50757e,P49170,N7802,2025/08/30 23:43,2025-08-31 00:54:03,General Check-up,North,The nurse checked the patient condition. The patient is stable.
+9d4a75ea-3f5a-4265-a552-810cac720159,P86797,N9851,2025/08/21 05:00,2025-08-21 06:30:26,Physical Therapy,South,The nurse assisted the range of motion. The patient is weak. Monitoring is required.
+65f61070-8ced-4ef9-a954-0176b7bd0954,P50501,N6797,09/13/2025 03:20,2025-09-13 05:14:36,General Check-up,East,The nurse reviewed the patient condition. The patient is restless. Critical is required.
+2a1b3b19-25f6-4a6f-9602-6da6c42dedbc,P40234,N1991,2025/09/01 09:28,2025-09-01 10:30:58,General Check-up,North,Ongoing assessment is required. The nurse reviewed the blood pressure. The patient is weak.
+179ca7be-e056-4bcd-a7ed-341b5ae14414,P27585,N8721,2025-09-03 08:10:36,,Medication Administration,West,The nurse administered the IV line. The patient is stable.
+a184b04b-d6e4-4d23-87e3-aca2c1310608,P76532,N4701,2025-09-05 12:37:39,2025-09-05 14:09:39,Physical Therapy,East,Urgent is required. The nurse guided the mobility exercise. The patient is in pain.
+91726ffc-7874-4c3a-bde4-55f07a9cf714,P32952,N6322,2025-09-05 14:10:15,2025-09-05 15:51:15,Medication Administration,West,The nurse delivered the injection. The patient is comfortable.
+d8acb75e-752e-43a2-aff2-db5467cb43a5,P12126,N2838,2025-08-21 20:49:31,2025-08-21 21:54:31,Medication Administration,East,Follow-up is required. The nurse delivered the injection. The patient is dizzy.
+d0347d71-9f7b-4af6-b187-5e6947420a6b,P74604,N1975,2025-08-23 18:05:50,08/23/2025 19:12,Wound Care,West,Critical is required. The nurse changed the incision site. The patient is in pain.
+44f40ba6-7d1c-4e8a-a4f3-28b6b9267b5e,P30852,N2044,2025/09/16 23:59,09/17/2025 01:26,General Check-up,South,The nurse checked the blood pressure. The patient is restless. Urgent is required.
+6a3c9084-a76a-40aa-9a58-83cb26da4652,P17051,N2141,2025-09-05 19:07:54,2025-09-05 20:07:54,Physical Therapy,North,Follow-up is required. The nurse assisted the mobility exercise. The patient is improving.
+637409a2-4145-425f-a7d0-35e12520c0c7,P93178,N2340,2025-08-21 02:01:27,2025-08-21 02:50:27,General Chek-up,South,The nurse encouraged the strength training. The patient is comfortable.
+ad4250dc-168e-4d8a-9a04-02206152ff17,P30993,N2273,08/24/2025 11:28,,Medicatn Adminstratino,West,The nurse administered the oral dose. The patient is stable.
+9e80df8d-a628-40c2-8c18-ebafd4d24379,P51595,N7992,"August 24, 2025 04:02AM",2025-08-24 05:04:17,Wound Care,North,The nurse dressed the incision site. The patient is stable.
+3bfd5836-f4ce-418e-b114-ac32e4707d2b,P52681,N5881,2025-08-25 13:16:37,2025/08/25 14:22,Medication Administration,East,The nurse provided the injection. The patient is restless. ASAP is required.
+df464f45-9e38-41e9-9a36-d403d808b4af,P19469,N2141,2025/09/12 03:54,2025-09-12 04:27:30,General Check-up,South,The nurse monitored the oxygen level. The patient is stable.
+b95d8226-45d8-422b-99ac-844f5270f709,P79693,N5633,2025-08-23 23:02:43,2025-08-24 08:54:28,Wound Care,East,The nurse applied the wound dressing. The patient is comfortable.
+b7f9ac9b-2e0f-49b5-8c8a-c7bddb8ab452,P22982,N9993,2025-09-08 02:53:30,2025-09-08 03:37:30,General Check-up,East,Ongoing assessment is required. The nurse checked the patient condition. The patient is weak.
+f753a3da-119b-4f17-a73f-0c72decce8b7,P12126,N7368,2025/09/09 00:16,2025-09-09 01:46:23,Medication Administration,North,The nurse administered the injection. The patient is restless. Action is required.
+18ea8511-0f8d-4a5e-8cd6-b94a25bafc0f,P63937,N5881,"September 13, 2025 11:24PM",09/14/2025 01:24,General Check-up,South,Action is required. The nurse reviewed the patient condition. The patient is restless.
+c139deca-4184-4bbc-a2b0-bf0b682e33fe,P92406,N7325,2025-09-09 01:22:05,2025-09-09 01:46:05,Physical Therapy,South,The nurse assisted the mobility exercise. The patient is stable.
+b731d39c-3645-4524-9a58-5027c0593826,P28706,N1565,2025-09-15 17:15:08,2025-09-15 18:31:08,Physical Therapy,North,The nurse assisted the mobility exercise. The patient is restless. Urgent is required.
+e4383bf4-eaef-4481-88db-901e2b7b617f,P20606,N5881,2025-08-24 20:45:16,2025-08-24 21:15:16,Physical Therapy,North,Follow-up is required. The nurse encouraged the strength training. The patient is weak.
+88683b99-84dd-47a4-aa5b-2ac1344c88c2,P25103,N1991,2025-09-17 23:57:12,2025/09/18 01:16,Medication Administration,North,The nurse delivered the oral dose. The patient is in pain. Urgent is required.
+a9871492-2bcb-4ce3-93fc-4c5034111c12,P17053,N3943,2025-09-01 21:02:01,2025-09-01 21:11:40,Wound Care,North,The nurse changed the bandage. The patient is comfortable.
+b64afacd-cb51-40c3-bb57-e054ae3ea082,P76027,N1066,2025-09-06 17:45:30,2025-09-06 18:31:30,Physical Therapy,South,Monitoring is required. The nurse encouraged the gait practice. The patient is dizzy.
+944d13c8-53ae-45b4-966c-7844f7593349,P59623,N5275,2025-08-31 02:18:52,2025-08-31 04:15:52,General Check-up,South,Ongoing assessment is required. The nurse reviewed the oxygen level. The patient is improving.
+e1f3f60d-06de-4a0b-b6a3-10ae5967e722,P17053,N9196,2025-09-05 17:31:05,2025-09-05 18:49:05,Physical Therapy,South,The nurse encouraged the mobility exercise. The patient is dizzy. Monitoring is required.
+611c4e43-b837-4355-9b21-3212617e31ac,P59175,N5170,2025-09-06 04:32:59,"September 06, 2025 05:14AM",Physical Therapy,West,The nurse monitored the strength training. The patient is stable.
+464fec10-e601-4684-96f0-26586fb0403c,P47988,N5647,2025/08/19 22:40,2025-08-19 23:18:04,Physical Therapy,South,The nurse encouraged the mobility exercise. The patient is weak. Monitoring is required.
+562074e7-36e0-468e-9ad1-a3146e2948f0,P34495,N3028,2025-08-24 05:22:57,2025-08-25 04:31:30,Wound Care,North,The nurse dressed the incision site. The patient is comfortable.
+edadd404-bb7e-4a53-81c9-0f66099237a8,P64231,N4983,2025-09-02 16:55:56,,Medication Administration,East,The nurse administered the oral dose. The patient is weak. Monitoring is required.
+924e4c0b-daa2-4bf6-ad20-052ffae38c99,P55975,N9346,2025-09-15 15:56:37,2025/09/15 17:49,General Check-up,West,Review is required. The nurse reviewed the oxygen level. The patient is weak.
+dcd8e8c9-3dba-484b-a409-3064cdae6781,P68200,N4803,"August 27, 2025 10:26PM",08/28/2025 00:24,Wound Care,South,The nurse applied the incision site. !!! The patient is restless. ///\\ Urgent is required. ***CONFIDENTIAL***
+25b72388-268f-44cd-ba33-886fd9f35162,P92552,N9851,2025-08-23 19:58:11,2025/08/23 20:29,Wound Care,North,Review is required. The nurse dressed the bandage. The patient is improving.
+dd9cf6ff-6a7b-4712-9404-30eff996ef4a,P46024,N9346,2025-08-21 08:26:11,,Wound Care,South,Ongoing assessment is required. The nurse cleaned the wound dressing. The patient is improving.
+1bb16ceb-7907-4c42-9a06-61a44ff05c76,P95038,N9851,2025-09-17 16:25:16,2025-09-17 18:04:16,Physical Therapy,East,The nurse assisted the strength training. The patient is weak. Monitoring is required.
+46779511-2cc4-4c8a-bbf8-05f4c3d350fa,P19504,N9993,09/07/2025 02:26,09/07/2025 03:23,Medication Administration,Easst,The nurse delivered the IV line. The patient is comfortable.
+5e03184f-d261-46e5-94ac-fecc44f02661,P12020,N1252,2025-09-09 21:21:13,2025-09-09 22:01:13,Wound Care,East,Action is required. The nurse changed the bandage. The patient is restless.
+a7c0d48c-26d5-47f4-a5c6-97b93fb08c0b,P60703,N1066,2025-08-20 20:30:41,2025-08-20 21:42:41,Medicatn Adminstratino,East,
+59daf506-1ac8-4657-a440-f2bb2f372a74,P88715,N9851,2025-09-02 13:11:40,2025-09-02 13:26:40,Physical Therapy,North,The nurse monitored the range of motion. The patient is improving. Review is required.
+de17b966-fbde-4da5-b36a-c171809f614b,P24047,N6025,2025-09-07 09:30:12,"September 07, 2025 10:14AM",Wound Care,North,The nurse changed the incision site. The patient is comfortable.
+80ab2de9-1598-4081-ace5-2b7f7b8f39e4,P77744,N8957,2025-09-17 16:22:10,2025-09-17 17:44:10,Medication Administration,East,Monitoring is required. The nurse administered the injection. The patient is dizzy.
+afe0ffa5-0230-4dd6-9968-b47c2140fb8d,P82600,N8991,2025-09-17 09:19:04,2025-09-17 10:47:04,Physical Therapy,Notrh,The nurse monitored the gait practice. The patient is improving. Follow-up is required.
+b5d08dee-8e18-4f56-bd6b-3801c163e84f,P12283,N9403,2025/09/16 04:27,2025-09-16 04:37:25,General Check-up,South,
+88a1f2bc-66e1-430e-9dd1-e83008e4c59e,P57765,N7717,2025-09-01 00:00:50,2025-09-01 00:42:50,Physical Therapy,West,The nurse assisted the mobility exercise. The patient is stable.
+c16e9f9a-0f46-44b9-a692-eb31a84c77f1,P67771,N2804,2025-09-01 10:12:24,09/01/2025 10:32,Physical Therapy,East,Monitoring is required. The nurse monitored the mobility exercise. The patient is improving.
+86c43b39-4ca5-4c6e-a425-abf66d420ad1,P57765,N1960,"September 08, 2025 03:55AM",,Wound Care,South,ASAP is required. The nurse cleaned the bandage. The patient is restless.
+7373ef08-1987-4048-ac11-d1a378119774,P22320,N9438,2025-09-18 08:58:39,2025-09-18 09:54:39,Physical Therapy,North,The nurse monitored the gait practice. The patient is weak. Ongoing assessment is required.
+085d14d3-b90e-40df-89a7-5a6bd9036c04,P50571,N5881,2025-08-19 18:38:44,2025-08-19 20:33:44,Medication Administration,North,The nurse delivered the IV line. N/A The patient is comfortable. ///\\
+4d87a7a6-aa4b-46d0-8efb-afbf6649c4da,P20227,N7802,2025-08-31 14:55:36,,Physical Therapy,South,The nurse guided the strength training. The patient is in pain. Critical is required.
+06d6de30-a663-452a-9492-6c804878a4db,P46752,N4178,2025-08-30 03:59:02,2025-08-30 05:23:02,Medication Administration,East,The nurse administered the IV line. The patient is improving. Review is required.
+63a5bc5e-2588-48ce-854f-6462c24d99a7,P23155,N3088,2025-09-16 00:57:56,2025-09-16 00:58:29,General Check-up,East,The nurse observed the vital signs. The patient is comfortable.
+3cd56ad9-cee4-4756-8cf3-131b3080bfa9,P54879,N3997,2025-08-22 19:22:47,2025-08-22 19:54:47,Wound Care,East,Monitoring is required. The nurse changed the bandage. The patient is improving.
+b6c1f62a-a540-45f3-89c8-e2bf2c792199,P59451,N8221,2025-08-26 07:50:39,08/27/2025 00:41,Medication Administration,South,The nurse provided the oral dose. The patient is comfortable.
+59d106db-9f44-4a46-b7f9-d459adff9838,P63554,N4701,2025-08-27 02:45:01,2025-08-27 03:43:01,Medication Administration,West,The nurse administered the oral dose. ###$$$%%%^^^ The patient is in pain. >>>???<<< Urgent is required. ***CONFIDENTIAL***
+c8cbb8db-2461-47e4-97ca-28ca24dd1dc1,P62507,N5562,2025/08/23 00:01,2025-08-23 00:23:50,Medication Administration,North,Monitoring is required. The nurse delivered the medication. The patient is weak.
+0da1fff3-cb4b-43a3-aaf7-dbc1292cabe8,P30262,N5590,2025-08-20 05:46:28,2025-08-20 16:56:35,Wound Care,North,The nurse dressed the wound dressing. The patient is dizzy. Review is required.
+feba288c-2205-48f1-a2a0-6165d8b69942,P63554,N5633,2025-09-02 12:12:11,2025-09-02 12:28:11,Medication Administration,South,The nurse delivered the IV line. The patient is improving. Review is required.
+a94d75b9-64f2-4f90-86b3-f3bad0a0c2c3,P23151,N9438,2025-09-03 05:56:34,2025-09-03 06:46:34,Wound Care,East,
+17db5d08-6999-465c-93d4-b4b3589f6702,P31656,N3178,2025-08-20 01:22:39,2025-08-20 01:55:39,Medication Administration,East,Monitoring is required. The nurse provided the IV line. The patient is weak.
+c477a7bd-d0e7-43d1-8c1d-30ef138940da,P22018,N8286,"September 11, 2025 07:33PM","September 11, 2025 08:00PM",Medication Administration,South,Follow-up is required. The nurse administered the oral dose. The patient is improving.
+1ad5a6e7-8d88-4bc1-8692-789a8c543479,P38229,N7368,2025-08-28 13:30:03,2025-08-28 14:42:03,General Check-up,Wsst,The nurse monitored the oxygen level. The patient is in pain. Urgent is required.
+bace29b3-2759-44e4-91bb-89f32bc2680b,P73397,N8880,2025-09-10 10:42:41,2025-09-10 11:59:41,Wound Care,North,The nurse changed the bandage. The patient is dizzy. Monitoring is required.
+d47da7d4-5404-4d34-bf34-eaa3cba48b58,P81462,N7676,2025-09-15 11:16:28,2025-09-15 13:12:28,General Check-up,West,The nurse checked the temperature. The patient is stable.
+57965f7b-ec1b-4439-8cac-b6eb7fa8d4ae,P13387,N3978,2025/09/18 00:21,"September 18, 2025 01:07AM",General Check-up,East,
+c865481e-2276-499a-a619-246cc108cc4c,P21555,N5698,"September 09, 2025 01:46PM",2025-09-09 14:14:08,Medication Administration,North,Review is required. The nurse delivered the injection. The patient is weak.
+f871549e-fa3f-4458-b9f3-4e5d49b31b92,P56867,N2340,2025/09/15 13:02,2025-09-15 13:02:43,Wound Care,East,The nurse applied the incision site. The patient is weak. Ongoing assessment is required.
+1679578e-beb9-4765-ad7c-58124a5c51da,P64387,N9403,2025-09-02 16:05:49,,Medication Administration,West,Urgent is required. The nurse provided the injection. The patient is in pain.
+7e8a038b-05c2-4bf4-a559-dbfcf8675fae,P17551,N8221,2025-09-09 16:52:14,2025-09-09 18:46:14,Medicatn Adminstratino,West,The nurse applied the incision site. ///\\ The patient is dizzy. ##--## Ongoing assessment is required. N/A
+83e9b456-657f-4eab-94f1-ae90fd792ee1,P86552,N1415,"September 12, 2025 03:14PM",2025/09/12 16:21,Wound Care,East,ASAP is required. The nurse dressed the incision site. The patient is restless.
+dcb5cd04-4b55-4e2e-bbf2-28acd20a1d4a,P47490,N2838,2025-09-11 07:15:57,2025-09-11 07:28:57,General Check-up,South,Ongoing assessment is required. The nurse monitored the vital signs. The patient is weak.
+deba56cb-d0b1-4aa5-a55d-ba261589c9b3,P34329,N3763,2025-09-04 14:58:53,2025-09-04 15:52:53,Wound Care,North,Monitoring is required. The nurse cleaned the wound dressing. The patient is weak.
+0f81dff3-5103-4668-8aed-d1fbcdd7c45c,P52569,N1568,09/05/2025 23:26,2025-09-06 01:26:21,General Check-up,South,The nurse monitored the blood pressure. The patient is restless. Urgent is required.
+c15d4bbe-a154-4e35-ab15-75c623cf4b1c,P40940,N5170,2025-09-11 00:57:27,09/11/2025 01:56,Physical Therapy,South,The nurse monitored the mobility exercise. The patient is comfortable.
+e288d71b-4874-486a-826d-3b4e3598560f,P33297,N2536,2025-08-20 00:40:37,2025-08-20 01:01:37,Physical Therapy,Wsst,Critical is required. The nurse assisted the mobility exercise. The patient is in pain.
+d6374c7d-5d55-4853-b9b3-620b9b29733d,P75431,N3280,2025-09-18 11:34:02,2025-09-18 11:58:02,Wound Care,East,The nurse dressed the incision site. The patient is comfortable.
+34c9660d-2160-4c0d-8728-31de552f9a5b,P38243,N9098,2025-09-11 10:47:07,"September 11, 2025 11:46AM",Physical Therapy,South,
+b46b18c5-a888-402e-9bd8-449171e03e65,P34329,N2804,2025-09-16 18:21:25,09/16/2025 19:07,Medication Administration,East,The nurse administered the medication. The patient is dizzy. Follow-up is required.
+0b8d8b64-ae62-4ec9-b903-e953eb19ae27,P55858,N7658,2025-09-06 22:04:48,2025/09/06 23:07,Medication Administration,South,
+969ae379-b51e-47c9-813d-68160dbb33c2,P28261,N4929,2025-09-07 02:59:22,2025-09-07 04:19:22,Physical Therapy,North,Monitoring is required. The nurse monitored the strength training. The patient is dizzy.
+54127534-4cdf-44d3-b583-72fd78a147d2,P54879,N3978,2025-09-16 11:51:21,2025-09-16 13:23:21,General Check-up,North,
+b5954da2-8ded-4031-8ef4-8d76917d078f,P99072,N4929,2025-09-01 15:12:15,2025-09-01 16:33:15,Medication Administration,South,Action is required. The nurse provided the injection. The patient is restless.
+6e071d3b-d4fa-4464-b1fe-e0374b59bc7a,P43192,N3507,2025-08-25 02:05:19,2025-08-25 03:56:19,Physical Therapy,West,ASAP is required. The nurse assisted the gait practice. The patient is restless.
+97d62f0a-bc1e-451b-bf5f-58d46db198f2,P19151,N8880,2025-09-02 04:59:05,09/02/2025 05:35,Medication Administration,West,
+0baf7702-4a9f-45b9-b262-3c79eca615f7,P16979,N1380,2025-09-16 10:52:23,,General Check-up,West,Follow-up is required. The nurse observed the oxygen level. The patient is dizzy.
+dd595444-4cfc-4784-abbd-3a9a8cb7261f,P29486,N4983,2025-08-26 19:17:06,2025-08-26 19:45:06,Medication Administration,West,The nurse provided the injection. The patient is comfortable.
+17df622b-30f8-4303-98bc-a293d0cf9b98,P51401,N5698,2025-08-24 08:59:35,08/24/2025 10:27,Medication Administration,West,Review is required. The nurse administered the injection. The patient is improving.
+a79640d2-98ab-4919-814e-5e95c5874445,P66550,N2340,2025-09-05 13:23:05,2025-09-05 13:59:05,General Check-up,West,The nurse observed the blood pressure. ///\\ The patient is in pain. ***CONFIDENTIAL*** Action is required. ###$$$%%%^^^
+340255f1-ec47-4e60-a2a4-6d4e781a2f03,P84726,N1451,2025-08-21 10:12:04,2025-08-21 10:24:04,Medication Administration,South,Follow-up is required. The nurse provided the injection. The patient is dizzy.
+a3910595-5fd2-4ec6-9e6c-e14fd404caf8,P24424,N3933,2025-09-07 01:13:59,09/07/2025 02:53,Medication Administration,Easst,The nurse provided the injection. The patient is stable.
+92396783-74e8-4445-bc9e-01fe9b10532b,P85203,N3012,09/07/2025 11:32,2025-09-07 11:44:28,General Check-up,South,The nurse checked the vital signs. The patient is comfortable.
+59edd119-1eb0-4f4f-b565-8f9db3358578,P47988,N2009,2025-08-30 04:37:51,,Medication Administration,South,The nurse provided the oral dose. xyz123 The patient is restless. ##--## Action is required. xyz123
+d1d1c5e3-f74c-4e10-b119-97914a9af8d1,P76956,N1975,"August 29, 2025 05:18AM",2025-08-29 06:05:13,Medicatn Adminstratino,East,
+ac5b7f0c-78d7-45b7-aae9-19529aa9a6e0,P22982,N5170,2025-08-25 09:51:43,,Pyhcisal Therapy,East,The nurse observed the temperature. The patient is stable.
+de17b966-fbde-4da5-b36a-c171809f614b,P32028,N7325,2025/09/04 11:24,2025-09-04 12:16:41,General Check-up,West,Critical is required. The nurse monitored the vital signs. The patient is restless.
+6506fee8-ce89-4ee0-a601-e90dacc0e64b,P36793,N3933,2025-08-19 23:39:00,"August 19, 2025 11:48PM",Medication Administration,Easst,The nurse delivered the oral dose. The patient is dizzy. Ongoing assessment is required.
+1b2c82d4-3b36-4ad7-b39f-9c5a6bc4db08,P84726,N7802,2025-08-30 19:31:18,2025/08/30 20:23,General Check-up,West,
+9d87b85d-44cd-4520-9e0f-a1f243c819c4,P36573,N5562,2025-08-22 09:35:03,2025-08-22 11:22:03,General Check-up,North,The nurse reviewed the blood pressure. The patient is in pain. ASAP is required.
+3769ca44-7ee7-4071-90fe-a809ad6bb16d,P90583,N4803,2025-08-24 21:51:45,"August 24, 2025 10:47PM",Medication Administration,North,
+7a988e0d-2a0b-4e94-8e00-9a10b2265b6f,P80833,N3763,2025/08/26 20:10,2025-08-26 20:53:27,Physical Therapy,East,
+c5bf398c-bbeb-470e-89d1-e37050801d1e,P99404,N6598,2025/09/14 04:53,2025-09-14 06:11:07,Physical Therapy,West,
+9a1808f8-c6a8-4ed6-80db-502c29c679a9,P18410,N9926,2025-09-01 18:19:50,2025-09-01 19:57:50,Wound Care,West,The nurse applied the bandage. The patient is restless. Action is required.
+ca7e8586-7a2a-42aa-a931-12b9650c2ca4,P79915,N3978,2025-09-12 13:40:35,2025-09-12 14:14:35,Wound Care,South,The nurse dressed the incision site. The patient is stable.
+bb263728-8aca-451e-af22-0002b91c8c8c,P89830,N4178,2025-09-13 16:26:21,2025/09/13 17:55,Wound Care,South,The nurse cleaned the wound dressing. The patient is improving. Review is required.
+ac4252c7-4dd7-4d52-9a3c-0988e028c678,P81529,N6322,2025-08-28 02:02:45,08/28/2025 02:54,General Check-up,North,ASAP is required. The nurse reviewed the vital signs. The patient is in pain.
+fbb16302-0b53-4862-beb9-f9646a145e4f,P56744,N9926,08/23/2025 19:32,2025-08-23 19:58:31,Medication Administration,North,Critical is required. The nurse provided the oral dose. The patient is in pain.
+108e0f28-0377-483c-82f2-c23f1a6c298c,P67361,N9926,2025-08-29 12:22:42,"August 29, 2025 01:08PM",Physical Therapy,South,
+85c62ced-fc96-41de-8b4f-3c0330806f6c,P52296,N4803,2025-09-08 06:20:47,09/08/2025 07:26,Physical Therapy,West,The nurse assisted the strength training. ***CONFIDENTIAL*** The patient is comfortable. N/A
+fe5239d8-3fbd-499b-ba02-c7b9caddc9ae,P90140,N3763,2025-09-11 11:13:09,2025/09/11 13:13,Physical Therapy,Easst,The nurse guided the mobility exercise. The patient is comfortable.
+e2b424ab-fbb7-4cb7-a02c-0e52d4e66afc,P12020,N1092,2025/09/12 13:29,2025/09/12 15:11,Physical Therapy,Notrh,Action is required. The nurse assisted the gait practice. The patient is restless.
+49080040-8adf-4dfe-b6ee-696c9e8a382b,P13508,N9880,09/02/2025 04:08,2025/09/02 04:36,Wound Care,South,The nurse changed the bandage. The patient is restless. Critical is required.
+4fa9de1e-8e10-4072-9d61-7c0bf41bdb53,P59623,N4929,2025-09-01 00:53:51,2025-09-01 01:53:51,Wound Care,East,The nurse dressed the wound dressing. The patient is stable.
+0a4240c0-25c9-4831-8e8e-9d220f9aeff5,P33297,N7948,2025-09-09 12:11:46,2025-09-09 12:26:46,Medication Administration,East,The nurse delivered the medication. The patient is improving. Review is required.
+25e18a0c-9cf3-427c-bedf-0a27e8060396,P52548,N4192,2025-09-09 20:57:15,2025-09-09 22:01:15,Wound Care,East,
+02fcc9aa-4d2f-45b7-aa14-ffef29bfac34,P25961,N9993,2025-09-16 00:16:16,2025-09-16 00:24:24,Wound Care,South,The nurse changed the wound dressing. The patient is improving. Ongoing assessment is required.
+9bceb4d7-fafe-40cb-9dcb-f55c692c148f,P19515,N9403,2025-09-10 06:30:05,2025-09-10 06:51:05,General Check-up,South,Review is required. The nurse checked the temperature. The patient is weak.
+164b1d50-78b8-432c-8adb-19f0fc700d2a,P93308,N2273,2025/09/13 14:29,09/13/2025 15:59,Medicatn Adminstratino,North,The nurse encouraged the strength training. The patient is weak. Monitoring is required.
+3427c970-a881-470b-967d-6c32fd6bbb2d,P49170,N7676,2025-09-03 02:08:18,2025-09-03 04:00:18,Wound Care,South,The nurse cleaned the bandage. The patient is comfortable.
+b6f9a143-aec6-4ccf-ac75-ed5fdfae3115,P47919,N3178,2025-09-06 10:10:45,2025-09-06 10:38:45,General Check-up,East,The nurse monitored the oxygen level. The patient is stable.
+7654a8bc-5230-4314-ad77-ff7cbd11f6c8,P96127,N1565,08/26/2025 05:06,2025-08-26 06:48:44,Physical Therapy,North,The nurse encouraged the mobility exercise. The patient is in pain. Action is required.
+f3986685-ea16-46c7-8997-ad1f86927b15,P35424,N7325,2025/09/12 03:15,2025/09/12 04:30,Wound Care,South,Monitoring is required. The nurse cleaned the bandage. The patient is weak.
+3f8e6adb-632c-4b92-ae42-94a6088284f6,P62201,N5275,2025-09-08 04:32:04,09/08/2025 05:34,Physical Therapy,West,The nurse encouraged the range of motion. The patient is improving. Review is required.
+b1a51044-6804-46c4-a0e7-ed3fe2793a87,P66550,N9880,2025-08-25 01:25:20,,Wound Care,North,Action is required. The nurse applied the bandage. The patient is restless.
+5222793f-ba51-497d-ba92-1778e73542f0,P12727,N2340,2025-09-01 06:07:26,,General Check-up,East,The nurse checked the blood pressure. The patient is comfortable.
+7e16d4ee-6b61-4738-bd7c-452d04ce47c2,P36841,N8721,2025-09-13 18:51:33,2025/09/13 19:31,General Check-up,East,The nurse checked the vital signs. The patient is comfortable.
+b27d999a-f258-405d-9540-d117479a5240,P23155,N3681,2025-09-09 12:42:09,09/09/2025 14:08,Medication Administration,East,Monitoring is required. The nurse administered the injection. The patient is dizzy.
+d170ce8d-056d-4d69-9892-ea02186e7a2f,P75431,N1519,"August 26, 2025 11:05PM",2025-08-27 03:17:26,Wound Care,East,The nurse dressed the bandage. The patient is stable.
+a7d5d902-dd3a-4ce8-a7c5-40c29718ce6a,P18410,N4754,2025-09-13 09:49:16,2025-09-13 10:21:16,Wound Care,West,Action is required. The nurse dressed the bandage. The patient is restless.
+b1494577-8ec2-4379-b929-d250b00c0355,P87828,N8955,2025-09-01 04:26:26,"September 01, 2025 06:21AM",Physical Therapy,North,The nurse monitored the gait practice. The patient is comfortable.
+0aeb7cf8-2802-4cd3-8bf8-1a9f6f84949f,P90053,N3933,2025-09-07 20:45:44,2025-09-07 22:21:44,General Chek-up,East,Review is required. The nurse encouraged the gait practice. The patient is dizzy.
+d3488378-4567-4631-9596-b1447e6d3bec,P34047,N8916,2025-09-06 18:18:41,,Medicatn Adminstratino,North,The nurse checked the oxygen level. The patient is improving. Monitoring is required.
+8fb8cbc7-e4ec-4280-abcf-750775390f4c,P10234,N9346,2025-08-24 20:07:27,2025-08-24 21:34:27,Medicatn Adminstratino,South,Monitoring is required. The nurse delivered the oral dose. The patient is dizzy.
+c3de97b5-4460-4923-8713-06aee2060fc5,P91039,N6515,2025-08-29 05:34:42,2025-08-29 06:22:42,Physical Therapy,West,Urgent is required. The nurse encouraged the range of motion. The patient is restless.
+1e257ff4-bdd5-4629-a392-30d0af65d729,P29486,N4881,2025-09-15 20:41:35,2025-09-15 21:34:35,General Check-up,West,
+e60db5a4-f79a-43a7-a2f2-61fce0bfffa6,P46495,N9993,2025-09-13 07:12:35,2025-09-13 08:22:35,Medication Administration,East,The nurse provided the oral dose. The patient is stable.
+8a4f107f-1f0f-4816-97b6-202a6c0c1238,P97025,N8286,2025-08-22 10:35:54,2025-08-22 10:36:26,Physical Therapy,West,
+7a1d18d5-1615-4cad-8cb7-81217dc34373,P32952,N4803,09/06/2025 07:50,2025-09-06 08:37:01,Physical Therapy,North,The nurse assisted the range of motion. The patient is improving. Review is required.
+2ee6713f-207f-44d9-944f-968daebe97c2,P38281,N1991,2025-09-11 03:22:10,2025-09-11 03:36:10,Medication Administration,North,The nurse provided the IV line. The patient is restless. Action is required.
+493eac5b-6fc0-4210-845c-a9c344f1c149,P34047,N1568,2025-09-16 23:41:47,2025/09/17 01:28,Medication Administration,West,The nurse provided the injection. The patient is comfortable.
+a6742a5c-02b3-4d78-a9e9-78ecf2fba785,P61749,N5562,"September 04, 2025 06:18AM",2025-09-04 06:29:53,Medication Administration,East,The nurse provided the oral dose. The patient is comfortable.
+86fdaabf-7253-4dec-ada3-a7914bdf5c51,P67511,N9196,2025-08-27 20:45:25,,Wound Care,South,The nurse changed the bandage. The patient is improving. Ongoing assessment is required.
+1ad9d958-03de-494f-a93b-d64a53e74f02,P69047,N7717,2025-09-13 19:50:05,2025-09-13 21:31:05,Physical Therapy,South,ASAP is required. The nurse assisted the mobility exercise. The patient is restless.
+50596b00-933b-4e91-acf4-8cfbe3984e36,P78241,N3507,2025-09-09 12:11:27,2025-09-09 13:13:27,General Check-up,West,The nurse monitored the patient condition. The patient is comfortable.
+c227bb85-c604-4132-a566-e63af616f3b0,P19469,N9783,2025-09-16 05:56:13,2025-09-16 06:54:13,Physical Therapy,West,The nurse guided the mobility exercise. The patient is weak. Ongoing assessment is required.
+0a5b9f42-efed-4219-87c0-a62bbc4f6683,P42709,N7969,2025-08-24 02:49:07,2025-08-24 04:15:07,Physical Therapy,West,Monitoring is required. The nurse assisted the gait practice. The patient is dizzy.
+b8d57d45-6866-4076-8601-07b88a8fcc94,P51682,N7325,2025-09-02 02:28:44,09/02/2025 03:23,Wound Care,North,Follow-up is required. The nurse changed the incision site. The patient is weak.
+8e16b0b4-99a1-4e55-9420-bb07b92baec2,P61033,N7368,2025-08-24 15:25:09,2025-08-24 15:41:09,Medication Administration,North,Urgent is required. The nurse delivered the oral dose. The patient is restless.
+104b6d82-5474-4852-a886-52bc9551bccc,P80833,N4803,2025-08-21 11:55:18,2025-08-21 12:40:18,Physical Therapy,South,Ongoing assessment is required. The nurse assisted the range of motion. The patient is improving.
+e65e4913-38ef-4957-9625-c5a95d0ae842,P29092,N2273,2025-09-03 23:08:54,09/04/2025 00:34,Physical Therapy,South,Ongoing assessment is required. The nurse monitored the gait practice. The patient is weak.
+bae49965-f435-447b-b2b4-7c70a74f2940,P85799,N2804,2025-09-09 02:24:09,2025-09-09 04:19:09,General Check-up,North,The nurse observed the vital signs. The patient is stable.
+7a1b5209-b044-470a-a5bd-16def5cb033d,P70117,N2044,2025-09-15 12:32:53,2025-09-15 13:02:53,Physical Therapy,West,The nurse encouraged the mobility exercise. ##--## The patient is restless. xyz123 Critical is required. ~~~
+31e6d04c-02cc-4adf-bd9b-94d47c0077bc,P88018,N6068,2025/09/02 11:28,2025-09-02 13:22:24,General Check-up,South,The nurse observed the oxygen level. The patient is weak. Follow-up is required.
+ee4c2131-f1ed-487b-90d1-f8494387cf41,P42361,N3763,2025-09-02 15:57:56,2025-09-02 16:52:56,Medicatn Adminstratino,West,The nurse observed the blood pressure. The patient is comfortable.
+46694651-64df-41cd-a797-4a249783f532,P48480,N1991,2025-09-05 00:10:09,2025-09-05 00:25:09,General Check-up,West,The nurse reviewed the vital signs. The patient is comfortable.
+0584eb8a-6447-4d5b-aafc-5b22cdfe8d7f,P52296,N2536,2025-09-05 05:37:06,2025-09-05 07:37:06,Physical Therapy,Easst,Monitoring is required. The nurse encouraged the range of motion. The patient is weak.
+55d2cec3-bf91-474b-b18b-57eb0965f927,P69982,N9346,2025-08-28 19:53:48,2025-08-28 23:26:44,Medication Administration,West,The nurse administered the oral dose. The patient is in pain. ASAP is required.
+4340cea8-5446-42f4-8bc8-a506f9940002,P37321,N2141,2025-09-17 00:27:48,2025-09-17 00:34:37,General Check-up,East,The nurse monitored the vital signs. The patient is comfortable.
+fe5239d8-3fbd-499b-ba02-c7b9caddc9ae,P72592,N7368,2025-09-13 05:31:16,2025-09-13 06:00:16,Physical Therapy,North,The nurse monitored the mobility exercise. The patient is stable.
+56f3abd2-7e0b-464a-98f2-775cb256f3eb,P30993,N1841,2025-08-25 14:29:09,2025-08-25 16:09:09,Physical Therapy,West,Urgent is required. The nurse guided the range of motion. The patient is in pain.
+4e42015d-68ad-440c-b3b9-165074836fcf,P37942,N2248,2025/09/17 10:55,2025-09-17 12:05:13,Wound Care,East,Follow-up is required. The nurse applied the bandage. The patient is weak.
+56eb76c1-5cfc-4ac4-8054-1d4010533a9f,P87260,N8955,2025/09/13 17:40,2025/09/13 17:57,Wound Cae,North,The nurse delivered the IV line. The patient is restless. Action is required.
+5b13aeab-99fd-4569-b2ea-a7f81555e7c9,P94628,N3997,09/07/2025 21:32,2025-09-07 23:14:44,General Check-up,East,The nurse monitored the blood pressure. The patient is improving. Ongoing assessment is required.
+c0671144-1e77-44e7-a5b8-48d2b1458dd4,P77745,N3012,2025-09-11 10:22:33,2025-09-11 12:05:33,Wound Care,East,Ongoing assessment is required. The nurse changed the bandage. The patient is dizzy.
+e2ffa574-a84e-47a6-b3d5-da10afb478f5,P25521,N6598,2025-09-09 20:47:00,2025-09-09 21:42:00,Physical Therapy,South,Follow-up is required. The nurse encouraged the strength training. The patient is improving.
+a495a506-3073-426f-8877-4324c6193a05,P13878,N3280,2025/09/08 11:52,09/08/2025 12:12,Medication Administration,Wsst,Follow-up is required. The nurse administered the injection. The patient is dizzy.
+cc45d71a-f9e0-4776-bf99-19b64b591191,P81462,N1415,2025-09-04 21:51:19,"September 04, 2025 10:36PM",General Check-up,West,The nurse monitored the vital signs. The patient is comfortable.
+75a52131-a31f-4974-acd6-516db989432f,P13378,N3012,2025/08/30 21:05,2025-08-30 21:16:15,Wound Care,South,The nurse applied the incision site. The patient is stable.
+e5289891-10ef-419a-9f1c-a5ca68bdc0ce,P20842,N8068,2025-08-21 19:27:15,,Medication Administration,South,
+e7026a6b-94a3-4e6e-8734-77e2a499d22a,P52769,N5472,2025-09-14 11:27:23,2025-09-14 11:47:23,Wound Care,East,The nurse cleaned the bandage. The patient is comfortable.
+3d6fabb3-f739-4338-90da-889a54c59369,P49432,N3507,2025-08-31 16:51:53,2025-08-31 17:08:53,Medication Administration,Easst,The nurse delivered the medication. The patient is dizzy. Review is required.
+fc0a16ad-1efb-48ee-b73f-f25651356fc7,P35010,N1148,2025-09-17 14:07:33,,Wound Care,South,Action is required. The nurse dressed the wound dressing. The patient is restless.
+192ef5d9-4c8c-418e-8c8f-bcc297db98d6,P11157,N2838,09/16/2025 12:13,2025-09-16 13:32:23,Physical Therapy,East,Monitoring is required. The nurse assisted the gait practice. The patient is dizzy.
+feea37ab-f72c-4358-a747-44d39830d39b,P82600,N7368,2025-08-31 01:21:05,2025-08-31 02:10:05,Wound Care,North,
+951fc19e-ff71-471f-b681-412642daae02,P35358,N1415,2025-09-12 16:54:39,2025-09-12 18:24:39,Medication Administration,South,The nurse delivered the oral dose. The patient is weak. Ongoing assessment is required.
+6d26d6c6-3dc4-4dc3-9af8-67199f5a4947,P54534,N4192,09/01/2025 00:11,"September 01, 2025 11:12PM",Medication Administration,South,
+0d805218-0b37-4d71-b7d4-df0f9b380de0,P30993,N7276,2025-09-02 17:16:38,2025-09-02 18:57:38,Medication Administration,South,Ongoing assessment is required. The nurse provided the injection. The patient is improving.
+00c09319-05c3-459d-8297-40b255ec3ab5,P45602,N3088,09/10/2025 13:53,2025-09-10 15:26:05,General Check-up,North,The nurse observed the patient condition. The patient is dizzy. Review is required.
+055864b0-0dd5-47e2-8fab-ec0072af67b2,P94171,N2536,09/16/2025 09:31,2025-09-16 10:52:50,Physical Therapy,West,The nurse monitored the range of motion. The patient is in pain. Critical is required.
+8381a717-5870-4d85-943c-594b0a546d5b,P61749,N7969,2025-09-04 05:32:14,2025-09-04 06:55:14,Medication Administration,East,
+081eb18b-b96d-48a7-abe9-eebaebff1874,P62477,N9428,2025-09-13 23:35:17,2025-09-14 01:35:17,Wound Care,West,The nurse applied the bandage. The patient is improving. Review is required.
+cc0d7cc3-7f97-4569-9a93-55d2ae59217e,P50501,N1568,"August 25, 2025 04:40PM",2025-08-25 17:00:12,Wound Care,West,Review is required. ///\\ The nurse dressed the incision site. ##--## The patient is weak. ~~~
+da06e122-99c0-49de-bc46-52addf5537e2,P38920,N7802,"August 29, 2025 07:27PM",2025-08-29 21:02:56,Physical Therapy,Notrh,ASAP is required. The nurse encouraged the strength training. The patient is in pain.
+671a511e-07d2-40d4-8f08-5e2a111dc5c3,P30993,N5562,2025-09-15 04:43:17,2025-09-15 05:57:17,Physical Therapy,North,The nurse encouraged the strength training. The patient is in pain. Critical is required.
+35ee97ec-08c3-4019-aa76-0d3a9d518641,P80894,N4803,2025-09-16 21:03:57,2025-09-16 22:07:57,Physical Therapy,East,The nurse monitored the gait practice. The patient is comfortable.
+fda6c42e-18e4-4819-b89e-316ed157571e,P73397,N1565,2025-09-08 18:21:42,2025-09-08 19:23:42,Medication Administration,West,The nurse delivered the injection. The patient is stable.
+e3549d90-bbe8-4568-a094-14e790dee2ba,P97823,N3763,2025-08-27 02:40:33,"August 27, 2025 04:24AM",Medication Administration,East,The nurse provided the oral dose. The patient is weak. Ongoing assessment is required.
+19f3761a-fe97-42a0-8bb3-1deaeaaf06ee,P59068,N9403,2025-09-01 17:27:52,09/01/2025 19:14,Wound Care,North,The nurse cleaned the wound dressing. The patient is improving. Ongoing assessment is required.
+7230acae-6aeb-46ec-9e2b-544e861a0881,P11374,N3681,2025-09-04 11:29:02,2025-09-04 12:02:02,Wound Care,South,The nurse dressed the incision site. The patient is comfortable.
+cfe3b82b-398e-4e8d-80e1-b2605a7dc5d1,P64395,N9196,2025-08-31 20:33:44,2025-08-31 22:19:44,Medicatn Adminstratino,North,The nurse dressed the wound dressing. The patient is comfortable.
+2da16d67-f854-4f36-b2fb-236ed630c6c3,P64231,N1092,2025-09-05 01:43:21,2025-09-05 03:27:21,General Check-up,West,
+5c88fcf3-7bba-4766-8555-cebfd30d5a60,P57322,N4701,2025-09-07 09:49:34,2025/09/07 10:46,General Check-up,South,The nurse checked the vital signs. The patient is dizzy. Monitoring is required.
+c3f24c7e-e345-4cee-9982-29cc493ef7b0,P90140,N2273,2025-08-24 14:14:14,2025-08-24 14:53:14,General Check-up,North,The nurse monitored the blood pressure. The patient is dizzy. Follow-up is required.
+80acfe90-4c54-4602-accb-81ae750e6d63,P19151,N7325,08/28/2025 18:26,2025/08/28 19:37,General Chek-up,South,
+779693ff-5060-41f0-8b64-9e0f9a5d9d35,P98724,N3012,2025/09/11 08:47,2025-09-11 10:31:15,Medication Administration,East,The nurse administered the oral dose. !!! The patient is restless. ***CONFIDENTIAL*** Urgent is required. ~~~
+4554cde0-8132-4738-9392-3ca535858cd4,P67591,N8955,2025-09-07 01:47:58,2025-09-07 02:41:58,Medication Administration,West,The nurse delivered the medication. The patient is comfortable.
+c62b86cf-1f2c-40a0-b2f0-9fbca39a6be9,P42865,N7676,"August 22, 2025 02:45PM",08/22/2025 16:20,Wound Care,North,The nurse applied the bandage. The patient is stable.
+11cb49a8-688e-4b0c-a05a-603f5be90183,P70172,N1960,2025-08-23 00:01:41,2025-08-23 00:34:41,Wound Care,East,ASAP is required. The nurse applied the incision site. The patient is in pain.
+6f0de4d4-a206-4f24-b7f9-8ce35ec29da3,P17053,N9993,2025-09-04 09:48:13,2025-09-04 11:36:13,Wound Care,South,
+a5ebe011-1b09-495b-86e3-c5dbb646218f,P35131,N5472,"August 31, 2025 05:43AM","August 31, 2025 07:12AM",Physical Therapy,North,The nurse monitored the strength training. The patient is comfortable.
+179ca7be-e056-4bcd-a7ed-341b5ae14414,P47490,N3028,2025-08-29 11:20:05,2025-08-29 12:20:05,Medication Administration,East,Follow-up is required. ##--## The nurse administered the injection. !!! The patient is improving. ~@#`
+8c072a7a-a76d-42ce-b44a-0f4c383b8533,P79693,N8250,2025-09-12 17:28:03,09/12/2025 18:53,General Check-up,North,ASAP is required. The nurse checked the patient condition. The patient is in pain.
+c6b67034-3f21-48fc-8327-4e2804a4deef,P20766,N1991,2025/09/08 22:40,2025-09-08 23:16:02,Medication Administration,South,The nurse administered the injection. ~~~ The patient is dizzy. xyz123 Follow-up is required. ~~~
+a4fbcc06-aa12-4479-a4b2-5cddb27639bf,P79678,N4701,2025/08/23 15:52,2025-08-23 16:11:29,Physical Therapy,East,The nurse assisted the gait practice. The patient is comfortable.
+b46123c8-992f-432f-933b-e36c40709e93,P89830,N4192,2025/08/20 08:55,2025-08-20 09:05:45,Physical Therapy,Easst,The nurse monitored the strength training. The patient is stable.
+27251e8b-1da6-4728-a3ec-0aafb0320712,P81739,N2273,09/09/2025 12:19,,General Check-up,South,Follow-up is required. The nurse checked the vital signs. The patient is dizzy.
+96ba107d-08c2-4395-a5d3-fe1c24885b49,P43502,N3088,2025-09-12 15:02:09,2025-09-12 16:30:09,Medication Administration,East,Follow-up is required. The nurse delivered the IV line. The patient is dizzy.
+d01485a4-fc2e-414d-bb3e-7e48c554d27c,P53862,N9242,2025-09-09 21:58:04,,Physical Therapy,East,Review is required. The nurse assisted the range of motion. The patient is weak.
+0f10228c-1ee0-4d00-a157-64dd35651d21,P36670,N2044,09/10/2025 16:39,2025-09-10 18:37:42,General Check-up,West,The nurse observed the vital signs. ~~~ The patient is stable. ***CONFIDENTIAL***
+c23608a5-ae74-4ba6-b9ec-6abde17058c9,P56363,N2838,2025-09-10 17:31:05,2025-09-10 18:26:05,General Check-up,North,Action is required. The nurse monitored the oxygen level. The patient is in pain.
+23101b7f-b93c-48a6-872b-ea90fee1bd9c,P64375,N1557,2025/09/03 12:20,2025-09-03 12:51:32,General Check-up,Wsst,Critical is required. The nurse monitored the blood pressure. The patient is in pain.
+90138cfa-b96b-4ac0-ba23-1bf64483985d,P87828,N9428,2025-08-20 11:17:26,"August 20, 2025 12:02PM",Wound Cae,Notrh,The nurse observed the vital signs. The patient is restless. Action is required.
+9f3116bd-b0cf-406c-bda5-049c30981013,P48503,N8957,2025-08-29 19:25:33,2025-08-29 19:58:33,Medication Administration,South,The nurse administered the IV line. The patient is weak. Review is required.
+d2bc5bb2-e72e-4fc4-87cd-88f167f135b9,P22982,N5562,2025-09-13 06:55:39,2025-09-13 07:28:39,General Check-up,South,Ongoing assessment is required. The nurse checked the patient condition. The patient is improving.
+65690dfb-bde9-48b1-876f-d3ea4c12ad81,P96882,N4178,"September 02, 2025 02:37AM","September 02, 2025 02:42AM",Wound Care,East,
+2a54b107-bd91-4912-a6ed-4a639d091b38,P92300,N8286,"August 27, 2025 07:06AM",2025/08/27 08:43,Medication Administration,North,The nurse provided the medication. The patient is restless. Critical is required.
+0850911e-b068-45ba-ad1e-a595501f33f7,P74690,N7300,"September 07, 2025 08:29PM",2025-09-08 10:05:06,Medication Administration,South,Review is required. The nurse administered the IV line. The patient is improving.
+65e2d84b-b597-46bf-ad30-761c12d09595,P35010,N9821,2025-08-24 16:50:41,2025-08-24 17:21:41,General Check-up,South,Follow-up is required. The nurse observed the temperature. The patient is improving.
+40935e13-3ad6-4deb-a784-fa659882f006,P67227,N6797,08/24/2025 00:52,2025-08-24 02:28:50,Wound Care,West,The nurse cleaned the bandage. The patient is improving. Review is required.
+0d900c02-8637-46b4-abae-79a28ecaeefc,P57322,N5551,2025/08/22 14:41,"August 22, 2025 04:25PM",Physical Therapy,East,Ongoing assessment is required. The nurse monitored the gait practice. The patient is dizzy.
+537db5e2-9447-4117-a8b5-180d5f2c08f1,P84794,N3507,2025-09-14 17:17:41,09/14/2025 19:02,Medicatn Adminstratino,West,Action is required. The nurse guided the strength training. The patient is in pain.
+f6a57340-e87e-439e-90a8-a2347076af4a,P59581,N5472,2025-09-06 09:33:20,2025-09-06 10:20:20,Medication Administration,East,Follow-up is required. The nurse provided the IV line. The patient is weak.
+8a53da47-d370-4e04-8d4d-6cde81dcb8e1,P40433,N1841,2025-08-26 07:02:34,2025-08-26 07:43:34,General Check-up,North,Ongoing assessment is required. The nurse monitored the oxygen level. The patient is weak.
+167bb77a-5ffa-4c5a-81ed-034ef35e9c58,P94171,N1565,2025-09-10 00:42:36,,Pyhcisal Therapy,South,The nurse delivered the oral dose. The patient is restless. Critical is required.
+d46f0046-390b-4b8b-99dc-892316b9541d,P12126,N2248,08/21/2025 17:17,2025-08-21 17:54:52,Medication Administration,South,
+5fc013eb-9308-4f56-8e8d-004f6d3a8063,P81529,N8916,2025-09-07 15:04:38,2025-09-07 17:04:38,Medicatn Adminstratino,South,Review is required. The nurse administered the oral dose. The patient is dizzy.
+c4ede920-50e5-4f56-8b1d-0d27ff4082dd,P56814,N4701,2025-09-02 22:41:13,2025-09-02 23:24:13,Wound Care,North,
+c562ab45-7a5b-4ba9-a985-af0f9e5ee4f2,P46211,N4881,09/16/2025 04:38,2025-09-16 06:23:08,Wound Care,South,The nurse changed the bandage. The patient is dizzy. Ongoing assessment is required.
+a3b1f4ef-38f7-4497-8f83-320511c343f1,P67591,N6025,"September 04, 2025 11:29AM",09/04/2025 12:03,General Chek-up,North,Monitoring is required. The nurse checked the temperature. The patient is dizzy.
+66433e3b-8dbf-481e-8922-b711065c8d2f,P96467,N7676,2025-08-31 01:58:43,2025-08-31 02:47:43,Medication Administration,South,The nurse provided the IV line. The patient is stable.
+674e2c2a-cb3f-41a0-954c-bf3e66f25073,P33297,N9428,2025-09-06 20:53:33,2025-09-06 21:48:33,General Check-up,South,The nurse monitored the patient condition. The patient is improving. Review is required.
+0ef49637-73ec-40ed-ac9e-3d9c7abf24e9,P65395,N1841,"August 22, 2025 02:28PM","August 22, 2025 03:03PM",Wound Care,West,The nurse changed the bandage. The patient is weak. Follow-up is required.
+2a405bb1-ae88-480a-b9f5-4623c357cafa,P70806,N7300,2025-09-04 06:51:04,2025-09-04 07:50:04,General Check-up,East,The nurse monitored the patient condition. The patient is comfortable.
+b904d7c6-5e84-4165-8e13-763069549470,P65395,N1148,2025-08-28 05:54:18,08/28/2025 07:19,Medication Administration,East,
+699fdabe-7626-479d-88d6-f4e7b4fb2a3d,P64612,N5170,2025-08-27 03:23:27,2025-08-27 04:36:27,Wound Care,East,Monitoring is required. The nurse changed the bandage. The patient is dizzy.
+ab01fb03-0c92-4118-b9e2-607c09b53934,P60515,N4983,2025-08-25 10:07:27,08/25/2025 11:24,Medication Administration,South,The nurse delivered the medication. The patient is improving. Follow-up is required.
+a5d69e3a-e20e-43a6-8baa-e130c55134af,P40940,N8068,2025-09-02 08:28:07,2025-09-02 09:56:07,Wound Care,South,The nurse cleaned the wound dressing. The patient is improving. Follow-up is required.
+c8628ec2-34a2-42cb-bf32-2a4ac74c87b1,P47919,N3028,2025-09-10 02:57:10,2025-09-10 04:39:10,Medication Administration,North,The nurse provided the IV line. The patient is in pain. ASAP is required.
+b21ea50f-1c09-431b-a5df-2655c133fbe8,P31486,N7992,2025-08-25 10:35:23,"August 25, 2025 12:31PM",Wound Care,South,ASAP is required. xyz123 The nurse dressed the wound dressing. ~~~ The patient is restless. N/A
+78241805-a727-4926-b7be-6e9d89b4e6fd,P88594,N2273,2025/09/11 16:54,2025-09-11 18:11:34,Medication Administration,Wsst,The nurse administered the IV line. The patient is dizzy. Follow-up is required.
+52081f76-824f-4f0e-a814-5e467b21c377,P84726,N6025,2025-09-06 15:52:02,09/06/2025 16:05,Wound Care,South,Action is required. The nurse cleaned the bandage. The patient is restless.
+5f007fbe-fe35-4b6a-a76a-6712ea7bc4ea,P38680,N9926,2025-09-02 21:38:42,,General Check-up,West,Follow-up is required. The nurse checked the temperature. The patient is improving.
+b7907bd9-e214-46ed-8a8a-2278546c0e4b,P46495,N6256,2025-09-15 01:36:04,09/15/2025 02:23,Medication Administration,West,The nurse delivered the medication. The patient is weak. Monitoring is required.
+e6198745-621d-481c-9015-759058c804cd,P79678,N2459,2025-08-27 08:57:28,2025-08-27 09:54:28,Physical Therapy,South,Review is required. The nurse assisted the mobility exercise. The patient is dizzy.
+3bcdf594-ee31-40d0-97a8-45a1d7304483,P34361,N5647,2025-08-21 14:40:50,"August 21, 2025 03:21PM",Physical Therapy,South,The nurse monitored the range of motion. The patient is stable.
+63fc0673-ae80-4808-8a82-92c920769d6b,P75810,N9880,2025-09-02 04:12:36,"September 02, 2025 04:55AM",Physical Therapy,East,The nurse assisted the gait practice. The patient is stable.
+44d8550d-9901-4007-8844-7ff48fd1528c,P68749,N9242,2025-08-21 16:45:32,2025-08-21 18:09:32,Medication Administration,West,The nurse delivered the medication. >>>???<<< The patient is stable. ~~~
+42d6da4e-d59d-4f71-a883-4f21fcba9df1,P69665,N1148,2025-09-08 13:43:26,2025-09-08 14:17:26,General Check-up,North,Follow-up is required. The nurse checked the blood pressure. The patient is improving.
+bec8d6b8-a590-4c8a-aa56-8d289e7681ca,P24532,N9851,2025/08/24 04:39,2025-08-24 05:52:31,Physical Therapy,South,Monitoring is required. The nurse assisted the strength training. The patient is weak.
+5cd98821-fcf4-4476-9305-d5b7982f0d92,P52296,N9403,08/24/2025 14:17,2025-08-24 14:24:39,Pyhcisal Therapy,North,
+a42dc111-45f5-451d-8153-accc3bbe3ee2,P85203,N7368,2025-09-16 09:04:03,"September 16, 2025 10:34AM",Medication Administration,South,The nurse delivered the oral dose. ***CONFIDENTIAL*** The patient is restless. ~@#` Action is required. ~@#`
+463b9f6f-6c9f-4d25-a062-5e1fdfa0226a,P14313,N2141,2025-09-04 05:00:37,2025/09/04 05:01,General Check-up,West,The nurse observed the vital signs. The patient is stable.
+4835c15c-3ce0-47c5-a069-e41b7f47af02,P18861,N5881,2025-09-06 01:27:41,2025-09-06 03:25:41,Medication Administration,South,The nurse administered the IV line. The patient is restless. Action is required.
+45b79f9c-477a-4297-90f2-f7556f91ee55,P15313,N4929,2025-08-26 14:28:12,"August 26, 2025 04:28PM",Physical Therapy,Soutth,The nurse monitored the gait practice. The patient is comfortable.
+dc2f924d-c3b4-47a7-8d28-503ca78d3d93,P60050,N8957,2025-09-06 01:27:45,2025-09-06 03:14:45,Medication Administration,South,
+9d913992-96c4-492d-980b-8e301e42ae59,P79915,N9993,09/11/2025 11:42,"September 11, 2025 01:29PM",Wound Care,North,The nurse dressed the bandage. The patient is comfortable.
+1de288da-1cc1-414e-8951-ac251b2e9619,P75705,N9428,2025/09/05 17:10,,Medication Administration,East,The nurse administered the medication. The patient is comfortable.
+7454cd48-3c80-4d5b-b0de-d2c27f899191,P34370,N1451,09/04/2025 06:26,"September 04, 2025 06:58AM",Physical Therapy,West,The nurse monitored the gait practice. The patient is comfortable.
+2b1701bf-e439-449c-9e6c-0b1562eb3466,P81044,N3028,2025-08-29 05:14:46,2025-08-29 05:30:46,General Check-up,West,Urgent is required. The nurse monitored the vital signs. The patient is in pain.
+5f7a7c8d-4cdd-477f-ba70-10443522bbef,P43492,N8286,2025-09-03 02:09:25,2025-09-03 12:04:30,Wound Care,West,ASAP is required. The nurse cleaned the incision site. The patient is in pain.
+50cfbc16-0e45-46a6-9b31-6141dc769426,P70463,N4803,2025/08/24 10:40,2025-08-24 12:40:36,General Chek-up,North,The nurse reviewed the vital signs. The patient is restless. Critical is required.
+b06de003-eedc-4152-b45e-be627087b160,P13387,N6515,2025-09-03 22:59:54,2025/09/03 23:23,Medication Administration,East,The nurse administered the IV line. The patient is restless. Action is required.
+10e3ee38-edf4-4e39-827c-747ad9a8b73f,P15375,N2273,2025-08-30 11:22:42,2025-08-30 11:34:42,Medication Administration,North,
+f7e3ef88-4405-4916-912e-e7c41e11302b,P53862,N1415,2025-08-29 19:31:38,2025-08-29 21:18:38,Medication Administration,South,The nurse administered the medication. The patient is restless. Urgent is required.
+9668df02-1fb7-40d0-80d0-7caf1b4c8468,P38680,N9196,2025-08-31 04:40:58,"August 31, 2025 06:40AM",Medication Administration,East,The nurse delivered the injection. The patient is comfortable.
+ae188501-5b35-44d1-9fd0-3203411fb80a,P96127,N3012,2025-09-14 03:02:25,2025-09-14 03:41:25,General Check-up,North,The nurse reviewed the oxygen level. The patient is in pain. ASAP is required.
+64fa165a-0e6b-4b78-bf45-4b18ec1e3b3b,P68514,N4983,"September 13, 2025 01:36AM","September 13, 2025 01:52AM",Physical Therapy,West,The nurse encouraged the gait practice. The patient is improving. Ongoing assessment is required.
+4b3d0ec1-9a0b-4ae3-9f5a-3736f7c8dee4,P57919,N3507,2025-08-20 03:50:04,,Wound Care,South,The nurse dressed the incision site. The patient is in pain. ASAP is required.
+641bf8c1-84dd-4eb1-9a24-412e77a20903,P85203,N5698,2025-09-07 00:13:37,2025/09/07 01:14,Medication Administration,East,The nurse delivered the medication. The patient is stable.
+4111ee09-8abc-4675-9515-ef74f073e08c,P86548,N3028,2025-08-27 12:37:19,2025-08-27 13:03:19,General Check-up,East,The nurse monitored the oxygen level. The patient is improving. Review is required.
+ba0bed06-5222-4163-b797-f23d086e70e1,P65742,N5472,08/27/2025 00:18,2025-08-27 01:36:05,Wound Care,South,The nurse cleaned the incision site. The patient is comfortable.
+58610227-01eb-4cd5-b590-573468c27b91,P70806,N5551,2025-08-28 21:08:37,2025-08-28 22:13:37,Wound Care,North,The nurse changed the incision site. The patient is restless. Urgent is required.
+b672a11b-ac49-4001-a7e8-215f9e486a77,P51401,N8880,2025-08-30 06:56:18,2025-08-30 07:38:18,Wound Care,North,The nurse applied the wound dressing. The patient is dizzy. Follow-up is required.
+c8e2c26d-5e93-4b41-80a4-68befd9ad7b9,P11155,N8721,2025-08-24 22:48:13,2025/08/25 16:01,Medication Administration,West,Monitoring is required. The nurse delivered the injection. The patient is improving.
+ba7610d4-2069-4558-9abb-a3aff981cd8a,P25103,N8957,2025-09-08 17:20:32,2025-09-08 18:57:32,Physical Therapy,North,The nurse guided the range of motion. The patient is comfortable.
+35d517c4-05a7-4ddd-96b0-4a8ac6d3635c,P28501,N9851,2025-09-09 02:31:20,"September 09, 2025 04:17AM",Physical Therapy,West,Critical is required. The nurse guided the mobility exercise. The patient is in pain.
+d20dc462-aee1-44df-9500-584707967553,P47988,N1557,"September 16, 2025 01:16AM",2025/09/16 02:18,General Check-up,South,ASAP is required. The nurse observed the blood pressure. The patient is in pain.
+b2a8d0c2-0f0a-436b-b914-934d86bbbd5e,P22320,N9993,2025/08/20 06:26,2025-08-20 07:19:27,Medication Administration,East,The nurse administered the IV line. The patient is stable.
+8e00995a-d867-4122-85cd-475f6e44ed6b,P28577,N8250,2025/08/22 08:27,2025/08/22 09:12,Wound Cae,North,The nurse monitored the temperature. The patient is restless. Critical is required.
+1acefe30-c834-4b2a-a4bd-ace83a5895bc,P83843,N3997,2025-09-06 19:27:40,2025-09-06 19:47:40,Physical Therapy,North,The nurse assisted the gait practice. The patient is comfortable.
+69c95802-f027-47aa-8a99-0c2a5802c219,P87260,N9851,2025-09-02 02:03:25,2025-09-02 03:51:25,Physical Therapy,West,The nurse guided the range of motion. The patient is stable.
+6c41eef3-d752-4755-8c52-d5bff2f5c62a,P40234,N3997,2025-09-10 17:33:32,2025-09-10 18:50:32,Wound Care,South,Review is required. The nurse dressed the incision site. The patient is weak.
+be099386-893a-4164-86d0-162d0d324bc1,P80984,N2536,2025-09-03 13:14:32,2025-09-03 14:16:32,Wound Care,North,The nurse changed the incision site. The patient is stable.
+6a8c2c9a-6580-4cce-b665-d2bc6a9bc8e8,P47463,N6256,2025-08-27 18:36:58,2025-08-27 20:06:58,General Check-up,North,The nurse observed the patient condition. The patient is weak. Ongoing assessment is required.
+2e0bbd0f-e9e7-4336-b05a-6681c0fe5ecc,P42578,N5881,2025-08-21 01:53:15,2025-08-21 02:26:15,Wound Care,West,The nurse dressed the bandage. The patient is stable.
+e6b19085-4013-4c26-b7ec-77f9905515c4,P57584,N8221,2025-08-27 17:42:01,2025-08-27 19:32:01,Medication Administration,East,Ongoing assessment is required. The nurse administered the IV line. The patient is improving.
+6d65c5bc-76fc-4238-b657-158f282883a1,P42410,N7325,2025-08-20 01:13:04,2025-08-20 03:03:04,Wound Care,East,Ongoing assessment is required. The nurse applied the bandage. The patient is dizzy.
+223ee503-6383-48f9-89d5-cc9d0717d26b,P23065,N6322,2025-09-02 04:11:18,2025-09-02 05:44:18,Medication Administration,South,The nurse delivered the medication. The patient is comfortable.
+8f60ff9a-6da3-4d87-bff2-84234b39d245,P61945,N1415,2025-08-28 20:25:35,2025-08-28 20:51:35,Medication Administration,West,ASAP is required. The nurse provided the injection. The patient is in pain.
+43113d36-15f1-40ab-b76b-a0c57af2d6f9,P25840,N9403,2025-08-29 15:43:44,2025-08-29 17:31:44,Medication Administration,South,
+4e1b7e3f-76de-4623-8fee-ac0ea1165002,P78241,N9821,09/13/2025 09:39,"September 13, 2025 10:23AM",General Check-up,North,The nurse reviewed the blood pressure. The patient is stable.
+36c84c1b-2b26-47c4-9b62-b1268cdbd05c,P12377,N5472,2025-08-27 14:02:01,"August 27, 2025 03:34PM",General Chek-up,North,The nurse monitored the blood pressure. The patient is improving. Monitoring is required.
+e302fed4-3416-4267-9f25-c82892a428fd,P91039,N8880,2025-09-14 20:34:04,09/14/2025 21:23,Medicatn Adminstratino,West,The nurse applied the incision site. The patient is weak. Follow-up is required.
+442f8a4e-d534-4c0b-9608-c507b10720ff,P30993,N8880,"September 07, 2025 09:39PM",2025-09-07 22:30:44,Wound Care,East,The nurse dressed the wound dressing. The patient is weak. Follow-up is required.
+090b6230-70dc-4b59-a5f4-88a23df35bfd,P22982,N9783,2025-09-08 02:35:43,2025-09-08 03:44:43,General Check-up,North,
+fc138373-7738-4959-aa07-7d940579fcf7,P83281,N7992,2025-08-27 17:23:42,2025-08-27 17:29:16,Physical Therapy,East,The nurse encouraged the strength training. The patient is weak. Monitoring is required.
+13b6b366-94b6-4ec0-93dd-d5457a84ad8d,P35594,N9098,2025-09-15 01:51:06,2025-09-15 02:55:06,Wound Care,West,
+dbc8dce3-daaf-44bd-9d14-1bd6a03a90bf,P12741,N7969,2025/09/09 08:12,2025-09-09 08:52:16,Wound Care,East,The nurse applied the incision site. The patient is stable.
+a935b493-44c4-4fad-b6c7-ff61aa9e3dbe,P62507,N2009,2025-09-12 00:57:15,2025-09-12 02:55:15,General Check-up,East,The nurse reviewed the patient condition. >>>???<<< The patient is comfortable. ///\\
+5b5e0cfe-7f5d-4b5e-b834-20f5b1f62a3a,P75810,N4754,2025-08-30 12:53:09,2025-08-30 13:54:09,Medication Administration,North,Critical is required. The nurse administered the oral dose. The patient is in pain.
+6e9369bf-c9d5-4a42-a345-ea80e0efc849,P12741,N6068,2025-08-23 06:44:31,,Wound Care,West,Follow-up is required. The nurse changed the bandage. The patient is dizzy.
+5a6e952e-f39e-418f-8355-e65c7aee9b4f,P81044,N9926,09/13/2025 18:40,2025-09-13 19:59:35,Medication Administration,East,The nurse administered the oral dose. The patient is improving. Ongoing assessment is required.
+9316a963-f33f-4880-a19d-f4f9aa4319fd,P20766,N6025,2025-08-23 06:23:17,2025-08-23 08:04:17,Physical Therapy,North,The nurse assisted the gait practice. The patient is comfortable.
+233df572-5389-46ef-ac4d-1a917f2ac7f3,P19189,N1975,2025-09-16 22:02:09,2025-09-16 23:19:09,Physical Therapy,West,The nurse monitored the mobility exercise. The patient is dizzy. Follow-up is required.
+e695fa8d-46e2-41f4-ad87-6fb7d383d684,P10629,N9098,2025-09-13 08:38:59,2025/09/13 09:00,Medication Administration,West,The nurse delivered the medication. The patient is improving. Ongoing assessment is required.
+94068d43-40ba-4854-99fe-67431888f8cc,P17053,N1148,2025/09/10 15:24,"September 10, 2025 04:50PM",Wound Care,West,The nurse applied the wound dressing. The patient is stable.
+f4c8ddc5-7d4c-4b2a-8ef3-e594af256f3e,P47749,N9346,2025-09-01 21:40:02,,Medication Administration,South,
+fe22b72d-e844-4ed9-bc6f-c8fdc8a52f7b,P17053,N5590,"August 30, 2025 12:29AM",2025-08-30 01:42:35,General Check-up,West,Critical is required. The nurse reviewed the temperature. The patient is restless.
+dbc08d4d-f746-43a8-9333-bff643feae2a,P28278,N3507,2025-09-04 08:31:38,2025/09/04 09:02,General Check-up,East,Ongoing assessment is required. The nurse monitored the patient condition. The patient is weak.
+e1e6dbbf-59e8-4ca8-886e-aea11bd0abca,P65943,N2804,2025-09-06 13:28:25,2025-09-06 13:52:25,General Check-up,West,The nurse checked the patient condition. The patient is stable.
+26c41a4b-0df7-4334-a3fc-bd681b34b3c7,P92720,N6256,2025-08-26 05:18:57,2025-08-26 06:13:57,Wound Care,West,The nurse cleaned the incision site. The patient is restless. Urgent is required.
+e839f4f7-d38e-4cb0-9d26-dbcd1c01863a,P91422,N8286,2025-09-11 19:54:33,2025-09-11 21:34:33,General Check-up,Easst,The nurse observed the vital signs. The patient is dizzy. Monitoring is required.
+8d289a3f-1cc6-418e-b352-22bb8d6c231b,P38229,N1451,"September 11, 2025 04:14AM",,Wound Care,North,The nurse dressed the bandage. The patient is improving. Review is required.
+daf7dc11-c053-4d3a-8ba4-4b6da1ed8eda,P89148,N2044,2025-08-30 08:22:59,2025-08-30 09:49:59,Medication Administration,North,ASAP is required. The nurse provided the injection. The patient is in pain.
+a8f4be1d-861a-4e0c-b415-3cf236c42cbc,P34370,N7676,2025-09-13 13:44:35,2025-09-13 14:19:35,Medication Administration,East,Review is required. ***CONFIDENTIAL*** The nurse delivered the IV line. ~~~ The patient is weak. ***CONFIDENTIAL***
+2630e19a-d6f0-422d-99a7-33072ff53f61,P47463,N8250,2025-09-04 20:38:00,2025-09-04 21:03:00,Wound Care,West,The nurse changed the wound dressing. The patient is stable.
+208066f5-0a0f-4b27-95c4-72e40b0625ab,P43492,N6598,2025-08-26 10:03:38,2025-08-26 10:37:38,Physical Therapy,North,The nurse assisted the gait practice. N/A The patient is comfortable. ***CONFIDENTIAL***
+cdbfd67a-e3f4-40b2-992c-ad5389a77940,P63937,N4983,2025-08-23 05:43:24,"August 23, 2025 07:05AM",Medication Administration,North,The nurse administered the oral dose. The patient is improving. Ongoing assessment is required.
+aca4eb10-88b0-40b4-8780-5ec6463d7203,P49177,N3028,"September 01, 2025 11:01PM","September 02, 2025 12:34AM",General Check-up,North,Review is required. The nurse monitored the blood pressure. The patient is dizzy.
+36439520-cb81-4f94-ae80-ad1c71458c4d,P48503,N1975,2025-09-03 02:07:38,2025-09-03 02:42:38,General Check-up,South,Urgent is required. The nurse reviewed the blood pressure. The patient is restless.
+ad17fe51-65ad-4026-9984-7b6c67420b92,P20718,N3178,2025-09-12 23:23:10,2025-09-12 23:46:10,Wound Cae,East,Monitoring is required. The nurse changed the wound dressing. The patient is dizzy.
+0fec667a-54a5-47ed-97a1-b38470e69122,P99404,N1380,"August 31, 2025 08:18PM",2025-08-31 21:25:06,Wound Care,West,
+aa65ac67-e557-427e-a222-93512e276a58,P76999,N9926,2025/09/04 05:19,2025/09/04 06:36,Physical Therapy,South,The nurse monitored the mobility exercise. The patient is restless. ASAP is required.
+74c37475-24ba-441e-9ad1-55fea91cea14,P35010,N4957,2025-08-27 19:22:09,"August 27, 2025 08:22PM",Pyhcisal Therapy,West,The nurse cleaned the incision site. The patient is dizzy. Ongoing assessment is required.
+b08e58a9-f568-469b-a0ce-53ca87842068,P67227,N5472,2025/09/14 12:12,"September 14, 2025 01:55PM",Physical Therapy,South,The nurse monitored the strength training. The patient is improving. Review is required.
+fae18689-5437-4cd4-8e58-cd2b497f2518,P45598,N7969,2025-08-26 07:30:09,2025-08-26 07:38:03,Medication Administration,South,Monitoring is required. The nurse provided the injection. The patient is weak.
+47a697cd-e1d7-4eb5-9175-69d8cab75ffb,P64231,N7676,2025-09-02 09:22:15,09/02/2025 10:58,Wound Care,West,Ongoing assessment is required. The nurse dressed the incision site. The patient is weak.
+a9a161ff-9f76-47a4-a0d7-b0fdb294f847,P17184,N4192,08/23/2025 01:59,"August 23, 2025 02:54AM",Medication Administration,West,Urgent is required. The nurse delivered the injection. The patient is in pain.
+6ed07eae-e500-4757-825d-e0e1e5d9a3e3,P77744,N2009,09/11/2025 06:45,,General Chek-up,South,The nurse encouraged the mobility exercise. The patient is in pain. ASAP is required.
+f44f9f52-4918-4707-a658-26724bfb5cfb,P87348,N3280,2025-08-22 03:54:05,2025-08-22 04:37:05,General Check-up,North,The nurse observed the blood pressure. The patient is dizzy. Review is required.
+ecc8c004-d74e-4ad5-a582-9d4dd6d4ce62,P59884,N8880,2025-08-26 22:44:35,2025-08-26 23:41:35,General Check-up,South,The nurse monitored the blood pressure. The patient is comfortable.
+469c87b3-0f7f-4447-88ea-bfd6e9655b92,P89148,N3280,2025/08/20 03:33,2025-08-20 05:05:13,Physical Therapy,North,Ongoing assessment is required. The nurse guided the mobility exercise. The patient is improving.
+4df6c6a8-bcb0-4be5-93f4-d03b9a929d06,P42892,N3088,2025-08-25 18:59:42,2025-08-25 20:50:42,Medication Administration,North,Ongoing assessment is required. The nurse administered the oral dose. The patient is improving.
+45d06af3-f5e6-4ef5-95e0-e4368e4107df,P57584,N2536,2025-08-22 21:04:21,"August 22, 2025 09:19PM",Wound Care,North,Monitoring is required. The nurse cleaned the incision site. The patient is weak.
+10320437-f3f1-4b31-8b83-1202657bdab2,P81145,N6068,2025-09-04 03:06:06,2025/09/04 04:30,Wound Care,South,Follow-up is required. The nurse applied the wound dressing. The patient is dizzy.
+9f5ee93f-14c3-4d2b-9cab-481a196a45f1,P78661,N8286,09/17/2025 16:58,2025/09/17 17:43,General Check-up,East,The nurse monitored the vital signs. The patient is stable.
+7bfcef95-5070-44e7-9d20-6d48b0aafacb,P51093,N1565,09/05/2025 14:51,2025/09/06 01:52,Wound Care,West,The nurse dressed the incision site. The patient is dizzy. Review is required.
+56eb76c1-5cfc-4ac4-8054-1d4010533a9f,P77052,N1557,2025-08-24 17:10:20,,Wound Care,North,The nurse cleaned the bandage. The patient is comfortable.
+a4d9d3a6-8a93-483a-99a9-fb6d5a685d73,P50571,N3943,08/26/2025 14:18,2025-08-26 14:39:20,Wound Care,North,Monitoring is required. The nurse dressed the incision site. The patient is dizzy.
+c215b04c-ea57-4b5a-a568-c77ba6b37c35,P46495,N7969,08/31/2025 03:33,2025-08-31 04:53:58,General Check-up,East,Ongoing assessment is required. The nurse checked the temperature. The patient is dizzy.
+23aac425-fc58-423b-87e8-88fce62242b1,P23780,N1148,2025-08-31 14:58:55,2025-08-31 15:17:55,General Check-up,West,
+061dd9b5-cbbb-4201-ac5c-20d14d5298c2,P94267,N7676,2025-09-18 05:12:33,,General Check-up,South,The nurse checked the temperature. The patient is improving. Monitoring is required.
+0137d467-bf13-47b4-a9e0-9d0a6571ac48,P20718,N2141,2025-08-31 09:41:04,2025-08-31 11:05:04,Wound Care,East,The nurse changed the wound dressing. The patient is dizzy. Follow-up is required.
+c3ecbf4a-6add-47c5-b550-2d509ba6d688,P57997,N1451,2025-08-31 13:48:27,2025-08-31 14:57:27,Medication Administration,South,The nurse administered the IV line. The patient is improving. Follow-up is required.
+b983ac97-b5c5-4baf-bc57-5f46d91517b8,P57322,N5698,09/08/2025 18:20,2025-09-08 20:08:37,General Chek-up,North,The nurse encouraged the gait practice. The patient is stable.
+3356532b-b9d9-4071-8f14-ff15a67101bd,P86804,N7802,2025-09-14 11:45:08,2025-09-14 13:37:08,Wound Care,East,The nurse dressed the incision site. The patient is weak. Review is required.
+65e98652-9708-4a1a-ba57-64caae590f27,P70117,N7635,08/21/2025 07:19,2025-08-21 08:45:53,General Check-up,West,Ongoing assessment is required. The nurse checked the oxygen level. The patient is improving.
+1ee5128b-da91-447f-994e-caa134cf6a22,P29486,N4754,2025-08-27 09:47:24,2025-08-27 11:04:24,Medication Administration,East,Critical is required. The nurse administered the IV line. The patient is in pain.
+3cd03602-a89e-4b2e-9ef4-0455dc2a0145,P50571,N4803,09/11/2025 00:15,2025-09-11 00:59:06,Physical Therapy,West,The nurse assisted the strength training. The patient is comfortable.
+738ed0db-8dbb-4390-874b-ac8d2b218931,P60050,N5551,2025-09-17 05:10:14,09/17/2025 06:51,Wound Care,South,Urgent is required. The nurse changed the bandage. The patient is restless.
+e523684e-7b18-4657-8358-2c5d10fc6129,P61519,N7276,2025-08-28 02:22:33,08/28/2025 02:27,Physical Therapy,East,The nurse encouraged the range of motion. The patient is weak. Monitoring is required.
+43635bc5-881c-48bd-8256-b0779536234f,P27585,N4957,2025-09-01 19:02:52,2025-09-01 19:08:02,Wound Care,North,Follow-up is required. The nurse changed the wound dressing. The patient is weak.
+d9d76fdf-7d08-4c13-a956-fb12f4637ad2,P17752,N8955,2025-08-27 06:32:26,2025-08-27 07:50:26,Medication Administration,South,The nurse delivered the oral dose. The patient is weak. Monitoring is required.
+17e1fc98-9947-46a1-b5e8-75f728ef74b7,P72638,N5562,2025-09-08 10:00:43,2025-09-08 11:45:43,General Check-up,West,The nurse checked the oxygen level. The patient is weak. Ongoing assessment is required.
+ee198eef-bf18-43a9-9ba4-d3ce10759cf8,P21550,N6068,2025-09-12 20:41:17,2025-09-12 21:38:17,Medication Administration,South,The nurse administered the IV line. The patient is stable.
+a51ddc3f-19e7-417a-b343-0686ab70ff1c,P92720,N3933,2025-08-29 02:49:16,2025-08-29 03:10:16,Medication Administration,East,The nurse provided the IV line. The patient is comfortable.
+3ab43d98-d9c9-4e76-8791-416cf1b18647,P66547,N4957,2025-08-22 14:32:44,08/22/2025 14:57,Physical Therapy,West,Critical is required. The nurse encouraged the strength training. The patient is in pain.
+d4ece0ea-e1fd-42e5-bc3c-5bb0e96cd010,P15286,N6598,"August 25, 2025 05:04PM",2025-08-25 18:07:48,Physical Therapy,West,The nurse encouraged the strength training. The patient is weak. Monitoring is required.
+41ba91f9-c219-422f-96ec-fb9e28361ef7,P29486,N7276,2025/09/02 17:55,2025-09-02 19:00:04,Physical Therapy,East,Review is required. The nurse monitored the strength training. The patient is dizzy.
+8b092fb7-7e15-4260-a07a-35ce653607dd,P57919,N9821,2025-08-25 10:24:43,2025-08-25 11:05:43,Wound Care,North,The nurse dressed the wound dressing. The patient is stable.
+2dfd3433-1a64-4e19-895d-9d0713383600,P77303,N1451,2025-09-12 22:58:31,09/12/2025 23:16,Wound Care,North,The nurse cleaned the wound dressing. The patient is comfortable.
+f85a74e0-8686-4f32-a8e5-e151182693f6,P24424,N3978,2025-08-26 14:33:34,,General Check-up,West,ASAP is required. The nurse checked the patient condition. The patient is restless.
+8c6c6bd0-3176-42ac-a1f0-e743878fc482,P24424,N1960,2025-09-14 11:38:00,2025-09-14 13:06:00,Physical Therapy,West,The nurse monitored the strength training. The patient is improving. Ongoing assessment is required.
+abf7a87b-04af-4928-bc9b-91214840157e,P20621,N9821,2025-09-04 23:05:07,09/05/2025 00:19,General Check-up,West,Ongoing assessment is required. The nurse monitored the oxygen level. The patient is dizzy.
+9057f98e-c0dd-4807-95c9-898cc39a8cb1,P59451,N9242,2025-09-11 23:34:57,09/12/2025 00:05,Wound Care,North,The nurse changed the wound dressing. The patient is comfortable.
+a1b383d1-cee0-4c96-a752-2d84f08223d4,P27118,N9403,2025/09/05 09:32,09/05/2025 09:55,Medication Administration,West,Action is required. The nurse provided the injection. The patient is in pain.
+3d832702-11f6-4335-8aa5-9a8ee914e27c,P61519,N8957,2025/08/30 03:01,2025-08-30 04:55:53,Physical Therapy,East,The nurse encouraged the mobility exercise. The patient is comfortable.
+8f2e8d6f-e4c6-4f66-8067-a7e0797bd262,P16255,N3028,2025-09-09 10:36:27,09/09/2025 12:26,General Check-up,South,The nurse reviewed the blood pressure. The patient is improving. Follow-up is required.
+9ef7d767-e4a6-4f94-8c9d-9f8ca5c0c346,P50292,N2273,2025-09-11 02:12:40,2025-09-11 03:22:40,Physical Therapy,East,The nurse guided the strength training. The patient is comfortable.
+a565df77-ac13-41e7-a6f8-ac953f5bf42b,P42865,N9403,08/31/2025 11:44,"August 31, 2025 12:30PM",Medication Administration,West,
+64af17de-fdb8-47a6-a5d4-9e3c7740c559,P29486,N5647,2025-09-12 04:01:21,2025-09-12 05:26:21,Physical Therapy,East,The nurse encouraged the range of motion. The patient is comfortable.
+1f90928b-2656-4407-952f-fb01777c823a,P63204,N5275,2025-08-23 13:26:11,2025-08-23 13:44:11,Physical Therapy,South,The nurse monitored the gait practice. The patient is dizzy. Ongoing assessment is required.
+28d0b25c-4e04-424f-beb4-041b346240bb,P15375,N1960,2025-08-21 01:22:52,2025/08/21 02:05,Medication Administration,North,The nurse provided the injection. The patient is comfortable.
+e61fb89e-8bd8-4a23-991a-0d1e158c1665,P99631,N5647,"September 07, 2025 02:52AM",2025-09-07 03:02:03,Medication Administration,West,
+b9fda2e7-3eb1-49d0-af29-45738aa5eda8,P54534,N2044,2025/08/22 12:04,2025-08-22 12:53:28,Medicatn Adminstratino,South,The nurse encouraged the mobility exercise. The patient is stable.
+a4b22e18-66e7-464c-823c-d7ce7db46e08,P22018,N8916,2025-08-22 19:59:16,2025-08-22 20:49:16,Medication Administration,South,
+f1cececd-6fdf-40c6-9d48-d9c938bd0fd3,P12126,N1841,2025-08-26 07:29:16,08/26/2025 09:29,General Check-up,North,Ongoing assessment is required. The nurse observed the oxygen level. The patient is improving.
+1d86ab18-6cce-4227-b0b3-95b8a6e76727,P79973,N8286,2025-09-16 19:37:09,"September 16, 2025 08:31PM",General Check-up,West,Review is required. The nurse checked the oxygen level. The patient is weak.
+5d40f48e-604e-4c69-a7b7-15e2ad1cf619,P81770,N9403,2025-09-14 05:38:08,2025-09-14 06:51:08,Wound Care,East,Critical is required. The nurse changed the incision site. The patient is in pain.
+dded20d5-9c7d-48bd-a2f8-4edc9a12ae87,P31135,N8880,09/11/2025 07:12,2025-09-11 07:23:07,General Check-up,North,The nurse monitored the patient condition. The patient is stable.
+f81cc162-0d4b-4687-9c4c-41b99a4f26ea,P56867,N3763,2025-09-17 18:46:24,09/17/2025 19:01,Medication Administration,West,Follow-up is required. The nurse administered the medication. The patient is weak.
+1e3daabc-7ae1-44d0-94a4-a73b87fc2de0,P54534,N4875,"September 05, 2025 04:31PM",2025-09-05 17:01:38,Wound Care,South,The nurse cleaned the incision site. The patient is restless. Action is required.
+ba2ef794-4881-45b3-8892-b98e255fe5bb,P94267,N9880,2025-08-23 20:53:25,"August 23, 2025 08:54PM",Medication Administration,Wsst,The nurse provided the medication. The patient is in pain. ASAP is required.
+ab4f1ef4-8f9f-4d9d-b7e8-9eb19bcc0670,P68514,N5881,2025-08-22 19:26:38,2025-08-22 20:35:38,Medication Administration,South,Review is required. The nurse administered the injection. The patient is weak.
+bd894d8f-128e-4bb3-9f16-7e82fe63971e,P52839,N9993,2025-09-02 05:23:11,2025-09-02 07:12:11,Physical Therapy,East,The nurse guided the range of motion. The patient is improving. Follow-up is required.
+7a60a7d5-dd8c-4cb1-863f-166bdc4b6c31,P54518,N1092,2025-09-02 14:46:16,"September 02, 2025 03:25PM",Medication Administration,North,The nurse provided the IV line. The patient is dizzy. Monitoring is required.
+b6100df2-7ce7-40a6-8ab4-e84dde4d2057,P12921,N5881,2025-09-02 03:56:40,2025-09-02 05:14:40,Medication Administration,North,The nurse delivered the medication. The patient is in pain. Critical is required.
+06fd687a-2d3b-42ca-a59f-e0dd5de25ba5,P38680,N7802,2025-08-24 02:19:05,2025-08-24 03:08:05,Wound Care,South,Action is required. The nurse changed the incision site. The patient is restless.
+42637c58-ef33-48a4-88ce-f6aa86b6fef6,P35344,N2044,2025-08-26 19:57:09,08/26/2025 21:02,Medication Administration,South,Follow-up is required. The nurse delivered the oral dose. The patient is improving.
+a0b652de-02c3-460d-b0e9-5a9ccfa1f60c,P43090,N9926,2025-09-17 21:24:48,2025-09-17 22:48:48,Wound Care,Soutth,The nurse dressed the bandage. The patient is improving. Review is required.
+726053b4-b90e-401c-b803-bc97ad6da863,P97823,N9926,08/29/2025 23:57,2025/08/30 01:43,Wound Care,South,The nurse applied the bandage. The patient is stable.
+edb1b303-223c-46a4-9411-2ce73688f2b8,P74564,N8991,2025-08-31 23:56:29,2025-09-01 15:23:55,Medication Administration,East,The nurse provided the IV line. The patient is comfortable.
+c221cd89-5a0e-44ad-b59d-e968ef914169,P92406,N3933,09/09/2025 16:53,,General Check-up,South,The nurse observed the oxygen level. The patient is improving. Monitoring is required.
+bbf1dd3a-b735-45ef-868d-b967643accf3,P49177,N3280,2025-09-08 05:04:52,2025-09-08 06:13:52,Wound Care,West,ASAP is required. The nurse dressed the bandage. The patient is in pain.
+2c5f61e3-6dc4-4a5f-8682-f63419404aca,P38920,N1092,2025-09-08 11:55:57,09/08/2025 12:44,Wound Care,North,The nurse cleaned the wound dressing. The patient is comfortable.
+bb85af22-3cdb-4a25-a5df-bb5be2dc837c,P92673,N1841,2025-08-22 23:04:11,2025-08-23 00:00:11,Medication Administration,West,The nurse delivered the oral dose. ~@#` The patient is comfortable. xyz123
+1324d805-1769-4df8-9b9a-67140b89537d,P69110,N4605,2025-08-30 04:30:17,2025/08/30 06:06,Wound Care,North,The nurse applied the incision site. The patient is restless. Action is required.
+2c4fe0ef-819f-4496-9237-2948401ea266,P23780,N3943,2025-09-01 08:27:04,2025/09/01 09:24,Medication Administration,South,The nurse delivered the IV line. The patient is improving. Review is required.
+43bb5efd-835e-449a-a224-e066e6474f6c,P24047,N7658,2025-09-02 01:57:30,,Wound Care,West,The nurse cleaned the incision site. The patient is restless. Critical is required.
+03596f63-75ba-4819-b66f-4e0835415ebb,P28278,N8721,2025-08-24 09:50:28,2025-08-24 10:32:28,General Check-up,East,The nurse monitored the blood pressure. The patient is restless. Critical is required.
+efcb8ab3-8c79-43b0-bcc7-54917cb3b91b,P84329,N7635,2025-08-22 11:04:36,2025-08-22 12:00:36,Medication Administration,East,Ongoing assessment is required. The nurse administered the medication. The patient is weak.
+25b42ef6-c0cb-462c-9e04-1daca5c2fd14,P20227,N6515,2025-09-05 18:55:28,"September 05, 2025 08:54PM",Physical Therapy,North,The nurse encouraged the range of motion. The patient is restless. Critical is required.
+6506fee8-ce89-4ee0-a601-e90dacc0e64b,P91422,N9428,2025/09/13 04:44,,Wound Cae,North,The nurse monitored the blood pressure. The patient is comfortable.
+588efe0d-d8ca-4017-b025-37789e5f7dd7,P51941,N3088,2025/09/17 22:43,2025/09/17 23:07,Pyhcisal Therapy,East,Monitoring is required. The nurse checked the blood pressure. The patient is improving.
+80555258-fc57-47e8-b0d4-00a39fd534b0,P54147,N3088,08/20/2025 17:01,2025-08-20 17:11:26,Medication Administration,East,The nurse delivered the oral dose. The patient is dizzy. Ongoing assessment is required.
+dcb5cd04-4b55-4e2e-bbf2-28acd20a1d4a,P20842,N1565,2025-09-01 14:04:58,2025/09/01 15:42,Physical Therapy,Easst,Review is required. The nurse encouraged the range of motion. The patient is improving.
+bbcaabb5-573e-4f7d-9c0e-80ad61fd6957,P69020,N8286,09/15/2025 18:28,"September 15, 2025 06:52PM",General Check-up,South,Critical is required. The nurse observed the oxygen level. The patient is restless.
+61cce9c4-07ce-4403-9069-02b4c567689c,P54147,N2536,2025-09-09 18:03:03,2025-09-09 18:46:03,Wound Care,North,The nurse applied the wound dressing. The patient is stable.
+4519960f-2342-4faa-9e78-1e5a2402e73e,P79086,N9880,2025-08-26 07:18:11,"August 26, 2025 07:19AM",General Check-up,West,The nurse checked the temperature. The patient is improving. Ongoing assessment is required.
+76e810b8-e7ec-4078-87e7-b2679d88b709,P22435,N1252,2025-08-22 03:48:48,,Physical Therapy,West,The nurse guided the range of motion. The patient is restless. Urgent is required.
+64d61dee-7ed1-408d-ad94-9b6e4deb9553,P56867,N4983,08/26/2025 05:19,,General Check-up,North,ASAP is required. The nurse observed the patient condition. The patient is in pain.
+ee84014e-a7ae-4936-8875-404ce6f75a0a,P61033,N6256,2025/08/26 23:56,,General Check-up,Soutth,Follow-up is required. The nurse monitored the temperature. The patient is improving.
+f05adf6b-d47a-499a-983c-db79ffd60ec2,P59884,N3507,2025-09-16 23:41:52,"September 17, 2025 01:00AM",Medication Administration,North,The nurse administered the oral dose. The patient is comfortable.
+3b43ba7a-b4b3-4dcc-a739-f921ea815d2b,P61251,N9821,2025-08-23 06:12:44,2025-08-23 07:31:44,General Check-up,South,The nurse reviewed the temperature. The patient is stable.
+60df537e-9308-4608-b5c3-3214a3d84991,P30369,N5881,2025-08-27 15:32:32,08/27/2025 16:26,Wound Care,West,The nurse cleaned the wound dressing. The patient is in pain. Critical is required.
+3195d9a0-9659-4e94-975b-8d21419117d3,P86548,N4929,2025-08-24 21:05:10,2025-08-24 22:47:10,Wound Care,East,
+203a092f-01c3-4ce3-a40b-25efcf7adc77,P22018,N2044,2025-09-10 21:55:42,2025-09-10 22:21:42,Medication Administration,West,The nurse provided the medication. The patient is comfortable.
+ee326c40-0c27-4b21-826b-25bfb122b961,P92720,N4803,2025-08-24 09:18:42,2025-08-24 11:03:42,General Check-up,South,The nurse reviewed the oxygen level. The patient is comfortable.
+15b2177b-dfe2-4237-9f33-634b1f225bd8,P67771,N9851,2025-08-25 07:47:01,2025-08-25 09:46:01,Medication Administration,East,The nurse provided the IV line. The patient is comfortable.
+0beb4e61-10c6-4668-87fb-383b713dbeae,P38243,N1991,09/07/2025 20:32,2025/09/07 21:17,Physical Therapy,East,
+4ce569a4-8cd1-4a30-8623-d86a20e1cebe,P12741,N5551,09/01/2025 00:29,2025-09-01 01:49:34,General Chek-up,South,ASAP is required. The nurse checked the oxygen level. The patient is restless.
+09a23f93-1a31-4ebd-88a1-5523ef362fe8,P59175,N7300,2025-09-02 09:18:12,2025-09-02 09:38:12,Medication Administration,West,
+e33050ab-8ddb-4f05-a3f6-009ccbbe67b8,P63554,N5472,2025-09-10 02:58:47,2025-09-10 03:28:47,Medication Administration,South,The nurse provided the IV line. The patient is comfortable.
+059afffa-3e24-4ceb-941f-d82b42a2641b,P30665,N3943,2025-09-05 20:05:43,2025-09-05 22:01:43,Physical Therapy,North,
+568c0b4e-b00f-488b-8ded-534aadb081a9,P52979,N3507,2025/09/15 09:00,2025-09-15 10:07:15,General Check-up,South,
+0f88ae96-7610-4375-9cce-eb8dcba38d9e,P38243,N3933,2025-09-06 20:33:25,2025-09-06 22:04:25,Wound Care,South,Urgent is required. The nurse changed the wound dressing. The patient is restless.
+ffe8bdf9-2c49-4157-b9a3-95b91d470db8,P49943,N2009,"August 23, 2025 05:53AM",2025/08/23 07:02,Physical Therapy,West,The nurse encouraged the gait practice. The patient is comfortable.
+b7f8d0c8-a4ef-402d-8466-575dae85d853,P51093,N1380,2025-08-29 13:11:11,2025-08-29 14:57:11,Medication Administration,South,
+61af0cb8-9c01-4d67-b1f0-2fc9f6204353,P46211,N7325,2025-08-26 02:17:44,2025-08-26 03:00:44,Pyhcisal Therapy,West,The nurse dressed the wound dressing. The patient is dizzy. Ongoing assessment is required.
+a512db1c-2738-4fb9-b9d9-e7146fa8fdd9,P63537,N1451,2025-09-14 01:33:02,2025-09-14 01:43:02,Wound Care,East,The nurse dressed the incision site. The patient is in pain. Urgent is required.
+2b5a3832-af74-4b54-8ed3-f39b20da1f7d,P36846,N5562,2025-09-01 08:59:24,2025-09-01 10:27:24,Wound Care,South,The nurse cleaned the wound dressing. The patient is comfortable.
+db979e84-3fa0-4825-8606-be6b189939f3,P26222,N2044,2025-09-04 02:26:37,2025-09-04 04:01:37,Physical Therapy,North,ASAP is required. The nurse monitored the strength training. The patient is restless.
+58185a5c-43a2-44cb-9e2e-cc8dcf87cfdd,P35344,N2838,2025-09-12 09:44:32,2025-09-12 11:25:32,Medication Administration,West,Urgent is required. The nurse administered the injection. The patient is restless.
+aef3558b-22cf-402c-a6bb-f347b6376e9e,P19088,N3681,2025-09-14 17:31:01,"September 14, 2025 07:07PM",Medication Administration,East,The nurse delivered the injection. The patient is dizzy. Ongoing assessment is required.
+de05b239-1a7d-44fa-9712-0e58cc0333f7,P35594,N5551,2025-09-06 06:31:52,2025-09-06 06:48:52,Wound Care,West,Review is required. The nurse dressed the incision site. The patient is weak.
+41870ed7-2ca7-4501-b521-e21e26228b67,P96712,N1557,09/12/2025 05:41,2025-09-12 07:13:40,Wound Care,West,The nurse cleaned the wound dressing. ###$$$%%%^^^ The patient is dizzy. >>>???<<< Monitoring is required. !!!
+f457b0a5-9131-4e7c-8cea-64d7fcefca73,P53862,N1252,"August 21, 2025 11:10AM",2025-08-21 12:34:49,Physical Therapy,South,Monitoring is required. The nurse monitored the gait practice. The patient is dizzy.
+147aa6ba-8b28-4c01-a9f4-61bd07eed5a2,P59623,N3978,2025/09/09 13:35,2025-09-09 15:35:59,Wound Care,North,The nurse changed the bandage. The patient is dizzy. Review is required.
+dc04178c-8238-43f8-8fd2-f95abff9dd91,P49177,N7658,2025-09-03 06:46:24,2025-09-03 07:38:24,General Check-up,South,
+50b0b9ad-97cc-4a79-bae4-2bf8c1987dac,P10629,N9428,2025-09-03 16:30:16,"September 03, 2025 06:22PM",Pyhcisal Therapy,South,Ongoing assessment is required. The nurse administered the oral dose. The patient is improving.
+9ef7d767-e4a6-4f94-8c9d-9f8ca5c0c346,P64612,N7676,2025-09-16 04:03:43,2025-09-16 05:09:43,Medication Administration,South,The nurse administered the injection. The patient is stable.
+abc0a51b-8b51-4a7a-b09f-e55d17de715d,P69685,N9851,2025-09-13 11:47:14,2025-09-13 13:35:14,Physical Therapy,North,The nurse monitored the strength training. The patient is comfortable.
+0fa566a8-0c4f-482a-aea3-3a4348fc2b30,P46024,N6025,2025-08-24 20:25:46,08/24/2025 21:26,Wound Care,East,ASAP is required. The nurse dressed the incision site. The patient is in pain.
+6736b2a2-3222-4535-bccb-e7ecfd40b4e4,P24532,N2340,2025-09-08 23:36:27,2025-09-09 00:26:27,Medication Administration,East,Monitoring is required. The nurse provided the IV line. The patient is dizzy.
+8b9b671c-ddfd-4e09-b137-78da2ef6b15d,P91039,N7992,2025-08-31 15:15:44,,Physical Therapy,North,The nurse encouraged the gait practice. The patient is in pain. Urgent is required.
+56e147ce-0773-474a-859f-5728b4372705,P51093,N7948,"September 10, 2025 09:13PM",2025-09-10 21:42:34,Physical Therapy,East,The nurse assisted the strength training. xyz123 The patient is improving. N/A Ongoing assessment is required. ##--##
+b69d81fa-516d-4494-a97f-a69d57346e18,P10372,N8250,2025-08-23 20:31:26,2025-08-24 04:27:37,Wound Care,South,The nurse dressed the bandage. The patient is comfortable.
+dd26f9bd-209a-4d9d-95fc-9ce2f28016ab,P66397,N9428,2025-08-21 08:39:07,2025-08-21 09:38:07,General Check-up,East,The nurse monitored the patient condition. The patient is dizzy. Ongoing assessment is required.
+9dc932c7-3df0-4a71-a82f-d0795a73af36,P95148,N3943,2025-08-27 15:50:43,2025-08-27 17:23:43,General Check-up,West,The nurse observed the patient condition. The patient is in pain. Urgent is required.
+2ae7d51e-0638-45f3-a16e-635c3ee50bcf,P54233,N9242,"August 31, 2025 10:07AM",2025-08-31 10:18:13,General Check-up,East,Urgent is required. The nurse checked the temperature. The patient is in pain.
+34d95b47-30ae-48a4-8e40-5d8803a0ec1a,P20718,N3943,09/16/2025 12:07,2025-09-16 13:50:27,Wound Care,West,Review is required. The nurse cleaned the wound dressing. The patient is dizzy.
+a706dc7c-f0c0-41b4-9af2-1a551dfd9785,P36044,N1557,2025-09-08 04:48:04,2025-09-08 06:05:04,Medication Administration,West,Urgent is required. The nurse delivered the oral dose. The patient is in pain.
+655ea621-dafb-41b9-b2e4-4492750642bb,P78942,N4192,"September 17, 2025 11:29AM",2025-09-17 12:59:34,Wound Care,North,The nurse cleaned the incision site. The patient is comfortable.
+10cad95c-677d-4de5-b480-d848090b2702,P11885,N7717,2025-08-21 14:58:42,2025-08-21 15:44:42,Medication Administration,West,The nurse delivered the injection. The patient is dizzy. Review is required.
+9bec5a71-5b3f-483e-9b04-ef19b98788b3,P18861,N1975,2025-08-23 09:14:10,2025/08/23 09:49,Wound Care,North,The nurse changed the bandage. The patient is stable.
+c2ddafdd-48a9-4b49-afcf-f3fcbfe3b16c,P22982,N1991,2025-09-03 16:44:03,2025/09/03 16:54,Wound Care,North,The nurse changed the wound dressing. ###$$$%%%^^^ The patient is comfortable. ~~~
+d63e5d29-536f-4b23-8bf0-b18f0b505f10,P18861,N8221,2025-09-03 00:03:34,2025-09-03 01:55:34,General Check-up,North,Critical is required. The nurse observed the blood pressure. The patient is restless.
+12e63a0d-39c2-4518-a336-490efb7e1b26,P42865,N1148,2025-09-04 16:38:02,2025-09-04 18:32:02,Wound Care,Notrh,
+f5738337-135f-44cf-96d7-49d0aaa3b1b9,P87260,N5551,2025-09-02 09:28:42,2025-09-02 09:49:42,Physical Therapy,North,The nurse guided the gait practice. The patient is stable.
+32618d91-7290-4bbc-960e-ff86c24f3cfb,P69020,N7717,2025-08-27 06:57:31,2025-08-27 07:53:31,Wound Care,East,
+c8f7903b-902a-4718-b386-a42944ec0fb0,P22435,N3681,2025/09/06 08:50,09/06/2025 10:40,Medication Administration,East,Follow-up is required. The nurse delivered the IV line. The patient is improving.
+1dff5c2e-9076-4831-b5dd-3df1d4c9b798,P28501,N9346,2025-08-28 06:15:26,08/28/2025 08:00,Physical Therapy,South,Action is required. The nurse guided the gait practice. The patient is restless.
+7fa24cd5-a00d-4df0-9279-3403b63661d3,P40492,N8286,2025-08-20 13:18:22,2025-08-20 14:29:22,Wound Care,North,The nurse changed the wound dressing. The patient is weak. Follow-up is required.
+e894ccbf-6ec8-4048-9152-7573b8d7dcfa,P92300,N2804,2025-09-10 08:27:31,2025-09-10 09:38:31,Wound Care,South,The nurse dressed the wound dressing. The patient is restless. Urgent is required.
+1abe7727-3e08-4809-bb44-9c926eafac1b,P68200,N1975,2025-09-01 18:17:34,2025-09-01 18:37:34,Pyhcisal Therapy,East,Critical is required. The nurse reviewed the patient condition. The patient is restless.
+62c71c75-d94d-4af7-a4d4-b68b7daf4b26,P47465,N1148,2025/08/21 22:22,2025-08-21 23:14:13,Medication Administration,North,The nurse delivered the oral dose. The patient is comfortable.
+7f166970-e555-4316-9db3-6c7dcda108cc,P44200,N6322,2025-09-12 09:48:33,2025-09-12 10:17:33,Medication Administration,East,The nurse delivered the IV line. The patient is weak. Monitoring is required.
+364104f6-cd23-44fe-80ef-5ef73b20bd26,P78661,N7300,2025-08-19 19:23:44,2025-08-19 19:57:44,Medication Administration,West,The nurse administered the injection. The patient is comfortable.
+173a29e8-856b-471a-87c3-3c8278e9fc4d,P51941,N2248,"August 30, 2025 04:59PM",2025/08/30 17:33,Medication Administration,West,The nurse administered the oral dose. The patient is comfortable.
+c82f7caa-8824-489c-8ac1-bc437252463f,P70806,N2273,2025-09-16 10:32:32,,Medication Administration,North,
+a5aff43e-9e9d-4999-8705-dc2637815765,P48480,N4754,2025-08-30 05:35:26,2025-08-30 06:03:26,Medication Administration,South,
+a84a859a-a27a-4984-8bc4-4e697756a197,P20606,N1451,09/09/2025 20:26,2025-09-09 20:57:53,General Check-up,East,Monitoring is required. The nurse observed the oxygen level. The patient is improving.
+917066f6-179e-49bb-9d14-f95d0b2edbee,P30852,N7658,2025/09/09 08:00,,Physical Therapy,South,The nurse guided the range of motion. The patient is stable.
+5b649ecd-db62-4252-8fae-db0931d8e404,P52569,N5562,2025-09-05 04:39:41,2025-09-05 06:32:41,Medication Administration,West,
+be379450-ee12-410f-ba13-251643690a27,P47816,N8916,2025/09/05 16:24,2025-09-05 17:29:47,General Check-up,South,The nurse checked the vital signs. The patient is comfortable.
+30b02b93-c545-4f05-9ce2-741a4a66cb8c,P57919,N4178,09/11/2025 15:57,2025-09-11 17:39:16,Medication Administration,East,The nurse administered the injection. The patient is improving. Monitoring is required.
+cdbfd67a-e3f4-40b2-992c-ad5389a77940,P78661,N9993,2025-08-28 16:47:14,2025-08-28 17:59:14,Medication Administration,East,The nurse provided the IV line. The patient is stable.
+88eeb4ba-83cf-4074-9bc9-e80ec4e10665,P60761,N4178,2025-08-27 11:54:16,,Physical Therapy,North,Follow-up is required. The nurse guided the mobility exercise. The patient is weak.
+d4431475-b65c-4221-8f95-09eaf11b8631,P34047,N4605,2025/08/24 00:33,,General Check-up,North,The nurse observed the vital signs. The patient is stable.
+f1a78c29-003b-4d96-94d8-35603d10c4ea,P10162,N8991,2025-09-09 00:43:48,2025-09-09 02:13:48,Medication Administration,West,Ongoing assessment is required. The nurse delivered the medication. The patient is dizzy.
+dcd4990a-38e3-49e2-a4ee-dc84e80b6dc8,P89305,N2273,2025/08/25 14:14,2025-08-25 16:09:28,Medication Administration,Soutth,
+c2cd18c8-9624-42b3-a9a6-0030a458d5b1,P72043,N3933,2025-09-06 09:08:45,2025-09-06 09:43:45,Physical Therapy,East,The nurse encouraged the gait practice. The patient is in pain. Action is required.
+67f97549-dddc-4234-aa60-4526a37c6bac,P46716,N5647,2025-09-15 20:42:29,2025/09/15 21:04,Wound Cae,South,The nurse checked the patient condition. The patient is dizzy. Ongoing assessment is required.
+1087c319-b442-4768-aeaa-65a5b2871b3e,P78942,N2273,08/28/2025 11:26,2025/08/28 12:30,Medication Administration,West,Follow-up is required. The nurse administered the oral dose. The patient is improving.
+f94379cf-82fb-43ed-a341-b7b164b9d727,P83028,N2248,"August 21, 2025 07:54AM","August 21, 2025 09:46AM",General Chek-up,East,
+1a90bac0-7640-40bd-9b8f-7b865b08e5fe,P99404,N4178,2025/08/28 05:28,"August 28, 2025 07:00AM",Physical Therapy,South,
+4de4b75f-b14b-4478-991a-01dfda1846fe,P23151,N4178,2025-09-10 03:55:13,2025-09-10 04:04:41,Medication Administration,North,The nurse administered the medication. The patient is improving. Follow-up is required.
+ac43d237-ab5f-4cd2-bbcf-f50f5fb502ca,P59175,N1148,2025-09-03 01:31:33,"September 03, 2025 02:10AM",Wound Care,West,The nurse dressed the wound dressing. ##--## The patient is weak. !!! Follow-up is required. ~@#`
+d394b387-6039-402e-a973-9bcb7f0ebda8,P45602,N9428,2025-08-27 13:28:03,2025-08-27 14:40:03,Medication Administration,East,
+de00d185-eba3-4a88-a92c-ef0428e06a9f,P20842,N9242,2025-08-22 03:06:56,2025-08-22 03:59:56,Medication Administration,East,The nurse administered the medication. The patient is improving. Review is required.
+5b5cb4dc-5c4b-4344-b22f-e95024bad561,P67227,N8957,2025-08-24 13:17:57,2025-08-24 14:40:57,Medication Administration,East,The nurse delivered the IV line. The patient is stable.
+7dbf0eee-4be6-4636-9065-e692ae2e23e1,P12741,N6598,2025/09/10 00:02,2025-09-10 01:56:15,Physical Therapy,North,Urgent is required. The nurse guided the gait practice. The patient is in pain.
+79dbe572-f015-4d05-b506-062c15d9b7db,P13508,N2536,"September 01, 2025 05:33AM","September 01, 2025 07:06AM",Physical Therapy,Easst,The nurse encouraged the strength training. The patient is restless. Action is required.
+ccbfbce2-0498-47ce-a9de-3ce903a33e18,P59581,N4701,09/15/2025 22:26,2025-09-15 23:24:56,Medication Administration,South,ASAP is required. The nurse administered the IV line. The patient is restless.
+8ed8bcda-67a3-4dd8-825a-96893959a727,P34370,N5472,08/21/2025 07:16,2025-08-21 07:38:28,General Check-up,West,Action is required. The nurse monitored the temperature. The patient is restless.
+05802e58-e3c8-4526-bdc6-3f9c087f2c00,P92673,N9926,2025-09-15 16:35:55,2025-09-15 16:58:55,General Check-up,North,The nurse reviewed the oxygen level. The patient is dizzy. Review is required.
+b0cb545a-4161-4ffe-97f3-fb88446024ac,P92552,N3943,2025-08-24 16:39:26,2025/08/24 17:33,Medication Administration,South,
+936204fc-6352-4734-b3c5-1924be585a81,P42915,N3943,2025-09-06 04:01:33,2025-09-06 04:48:33,General Check-up,North,The nurse reviewed the oxygen level. The patient is improving. Follow-up is required.
+252d4096-0888-4158-9893-9559d7f6eacd,P54879,N9403,2025/09/13 02:35,"September 13, 2025 04:24AM",General Check-up,North,
+31309a8a-956b-49e4-9477-9c786b4ab8a8,P21555,N4605,08/25/2025 20:36,2025-08-25 21:10:04,Medication Administration,North,The nurse provided the injection. The patient is stable.
+c870c028-a6cd-423d-b36c-aadfe752d6ba,P27013,N5275,08/30/2025 06:21,2025-08-30 06:40:51,Wound Care,West,
+6dd0dedc-ebc9-4f27-a9e9-14389ba40c28,P20227,N4754,2025-08-19 18:03:08,2025-08-19 18:13:08,Wound Care,North,Ongoing assessment is required. The nurse cleaned the incision site. The patient is weak.
+3c2bb1f7-579e-40d6-ace5-8638df30a7b4,P35131,N5275,2025-09-06 11:14:35,2025-09-06 13:00:35,Physical Therapy,North,The nurse guided the gait practice. The patient is stable.
+ca39ee60-15d9-4bcd-a445-eed5407aa6c4,P64566,N1148,2025/09/04 19:36,2025-09-04 21:32:10,Physical Therapy,West,The nurse monitored the gait practice. The patient is weak. Monitoring is required.
+d5c2c283-6830-4271-a43b-a6c3ac771ea0,P90053,N3933,2025/08/30 19:22,2025-08-30 19:57:22,Physical Therapy,Wsst,The nurse monitored the range of motion. The patient is improving. Review is required.
+2a030a30-15a1-478d-9f4e-4c185cdb5fa1,P47463,N8957,2025-08-26 22:13:28,,Wound Care,East,The nurse applied the bandage. The patient is improving. Ongoing assessment is required.
+31ec99b9-5d2e-4a55-9f85-37320d010704,P75705,N7368,2025/08/21 04:01,2025-08-21 04:41:46,Wound Care,West,Review is required. The nurse changed the incision site. The patient is improving.
+34cc96a8-1697-4046-8591-8846ef602b37,P77052,N8955,2025-08-28 03:55:23,2025-08-28 04:55:23,Physical Therapy,South,Critical is required. The nurse encouraged the mobility exercise. The patient is restless.
+40ee9416-0cae-41aa-ba56-505e2cc08e4f,P21555,N9783,2025-08-21 02:05:46,2025-08-21 02:17:46,Medication Administration,East,Review is required. The nurse provided the oral dose. The patient is weak.
+538dffad-714c-48bd-af99-35fc327ae4ae,P56363,N5647,2025-09-08 10:47:01,2025-09-08 11:01:01,Medication Administration,East,The nurse provided the oral dose. The patient is in pain. Critical is required.
+5ba4224a-5f5d-4c3f-8644-1f433c93fc99,P42155,N3507,2025-09-06 11:32:11,2025-09-06 12:22:11,Wound Care,West,
+848fd35a-82d3-4e74-98c7-751013df0ee4,P17051,N1565,2025-08-23 04:23:47,2025-08-23 05:13:47,Wound Care,West,The nurse dressed the wound dressing. The patient is stable.
+fde50d9c-4fc8-4ecd-ac34-e1e021da6c24,P85799,N5647,2025-08-27 06:22:08,,General Check-up,South,
+761d625b-7823-4dcb-9ee9-ba05c595442a,P35935,N1451,2025-09-06 13:13:32,,Wound Care,South,The nurse cleaned the bandage. The patient is in pain. Urgent is required.
+3e580758-725e-4df6-b1ed-779bc49770b4,P33058,N9438,2025-09-13 13:11:02,"September 13, 2025 02:46PM",General Check-up,East,The nurse monitored the vital signs. The patient is dizzy. Follow-up is required.
+25e18a0c-9cf3-427c-bedf-0a27e8060396,P51922,N5590,2025-09-10 21:14:53,2025-09-10 21:30:53,Physical Therapy,South,Urgent is required. The nurse assisted the range of motion. The patient is restless.
+b5246ae8-aaf9-4d13-9a4b-66a19028f0cc,P69685,N9346,2025-09-16 14:05:45,2025/09/16 14:28,General Check-up,North,Ongoing assessment is required. The nurse monitored the vital signs. The patient is weak.
+e2782059-dc8c-4702-90cd-5ee8a336a523,P74908,N9438,2025-08-20 12:42:03,2025-08-20 12:48:38,Physical Therapy,North,The nurse assisted the strength training. The patient is restless. Action is required.
+c2fc6095-1217-46a7-bb4d-be1d4c7e4fba,P45602,N6515,2025-09-04 02:39:32,2025-09-04 04:19:32,General Check-up,North,Critical is required. The nurse checked the blood pressure. The patient is in pain.
+25b9f30c-9464-4b6a-a8f8-eaab290dc7d0,P72638,N6515,2025-09-05 07:30:18,2025/09/05 09:19,Physical Therapy,Soutth,The nurse guided the range of motion. The patient is improving. Monitoring is required.
+f16299ef-9eb8-4178-a2f4-6ed0c7ba153f,P96825,N5170,2025-08-21 12:14:34,2025-08-21 13:11:34,General Check-up,West,The nurse checked the oxygen level. The patient is weak. Ongoing assessment is required.
+706fcb28-0ee3-42de-b1d4-f67aa0a333d4,P70851,N1991,2025-09-10 03:27:20,2025-09-10 04:05:20,General Check-up,North,Urgent is required. The nurse reviewed the oxygen level. The patient is in pain.
+19c75952-49c6-4ab8-b290-e1bad19ea91a,P27001,N9403,"August 29, 2025 07:06AM",2025-08-29 08:36:13,Physical Therapy,East,The nurse guided the strength training. The patient is weak. Ongoing assessment is required.
+723966a4-07ec-413a-bf1f-9b7b50ec01e7,P22128,N1991,2025/09/01 11:47,2025-09-01 12:55:00,General Check-up,East,The nurse observed the temperature. The patient is restless. Action is required.
+84df5894-f64b-4b4e-b883-09cf6b6d6cac,P68749,N7676,2025-08-23 16:30:06,"August 23, 2025 04:58PM",Medication Administration,West,Monitoring is required. The nurse delivered the IV line. The patient is weak.
+a7932380-dab8-41a7-9463-b6caebe05e9d,P69178,N4803,2025-08-28 12:58:03,2025-08-28 13:55:03,Medication Administration,East,Monitoring is required. The nurse provided the IV line. The patient is improving.
+db7bd29e-c874-436f-9f53-93313cdf2df7,P62916,N7676,08/20/2025 14:32,2025-08-20 15:36:37,Physical Therapy,West,The nurse assisted the mobility exercise. The patient is dizzy. Monitoring is required.
+300842db-bd63-4e42-b10d-c776ac3dc9f6,P96127,N5633,08/24/2025 04:34,2025-08-24 12:11:35,Physical Therapy,East,The nurse guided the range of motion. ###$$$%%%^^^ The patient is comfortable. xyz123
+062bb609-afaa-4015-a524-cd2fc6a3f9a9,P10234,N6068,"August 27, 2025 06:36PM",2025-08-27 19:16:44,Medication Administration,West,Review is required. The nurse provided the oral dose. The patient is improving.
+e2782059-dc8c-4702-90cd-5ee8a336a523,P35358,N6797,2025-09-17 03:47:16,2025-09-17 05:39:16,Wound Care,East,The nurse changed the bandage. The patient is improving. Ongoing assessment is required.
+1c8ab6b4-53c1-47b5-ad3c-e639ce92addc,P76956,N9098,2025/08/23 05:50,08/23/2025 07:25,Physical Therapy,East,The nurse guided the range of motion. The patient is restless. Action is required.
+8fda9d46-b0c9-4cee-b60b-da4bcf029251,P91422,N5170,2025-08-31 17:08:29,"August 31, 2025 05:35PM",Wound Care,North,
+4d217cf0-d5bf-4c54-9072-9ac0ada81d1f,P35198,N1066,2025-09-06 20:23:00,2025-09-06 21:02:00,General Check-up,East,The nurse checked the oxygen level. The patient is stable.
+9f3116bd-b0cf-406c-bda5-049c30981013,P80894,N9851,2025-08-25 08:31:03,,General Check-up,East,The nurse observed the temperature. The patient is comfortable.
+2f32edf1-d948-4740-bce7-daa259bbffa2,P18243,N1565,2025-09-14 17:30:01,2025-09-14 19:10:01,Medication Administration,North,Monitoring is required. The nurse delivered the medication. The patient is weak.
+0960f2dc-2270-41d6-a457-124ff8a5e93f,P60650,N3280,"August 21, 2025 12:28AM",,Physical Therapy,West,The nurse guided the mobility exercise. The patient is stable.
+5a5addfb-6596-46e9-bdfc-f75da62fccf3,P59768,N3681,2025-08-26 17:33:20,2025-08-26 18:44:20,Wound Care,North,Review is required. The nurse changed the bandage. The patient is weak.
+0c18e2d7-62ba-4ffa-8795-892590a573fe,P65742,N8955,2025-08-26 12:46:19,2025/08/26 14:01,Medicatn Adminstratino,East,The nurse changed the bandage. The patient is comfortable.
+89fe6b56-fb8d-4dfe-a79d-8d638d33cd50,P36793,N3763,2025-09-06 20:23:25,2025-09-06 21:08:25,Physical Therapy,South,The nurse assisted the mobility exercise. The patient is dizzy. Monitoring is required.
+93f36aef-74c0-40da-b41d-05674fa7cced,P42155,N8880,2025-09-13 08:21:58,2025-09-13 09:07:58,Medication Administration,West,Monitoring is required. The nurse delivered the medication. The patient is weak.
+b9506978-7db9-4a66-92fb-91dca002bc57,P34370,N1565,2025-09-05 08:20:49,2025-09-05 09:01:49,Wound Care,East,Critical is required. The nurse applied the wound dressing. The patient is restless.
+2d9c059b-0737-4b92-a9d6-22aa7769359c,P42287,N6797,2025-08-25 01:16:25,2025/08/25 01:33,Physical Therapy,East,The nurse guided the gait practice. The patient is stable.
+804eaebb-22fe-41f3-8e32-260294ada2b7,P54518,N5698,2025-08-21 15:11:54,2025-08-21 16:30:54,Wound Care,South,The nurse cleaned the wound dressing. The patient is stable.
+8143a8c9-644e-474f-bdc3-6a65a45907ae,P72638,N9783,2025-09-08 14:49:49,2025-09-08 15:58:49,General Check-up,Easst,The nurse monitored the blood pressure. The patient is stable.
+d32eae71-0ae5-4fb0-aaa8-38eb2fd8c32f,P88594,N9993,2025-09-18 02:27:14,"September 18, 2025 03:20AM",Medication Administration,West,The nurse administered the IV line. ~@#` The patient is weak. N/A Ongoing assessment is required. ~@#`
+27504439-9a0a-4463-85fa-03d64e3427c5,P81529,N2804,2025-09-15 23:51:16,2025-09-16 00:58:16,Physical Therapy,West,The nurse monitored the strength training. The patient is improving. Ongoing assessment is required.
+30c1355a-fc5b-483f-9ada-357d2da9a9f7,P70806,N5881,09/15/2025 22:45,2025-09-16 00:00:07,Physical Therapy,West,The nurse monitored the gait practice. The patient is dizzy. Ongoing assessment is required.
+9bb2f99e-2cef-4e73-bb85-6d19e7134f12,P61936,N5275,2025-08-31 00:48:24,08/31/2025 01:41,Physical Therapy,South,Follow-up is required. The nurse assisted the mobility exercise. The patient is improving.
+e92e2b0f-258d-48dc-a2d8-5cf89ee3a442,P53302,N2536,2025/09/17 12:02,2025-09-17 13:07:08,Physical Therapy,Easst,The nurse monitored the mobility exercise. The patient is stable.
+cae2e32b-63dc-43e6-8126-ab570926b51d,P69363,N3012,2025-09-04 09:37:31,2025-09-04 10:24:31,Medication Administration,North,The nurse provided the IV line. The patient is dizzy. Ongoing assessment is required.
+c510bea2-4e47-4611-9875-ca72ebfbf43f,P33058,N8991,2025/09/16 12:10,"September 16, 2025 02:05PM",Wound Care,South,The nurse changed the wound dressing. The patient is improving. Review is required.
+f3284ef4-b8ac-4503-8d49-68f314444d62,P28278,N4754,2025-08-24 03:45:17,08/24/2025 04:03,Wound Care,Wsst,The nurse dressed the wound dressing. N/A The patient is stable. ###$$$%%%^^^
+6ea98bb8-df3b-4f77-9eb4-af8c39337cde,P12944,N2044,2025-08-28 04:25:34,2025-08-28 05:04:34,Wound Care,North,The nurse dressed the wound dressing. The patient is stable.
+89f33a12-9931-4d4d-ab22-b87da35650f0,P50353,N1991,2025-08-26 08:11:02,,Wound Care,North,The nurse applied the wound dressing. The patient is dizzy. Follow-up is required.
+e93f1f63-8db6-46eb-91c6-1ca317990275,P62507,N6322,"September 05, 2025 03:05AM",2025-09-05 04:48:29,Wound Care,West,The nurse applied the wound dressing. The patient is improving. Monitoring is required.
+0c31a21e-64e5-4250-866e-ab08ef168b11,P77052,N1092,2025/08/31 02:15,,General Check-up,South,The nurse observed the patient condition. The patient is stable.
+877896b0-d926-4ebf-bfa5-f3cb23be22f3,P17051,N2459,"September 03, 2025 06:05PM",09/03/2025 18:22,Medication Administration,West,The nurse delivered the oral dose. The patient is in pain. Action is required.
+1b87ddc4-b539-4c57-87c8-17ad4974a623,P46495,N3763,2025-09-08 23:33:14,2025-09-09 01:29:14,Medication Administration,East,Urgent is required. The nurse delivered the IV line. The patient is restless.
+ffe17a30-7b18-4123-9b56-d5bdffaba399,P52569,N1451,2025-08-31 00:16:08,2025-08-31 01:04:08,Wound Care,South,The nurse applied the incision site. The patient is comfortable.
+51f2210c-843a-4d28-964d-5e5662bf2e21,P69685,N5633,"September 03, 2025 01:18AM","September 03, 2025 03:01AM",Medication Administration,North,The nurse provided the injection. The patient is weak. Follow-up is required.
+27e2595a-0ce7-4086-b68e-afe629d56c53,P59623,N2804,2025-09-12 00:44:06,2025-09-12 01:23:06,General Check-up,North,Ongoing assessment is required. The nurse checked the patient condition. The patient is improving.
+687acb40-acf6-4fa5-b581-71920552848a,P22128,N4875,2025-09-13 23:30:12,09/14/2025 00:17,General Check-up,West,The nurse monitored the temperature. The patient is restless. Critical is required.
+85a91b96-5434-4514-a449-4f63c22aa000,P97025,N3280,2025-09-06 17:24:50,2025-09-06 19:11:50,Physical Therapy,West,The nurse guided the gait practice. The patient is restless. ASAP is required.
+858d3098-0a2f-4876-a810-7cb2ec766ed8,P28577,N3763,2025-09-10 22:17:42,2025-09-11 00:01:42,Medication Administration,North,The nurse delivered the medication. The patient is improving. Ongoing assessment is required.
+ea8188b3-8c4b-49bf-a6f7-fbb5997b21e6,P43492,N1148,2025-09-14 23:51:25,,General Check-up,East,The nurse monitored the patient condition. ///\\ The patient is improving. ###$$$%%%^^^ Review is required. !!!
+056860ce-1b7c-4296-af60-dfc3315c8a0d,P36044,N4983,2025-09-05 12:46:49,"September 05, 2025 01:43PM",Physical Therapy,East,Action is required. The nurse assisted the strength training. The patient is in pain.
+ddd0fb6e-f368-4570-acd3-5f255cbfafd9,P87136,N2044,2025-08-19 18:07:41,2025/08/19 19:04,Physical Therapy,East,The nurse guided the strength training. The patient is restless. Action is required.
+c4ede920-50e5-4f56-8b1d-0d27ff4082dd,P61749,N1148,2025-09-01 12:17:13,,Wound Care,East,Review is required. The nurse cleaned the wound dressing. The patient is weak.
+0473b24f-5df9-41a0-b056-e592b1f1959f,P84794,N4957,2025-09-17 08:55:38,2025-09-17 10:05:38,Physical Therapy,East,The nurse encouraged the strength training. The patient is restless. ASAP is required.
+26ab9f29-61c5-423d-b8eb-2474fc1d5bb1,P81462,N4192,"September 05, 2025 06:24AM","September 05, 2025 07:26AM",General Check-up,South,Ongoing assessment is required. The nurse monitored the temperature. The patient is dizzy.
+eef49c6e-c3b1-4ba4-9b73-5db08c6316ce,P67511,N9993,2025-09-15 17:48:56,"September 15, 2025 06:53PM",Medication Administration,East,
+4a96e3cb-7d2a-49d2-9e1e-cc7ff5ce7db3,P34047,N4701,2025-09-01 12:34:51,2025-09-01 13:21:51,Medication Administration,West,The nurse delivered the medication. >>>???<<< The patient is weak. ~~~ Ongoing assessment is required. !!!
+a92fd62e-92a0-4c1d-a91c-e4e02c97c712,P87019,N8221,2025-09-10 13:15:27,2025-09-10 14:01:27,Wound Care,North,The nurse dressed the incision site. The patient is comfortable.
+c212b80c-c671-49d4-a4ec-3ed72607869b,P26529,N1565,2025-09-02 12:25:49,2025-09-02 13:08:49,Physical Therapy,West,The nurse assisted the strength training. The patient is comfortable.
+d0e813bd-26dc-454c-b9d3-f8a9382a64eb,P48503,N4983,2025-08-24 09:22:39,2025-08-24 11:05:39,Wound Care,South,Critical is required. The nurse applied the wound dressing. The patient is in pain.
+09b75ce2-8011-452e-a380-c656df3a3f71,P61749,N4875,2025-08-28 15:13:17,2025-08-28 16:53:17,General Check-up,Soutth,The nurse reviewed the oxygen level. The patient is comfortable.
+f78bcf64-c560-48c9-bed9-4e64e7e263dc,P61251,N5698,"August 26, 2025 05:25PM",,Pyhcisal Therapy,South,Ongoing assessment is required. The nurse cleaned the incision site. The patient is dizzy.
+840adbc1-2915-4305-a304-468db1f139d4,P84726,N4875,2025-08-24 15:04:21,08/24/2025 16:17,Physical Therapy,East,The nurse encouraged the range of motion. ###$$$%%%^^^ The patient is comfortable. N/A
+acb46947-d558-4beb-ba3d-a96d87edb490,P14313,N7969,2025-08-23 20:33:01,2025/08/23 21:44,Physical Therapy,East,The nurse guided the range of motion. The patient is stable.
+9749ba45-35b5-4756-861b-bc688badea56,P75020,N4881,2025-09-17 10:09:50,2025-09-17 12:07:50,Wound Care,West,The nurse changed the bandage. The patient is stable.
+f45cce83-7b4c-410e-bb05-1e5cf8c29070,P51941,N7368,2025-09-07 22:44:29,2025-09-07 22:54:29,Pyhcisal Therapy,South,Action is required. The nurse assisted the range of motion. The patient is in pain.
+0c18e2d7-62ba-4ffa-8795-892590a573fe,P28706,N2273,2025-08-20 21:57:21,2025-08-20 23:19:21,General Check-up,North,The nurse reviewed the oxygen level. The patient is in pain. ASAP is required.
+705c83c7-45b8-4f8b-9142-0691d44dbe5a,P86342,N7948,2025-08-20 16:05:58,2025/08/20 17:12,General Check-up,North,Monitoring is required. The nurse reviewed the patient condition. The patient is dizzy.
+93b149a6-6bec-4406-8f09-e703cefc01ae,P18780,N8221,2025/08/21 00:24,,General Check-up,West,The nurse observed the blood pressure. The patient is weak. Monitoring is required.
+733ab5a1-fcc2-434a-9092-0146922c375f,P29486,N3280,2025-08-26 02:36:14,2025/08/26 04:00,Physical Therapy,West,The nurse guided the strength training. The patient is stable.
+760014af-69c9-4af3-9c9c-64383d528cdd,P14313,N2838,2025/08/22 18:37,"August 22, 2025 07:45PM",Physical Therapy,South,
+98478ed9-c171-49a4-812c-063f7064d13c,P95212,N9926,2025-09-13 02:48:02,2025-09-13 03:30:02,Physical Therapy,West,Review is required. The nurse monitored the mobility exercise. The patient is improving.
+2d470532-7f76-419c-8bda-52bf74ca7225,P83647,N9403,2025-08-31 11:39:28,2025-08-31 12:52:28,Wound Care,North,The nurse applied the incision site. The patient is improving. Follow-up is required.
+a9bc7882-a6c2-4a88-90f3-133a2caa4370,P26222,N7676,2025-09-06 11:50:20,2025-09-06 13:37:20,General Check-up,West,Critical is required. The nurse monitored the oxygen level. The patient is restless.
+9e751aa2-7192-47b6-9a5b-2298f97df80a,P99631,N1519,2025-09-03 18:48:02,2025-09-03 20:47:02,General Check-up,South,The nurse monitored the blood pressure. The patient is weak. Follow-up is required.
+3b3f08c5-f4c4-421b-856d-bea337355402,P54233,N2459,2025/09/03 12:35,2025-09-03 13:03:37,Wound Care,South,
+f3a92862-e623-47cd-b991-760c96a93c53,P64566,N6068,2025-08-28 15:48:16,2025-08-28 17:34:16,General Check-up,South,
+8c1fae72-0465-48d7-bf5a-29eb930aeb46,P37065,N8250,"September 05, 2025 04:38AM",2025-09-05 04:53:44,Physical Therapy,West,The nurse monitored the mobility exercise. The patient is stable.
+f839ac6d-4a30-42bf-a095-29b358948944,P77745,N8991,2025-09-10 19:22:11,2025-09-10 20:05:11,Physical Therapy,West,Follow-up is required. The nurse monitored the gait practice. The patient is dizzy.
+182b6f26-32e5-4e6a-9cd2-93c601ed5db9,P76956,N2009,2025-08-23 15:54:01,08/24/2025 07:38,Wound Care,North,The nurse dressed the wound dressing. The patient is comfortable.
+ce6c1d5d-a413-4b71-ade1-8d2cabec8ea0,P72043,N2273,2025-08-30 07:12:51,"August 30, 2025 08:04AM",Wound Care,South,Review is required. The nurse dressed the bandage. The patient is dizzy.
+b790571b-f509-43a8-834d-f6d5c1c9076b,P20842,N1066,"September 08, 2025 10:16PM",2025-09-09 00:10:19,General Check-up,North,The nurse checked the temperature. The patient is stable.
+fec7b95b-804c-4640-ad53-b3b8fbde20e0,P88594,N1991,2025-08-23 04:20:17,08/23/2025 05:55,General Check-up,South,The nurse monitored the vital signs. The patient is comfortable.
+68f897eb-e031-43f7-99eb-f3a7db8898e1,P61936,N7969,2025-08-19 18:17:24,08/19/2025 19:16,Wound Care,South,Follow-up is required. The nurse applied the wound dressing. The patient is dizzy.
+7acd2bb8-fd1f-49ff-9dbb-cff30611e9fd,P46716,N1557,09/01/2025 08:19,2025-09-01 09:28:38,Medication Administration,West,The nurse administered the IV line. The patient is dizzy. Ongoing assessment is required.
+8b615c71-e703-48d3-a1d8-487da8796eda,P35344,N1092,2025-08-23 04:22:01,"August 23, 2025 05:50AM",Medication Administration,West,The nurse provided the IV line. The patient is weak. Follow-up is required.
+3222aa2e-20dd-4be2-8b5b-26c57ffa7199,P40433,N1565,2025-09-01 19:53:44,"September 01, 2025 08:07PM",Wound Care,West,The nurse dressed the bandage. The patient is weak. Monitoring is required.
+852e1b26-1219-428f-b024-b0ee25582656,P38690,N3943,2025/09/11 07:30,2025-09-11 07:58:23,Physical Therapy,West,The nurse encouraged the gait practice. The patient is weak. Follow-up is required.
+941147aa-92c1-4706-ae7f-049c650d1313,P22006,N5551,2025-09-03 18:24:58,,General Check-up,South,Urgent is required. The nurse checked the blood pressure. The patient is in pain.
+29725bda-ac87-4772-ae43-87085a786457,P62477,N7325,2025/08/27 00:08,2025-08-27 01:00:38,Medication Administration,West,Follow-up is required. The nurse provided the IV line. The patient is improving.
+40c0531b-9113-43a1-975a-77098939ac6a,P37065,N3012,08/28/2025 10:20,,Physical Therapy,West,The nurse guided the mobility exercise. The patient is comfortable.
+01873ba7-0c55-4edb-8ec6-6daa2746fcba,P30510,N5562,2025-09-16 23:33:11,"September 17, 2025 12:45AM",Physical Therapy,South,The nurse encouraged the gait practice. The patient is stable.
+3bbb6518-3316-4e0b-9109-731fca604c78,P27118,N4881,2025-08-31 20:37:10,2025-08-31 21:11:10,Medication Administration,North,The nurse delivered the medication. The patient is comfortable.
+fef072f2-2649-478c-b6b8-0825aa36861c,P61779,N9428,"August 30, 2025 10:41PM",2025-08-30 23:34:04,General Check-up,West,The nurse reviewed the temperature. The patient is weak. Ongoing assessment is required.
+fd146741-45a8-4a6c-a6c4-5aac60422953,P98420,N1557,2025-08-29 22:18:13,2025-08-29 23:44:13,Physical Therapy,East,The nurse assisted the strength training. The patient is stable.
+a0b0087f-f44b-4706-8fdd-c8650c2c2267,P23151,N9098,2025-09-15 01:59:15,2025-09-15 02:14:15,Medication Administration,West,Critical is required. The nurse administered the IV line. The patient is in pain.
+a46bac1e-7467-444b-bc0e-3b7ddf516cdf,P10799,N7300,2025-08-24 22:22:39,"August 25, 2025 12:02AM",General Check-up,North,The nurse checked the blood pressure. The patient is restless. Critical is required.
+64c91313-4053-4ef5-aa87-85d70af977ef,P62507,N5275,2025-09-13 15:21:31,,Medication Administration,West,The nurse provided the oral dose. The patient is dizzy. Review is required.
+a3aab6ee-3237-4209-9141-87179f913c8b,P51941,N4881,2025-08-30 04:55:00,,General Check-up,North,The nurse observed the oxygen level. The patient is weak. Ongoing assessment is required.
+5e1043e6-6944-4d69-86c5-5a6e41e3ab27,P53302,N8916,"September 04, 2025 12:48AM",2025-09-04 01:05:04,General Chek-up,East,The nurse provided the injection. The patient is in pain. Critical is required.
+acb7df19-8fa6-4d8e-8640-740030de2f1d,P73090,N9196,2025/09/07 19:58,"September 07, 2025 09:26PM",Wound Care,West,The nurse cleaned the incision site. The patient is stable.
+d1c926c4-0ecf-4fdc-baa9-aa61c867888b,P39390,N1252,2025-09-04 15:34:02,2025-09-04 17:13:02,Wound Care,West,The nurse changed the wound dressing. The patient is stable.
+2923ebc2-4de9-46fa-86e5-3d1cabce1fa7,P29486,N3280,2025-09-17 18:36:55,09/17/2025 19:15,Medication Administration,West,The nurse delivered the injection. The patient is dizzy. Follow-up is required.
+6c2fde4e-5cd3-49fd-b0d3-d066f789667b,P57919,N3178,2025-09-11 23:38:03,09/12/2025 01:06,Wound Care,West,Critical is required. The nurse applied the incision site. The patient is restless.
+7b69043b-9554-4670-8f17-922bb68e2a1a,P81044,N9428,2025-09-03 06:36:34,2025-09-03 08:14:34,Wound Care,East,Follow-up is required. The nurse cleaned the incision site. The patient is weak.
+5ef5b039-a6b9-4610-b7d5-5cecef2c6003,P30369,N4983,2025/08/27 08:37,08/27/2025 10:02,Pyhcisal Therapy,East,The nurse administered the medication. ##--## The patient is comfortable. ###$$$%%%^^^
+5bdc1133-afdc-4bef-9fcd-70fc072cde8b,P14313,N7969,2025-09-03 02:37:27,2025-09-03 03:39:27,Medication Administration,South,
+c53d7bff-8437-408c-8ebe-46c8e2aac540,P24151,N7802,"September 01, 2025 03:40PM",,Medication Administration,South,The nurse administered the IV line. The patient is weak. Follow-up is required.
+2a17b10a-acae-426e-89e0-1e4c38a97a3a,P99428,N6256,2025-08-27 20:29:49,"August 27, 2025 09:12PM",Medication Administration,West,The nurse delivered the injection. The patient is in pain. Critical is required.
+13ff186d-bb3a-44af-b81f-faf313c07bf5,P65395,N2044,2025-08-26 10:36:44,08/26/2025 12:33,Wound Care,South,Review is required. The nurse dressed the wound dressing. The patient is dizzy.
+dd2402b0-1c8d-47fc-9d5b-3f4fdd553425,P11374,N1252,2025/08/31 12:19,,Wound Care,South,The nurse changed the incision site. The patient is improving. Review is required.
+de717802-a615-4687-9ca1-418067fb908f,P83768,N3681,2025-09-08 06:14:37,2025-09-08 23:20:36,General Check-up,North,ASAP is required. The nurse observed the vital signs. The patient is restless.
+e5125970-b31a-4a3f-b8ae-ef926f11ea84,P25103,N9346,"September 15, 2025 09:59AM",2025-09-15 10:46:40,General Check-up,Easst,Urgent is required. ##--## The nurse reviewed the vital signs. ###$$$%%%^^^ The patient is in pain. ##--##
+5cf31ec6-4f72-4dd7-a40f-f53be92f5ef7,P67909,N2536,"September 01, 2025 03:08AM",,Physical Therapy,West,Ongoing assessment is required. The nurse guided the mobility exercise. The patient is dizzy.
+1e029ce6-389e-4b66-98a5-338d75f9a39c,P86797,N2273,2025-08-25 11:19:42,2025-08-25 11:37:42,Physical Therapy,North,Urgent is required. The nurse encouraged the mobility exercise. The patient is restless.
+389cc4b0-d661-4719-826a-4eebcee36ce2,P78661,N7676,2025-08-26 18:52:40,2025/08/26 19:09,Physical Therapy,East,The nurse guided the strength training. The patient is restless. ASAP is required.
+c8942886-69a8-4e56-a563-7b9aebda5670,P30510,N6515,2025-09-02 11:03:56,2025-09-02 11:55:56,Medication Administration,East,The nurse administered the injection. The patient is comfortable.
+56a12d43-ea5f-4191-a98a-6d50cce7c9eb,P60650,N8957,2025-09-18 10:42:26,2025-09-18 11:33:26,Physical Therapy,East,The nurse monitored the range of motion. The patient is improving. Review is required.
+cf37d6bb-814f-41f1-b23f-ec032367991c,P86552,N8286,"September 16, 2025 07:55PM",2025-09-16 21:08:09,General Check-up,North,
+49d16197-4e09-434e-8cf8-0be894cbe9ed,P25961,N6515,2025-09-05 18:27:27,,Physical Therapy,North,Follow-up is required. The nurse assisted the gait practice. The patient is weak.
+b2f620e7-14ab-4a7d-abe3-1bcf630338fc,P28577,N4929,2025-09-09 15:04:55,,Wound Care,South,The nurse dressed the incision site. The patient is stable.
+65abf610-1400-4472-b5df-65f4677d68e6,P72291,N7635,2025/08/25 15:45,2025-08-25 16:53:49,General Check-up,East,The nurse observed the blood pressure. The patient is stable.
+0c00854f-e45e-4c2f-89b2-1c5e6788fe1c,P76027,N2340,"September 06, 2025 07:06PM",09/06/2025 19:59,Medication Administration,North,The nurse provided the IV line. The patient is stable.
+580d962b-3e2c-4b39-a5e5-705253614384,P24424,N4929,2025-09-17 08:04:31,2025-09-17 09:23:31,Physical Therapy,East,The nurse encouraged the mobility exercise. The patient is stable.
+2510e303-ec8e-4221-a7bb-41f40041e7e9,P94377,N2340,2025-09-04 20:41:00,2025-09-04 21:57:00,Physical Therapy,East,The nurse monitored the strength training. The patient is comfortable.
+17a85c74-ffcd-47e0-9d52-62bd3f229193,P59068,N5590,2025-08-24 16:02:32,2025/08/24 17:21,Wound Care,North,The nurse dressed the wound dressing. The patient is dizzy. Ongoing assessment is required.
+377ca193-18ca-4cc4-9507-100c0cf5d3c0,P84329,N4192,2025-08-19 23:17:30,2025-08-20 00:21:30,Medication Administration,East,The nurse administered the IV line. The patient is comfortable.
+95cc156c-6f83-4eff-8b33-5221cbbc9f10,P52569,N8250,2025-08-23 12:18:43,2025-08-23 13:09:43,Medication Administration,South,ASAP is required. The nurse provided the injection. The patient is in pain.
+4dd5f8bf-f515-44fd-82b4-6f1392bac996,P70806,N3507,2025/09/05 05:51,2025-09-05 07:26:46,Medication Administration,West,
+c249bae0-77c9-490f-844b-02e06d806e5b,P23151,N5881,2025-09-10 09:37:26,2025/09/10 10:16,Wound Care,West,The nurse cleaned the bandage. The patient is comfortable.
+31e6d04c-02cc-4adf-bd9b-94d47c0077bc,P43502,N8991,2025-08-30 00:44:50,2025/08/30 01:59,General Check-up,West,The nurse reviewed the blood pressure. The patient is stable.
+af77772f-3bc4-4c38-b073-036886248363,P38281,N7658,2025-08-30 17:26:10,"August 30, 2025 06:39PM",Physical Therapy,North,The nurse guided the strength training. The patient is stable.
+8327fb35-861e-4d9f-b7de-5d0e567b185e,P12457,N7948,2025-08-24 00:00:06,2025-08-24 00:58:06,Wound Care,North,The nurse cleaned the incision site. The patient is stable.
+c3ed79ec-4c46-4eac-bba2-b76dc155e4b3,P35935,N8880,2025-08-27 20:29:12,,Physical Therapy,West,ASAP is required. ##--## The nurse guided the range of motion. ~~~ The patient is in pain. ~~~
+7f40caaa-aafb-413c-af4e-3deb6c50c094,P92552,N5881,2025-08-31 16:38:37,,Physical Therapy,West,The nurse guided the gait practice. The patient is comfortable.
+b3987562-59ef-4a3d-ace8-a4c439c67157,P20718,N4754,"August 20, 2025 09:22AM",2025-08-20 10:24:21,Medicatn Adminstratino,South,
+7768ebe3-5f2b-434d-a76a-362b4a69d865,P62507,N7992,2025-09-03 01:48:23,09/03/2025 02:30,Wound Care,West,Ongoing assessment is required. ##--## The nurse applied the wound dressing. !!! The patient is weak. ***CONFIDENTIAL***
+4e505198-9cf5-4b62-bfca-7680d602850e,P38229,N3978,2025-09-13 07:18:08,2025-09-13 07:50:08,Physical Therapy,East,
+6e3951a1-5af7-4054-9626-42761dd563c2,P96127,N8916,2025-09-10 01:07:16,2025/09/10 02:57,General Check-up,South,The nurse observed the vital signs. N/A The patient is comfortable. ***CONFIDENTIAL***
+dcfdad34-4208-45a3-8f92-75213f055644,P23151,N7325,2025-08-27 03:47:46,"August 27, 2025 05:34AM",Wound Care,North,The nurse dressed the incision site. The patient is in pain. Urgent is required.
+c45b02f9-6ad3-4597-85b4-413500f19f05,P79320,N9993,2025-09-06 12:40:56,2025-09-06 14:30:56,Medication Administration,East,The nurse provided the oral dose. The patient is weak. Review is required.
+6e328a43-f899-4796-9abf-e315ad66cead,P59928,N7325,2025-09-09 13:37:31,2025-09-09 13:59:31,General Check-up,East,Action is required. The nurse monitored the patient condition. The patient is restless.
+e1edf865-fa7a-425d-b229-0d273a42d6a8,P28278,N7276,2025-08-26 19:40:23,2025-08-26 21:42:15,Pyhcisal Therapy,North,Urgent is required. The nurse reviewed the vital signs. The patient is restless.
+5445a4a4-8a04-4ff5-8271-e5e704065824,P98724,N9783,2025-08-29 22:35:11,2025-08-29 23:12:11,General Check-up,South,The nurse monitored the temperature. !!! The patient is stable. ***CONFIDENTIAL***
+3021d54b-5edb-4946-9d08-2415bed53af5,P20606,N8991,2025-09-06 12:07:21,2025-09-06 13:35:21,Physical Therapy,North,The nurse assisted the gait practice. The patient is dizzy. Review is required.
+e7595c45-66af-4198-9063-fcdf407486c8,P57997,N8955,2025/08/27 06:00,2025-08-27 07:46:23,Physical Therapy,North,The nurse encouraged the gait practice. The patient is stable.
+1de288da-1cc1-414e-8951-ac251b2e9619,P21550,N6256,09/03/2025 04:55,2025-09-03 05:19:29,General Check-up,South,The nurse observed the temperature. ~@#` The patient is comfortable. ###$$$%%%^^^
+3b2cbe7a-d213-41c2-8f94-631e0b943f64,P60246,N3933,2025-08-27 15:28:59,2025-08-27 16:53:59,Physical Therapy,North,Action is required. The nurse guided the mobility exercise. The patient is in pain.
+3abd6c21-5373-428b-8635-e49409d53943,P19504,N2273,08/31/2025 20:30,2025-08-31 21:50:21,Medication Administration,East,The nurse administered the medication. The patient is comfortable.
+9524accb-8eab-4d6e-ba0e-347483188474,P81462,N8991,2025-08-26 07:33:42,2025/08/26 08:43,Wound Care,West,The nurse cleaned the wound dressing. The patient is in pain. Urgent is required.
+b63949fc-56ef-4855-bf18-aeec86ca7aa1,P61945,N9242,09/07/2025 00:32,2025-09-07 02:32:18,Wound Care,North,The nurse changed the wound dressing. The patient is comfortable.
+5bc0993c-5216-460d-8f9e-92c9d8e29504,P83843,N4754,2025/09/01 22:54,2025-09-01 23:24:56,Wound Cae,West,The nurse delivered the IV line. The patient is comfortable.
+2ac94e02-f42d-4261-8351-9dd775439333,P67964,N8721,2025-09-01 22:42:16,,Medication Administration,West,Follow-up is required. The nurse provided the IV line. The patient is weak.
+44760838-a107-4689-b88f-cd2c530efed7,P12243,N9851,"September 05, 2025 08:42AM",2025-09-05 09:10:17,Medication Administration,Wsst,Action is required. The nurse delivered the injection. The patient is in pain.
+7ed81d86-f171-4639-836c-68ed71b28995,P37942,N9346,2025-09-08 06:07:39,2025-09-08 07:15:39,General Check-up,West,The nurse checked the temperature. The patient is comfortable.
+78b01c0e-0b69-4b62-850f-ef42c32d5c51,P41942,N6256,2025/08/29 10:54,2025-08-29 11:51:55,General Check-up,West,The nurse observed the vital signs. The patient is stable.
+a5c0094e-a27e-4e5c-b2dc-5b977498a882,P45598,N1252,2025-09-16 06:54:21,2025/09/16 07:42,Wound Cae,South,The nurse applied the bandage. The patient is comfortable.
+24a63ce0-3fa7-4ace-9031-6ef1816b48e4,P10372,N2044,2025-09-09 19:10:04,2025-09-09 20:29:04,Wound Care,North,The nurse dressed the incision site. xyz123 The patient is weak. xyz123 Follow-up is required. ***CONFIDENTIAL***
+6e5a7de1-cce7-4fbc-97b5-309489570d9f,P67361,N9993,09/05/2025 03:01,2025-09-05 05:01:58,Medication Administration,West,Follow-up is required. The nurse delivered the oral dose. The patient is weak.
+ba4e42c2-8537-4a42-8b26-36a8f672bb21,P61080,N9428,2025-09-03 23:49:56,,Wound Care,North,The nurse cleaned the incision site. The patient is stable.
+b859c615-8a96-4b3e-a2c4-4bef134ae8da,P93308,N8286,2025-09-07 14:13:05,2025-09-07 15:04:05,Physical Therapy,East,The nurse encouraged the gait practice. The patient is comfortable.
+e0f0445e-0c98-4c9c-a96a-235aeb43da85,P21550,N2273,2025-08-19 20:57:58,2025-08-19 22:46:58,Physical Therapy,South,
+1a6af497-b94c-4308-82e4-3d2584d4e482,P42709,N9783,2025-08-27 21:16:37,2025-08-27 22:08:37,General Check-up,Easst,The nurse checked the oxygen level. The patient is comfortable.
+eb0f62e9-6550-4f95-8b0d-bd907f11dace,P53302,N1451,2025-08-23 06:33:56,,General Check-up,South,The nurse reviewed the blood pressure. The patient is stable.
+2c64658d-c417-4d08-8e73-e63805aef13d,P52180,N3997,2025-08-29 11:45:27,2025-08-29 12:50:27,Physical Therapy,East,
+adcb097d-3035-4af3-ae00-8392eff87398,P86840,N6598,2025-08-31 11:02:09,2025-08-31 11:31:09,Medication Administration,North,Ongoing assessment is required. The nurse delivered the IV line. The patient is weak.
+12b87e69-e7e5-4629-8671-dde0ecb2fdf8,P96467,N9926,2025-08-23 03:42:04,2025-08-23 05:16:04,Wound Cae,North,The nurse delivered the medication. The patient is comfortable.
+39659f9c-3baf-46f2-a999-5814ecf35b63,P48503,N2838,2025-08-26 21:24:10,2025-08-26 23:21:10,Medication Administration,West,The nurse administered the injection. The patient is stable.
+07c0f757-1291-413e-925a-cb2166083661,P16871,N5170,2025/09/06 20:32,2025-09-06 20:53:52,Wound Care,East,The nurse applied the wound dressing. The patient is in pain. ASAP is required.
+4141faaf-0f3e-4da9-8717-55f494cf012d,P39656,N2273,2025-09-13 05:01:02,2025-09-13 07:00:02,Medication Administration,East,The nurse administered the oral dose. The patient is dizzy. Ongoing assessment is required.
+75c2cf0d-29e9-43be-8332-d8877c24a37f,P73397,N2009,2025-08-28 09:59:25,2025/08/28 10:38,Physical Therapy,West,The nurse guided the gait practice. The patient is restless. ASAP is required.
+2af9adca-9f05-4462-8dd0-50e6e95e5f85,P31799,N6256,2025-08-30 00:59:51,"August 30, 2025 02:08AM",Physical Therapy,North,The nurse guided the mobility exercise. The patient is stable.
+f0256131-9bb3-4db1-9570-c1247464e55d,P54995,N7992,2025-08-26 04:56:38,2025-08-26 06:10:38,Wound Care,North,
+d77cc20e-d355-407d-815f-897e6a909b4b,P69685,N2340,2025-09-04 10:38:06,2025-09-04 11:23:06,Physical Therapy,South,Review is required. The nurse encouraged the range of motion. The patient is dizzy.
+e04e137f-1298-486f-9e73-54bd8a9c0395,P83843,N2009,2025-09-16 23:35:12,2025-09-17 00:05:12,Pyhcisal Therapy,North,The nurse provided the injection. The patient is comfortable.
+63937a1d-3e72-4072-bed4-303f31f14232,P69178,N4701,2025-08-31 13:05:07,09/01/2025 12:58,Wound Care,North,The nurse dressed the wound dressing. The patient is comfortable.
+9ebb6086-78d6-4017-b4ff-5308c0e02b7d,P74515,N6598,2025-08-29 22:09:29,2025-08-29 23:17:29,Wound Care,South,The nurse changed the bandage. The patient is comfortable.
+6f0de4d4-a206-4f24-b7f9-8ce35ec29da3,P35344,N1991,2025/09/15 16:42,09/15/2025 16:56,Wound Care,North,The nurse changed the wound dressing. The patient is comfortable.
+64517fec-7159-427a-a65c-4dbe4f6442bd,P38281,N4803,2025-08-27 03:56:40,2025-08-27 05:17:40,Wound Care,North,The nurse applied the incision site. The patient is weak. Follow-up is required.
+f7e0686a-8411-4c82-86ec-2d258dbd1d2e,P39656,N7802,2025-09-11 01:35:34,2025-09-11 02:38:34,General Check-up,West,Follow-up is required. The nurse checked the temperature. The patient is weak.
+3d36ab48-9feb-4285-945e-326c74ecf6ba,P31135,N2248,2025-08-27 19:50:36,,Medication Administration,Wsst,The nurse provided the IV line. The patient is improving. Ongoing assessment is required.
+9ab3983f-8f4a-4d98-b56a-cc7a7569759b,P80322,N9346,09/04/2025 09:03,,Wound Care,South,The nurse applied the bandage. The patient is stable.
+cc076e04-c387-496a-9671-e604e0c61d1b,P88594,N2536,2025/09/07 16:45,2025/09/07 17:25,Medicatn Adminstratino,West,The nurse guided the range of motion. The patient is comfortable.
+a84a859a-a27a-4984-8bc4-4e697756a197,P76027,N8955,2025-09-08 11:50:58,09/08/2025 12:58,Medication Administration,Notrh,The nurse provided the IV line. The patient is stable.
+fa92d029-8984-4df7-a02f-045196d58796,P55858,N3943,2025-09-03 21:09:45,2025-09-03 22:31:45,General Check-up,North,The nurse monitored the oxygen level. The patient is restless. Urgent is required.
+b08e58a9-f568-469b-a0ce-53ca87842068,P48503,N8221,2025-08-31 11:13:28,2025-08-31 12:08:28,Wound Care,South,The nurse dressed the bandage. The patient is weak. Follow-up is required.
+904dad76-ea95-4471-8f5f-7861afebd9bf,P19151,N1568,"September 05, 2025 02:38PM",09/05/2025 15:35,Medication Administration,East,The nurse delivered the oral dose. The patient is stable.
+d8c3bcd1-4d3f-452b-a78d-d567550a8f44,P52839,N8221,08/29/2025 08:20,2025-08-29 08:30:52,General Check-up,West,The nurse monitored the oxygen level. The patient is comfortable.
+a6ea179e-8d22-43a6-b9ab-36823df3acd8,P30993,N7300,2025-08-29 01:24:13,2025-08-29 02:15:13,General Check-up,South,The nurse observed the vital signs. The patient is weak. Monitoring is required.
+e93a11d9-4361-4608-8c18-222cc39c0f45,P75705,N6797,2025-09-16 14:24:05,2025-09-16 16:12:05,Wound Care,West,The nurse cleaned the wound dressing. The patient is improving. Follow-up is required.
+844a5a68-976c-430d-b70c-d106797d0e1c,P42892,N9880,2025-09-17 00:18:18,2025-09-17 02:11:18,Wound Care,South,Follow-up is required. The nurse applied the bandage. The patient is dizzy.
+301250b3-eb03-4578-abad-3c45feaddffe,P40051,N6797,2025-09-17 13:16:01,2025-09-17 14:38:01,Medication Administration,Soutth,The nurse delivered the IV line. The patient is comfortable.
+5f7a7c8d-4cdd-477f-ba70-10443522bbef,P25521,N7325,2025-08-29 05:15:42,2025-08-29 06:34:42,Wound Care,East,The nurse applied the wound dressing. The patient is weak. Monitoring is required.
+553d67be-3e88-4823-a6e7-8bd7d5995a35,P42875,N9403,2025-09-01 09:05:42,2025/09/01 11:03,Wound Cae,South,The nurse delivered the IV line. The patient is in pain. Action is required.
+82ac9733-daed-4909-8b86-5e2e529ff6c0,P80894,N1092,08/21/2025 18:47,2025-08-21 19:21:55,General Chek-up,Soutth,Action is required. The nurse encouraged the strength training. The patient is restless.
+3cdf7c78-ab44-4f7f-bbb6-4d9f77c0d30b,P37065,N2141,2025-08-22 06:28:58,08/22/2025 07:48,Wound Care,North,The nurse cleaned the bandage. The patient is restless. ASAP is required.
+c6a285e2-559b-4f0e-96fc-2e0578193eb0,P86840,N3012,09/06/2025 11:29,2025-09-06 12:03:34,Medication Administration,South,Action is required. The nurse administered the injection. The patient is in pain.
+953bd244-afe3-4d75-9a48-e07a943b0781,P16871,N6515,2025-09-13 20:44:31,2025-09-13 21:50:31,Wound Care,South,
+03375a5c-b65d-4206-b818-53a8c2db7beb,P18243,N6797,"September 16, 2025 01:55AM",,Wound Care,South,Monitoring is required. The nurse dressed the wound dressing. The patient is weak.
+8deedda1-9d79-4fe2-b417-d3d62481109e,P60761,N4178,2025-09-14 20:24:38,2025-09-14 20:35:38,General Check-up,South,ASAP is required. ///\\ The nurse observed the oxygen level. !!! The patient is in pain. ***CONFIDENTIAL***
+70f07c7a-9c56-4397-a35b-e69c8452a03a,P99075,N4192,2025-08-25 03:19:21,2025-08-25 04:32:21,General Check-up,East,
+e3536121-83e2-400e-9196-cd1d657a9757,P99631,N4701,2025-09-15 21:55:24,2025/09/15 23:27,General Check-up,West,The nurse observed the oxygen level. The patient is weak. Ongoing assessment is required.
+20039624-3126-4eae-883c-7bc9fef61150,P38680,N3507,2025-08-24 03:27:54,08/24/2025 03:56,Wound Care,North,Ongoing assessment is required. The nurse cleaned the incision site. The patient is improving.
+ac19676c-3da4-450f-90f0-08ca5f9de66d,P17166,N4192,2025-09-11 15:40:10,,Physical Therapy,South,The nurse guided the mobility exercise. The patient is improving. Monitoring is required.
+738edbc0-8651-479f-927f-f3104cc38b51,P61936,N1841,"August 20, 2025 12:36AM",,General Check-up,North,The nurse observed the blood pressure. The patient is dizzy. Ongoing assessment is required.
+293a0b44-9414-46c6-883e-b2d6ac134c7c,P49432,N1451,2025-09-13 05:02:54,2025/09/13 06:54,Wound Cae,West,The nurse applied the bandage. N/A The patient is stable. xyz123
+1b91cf0a-c7d1-4655-a748-606a32f9c0c9,P69178,N2248,2025-09-15 06:55:38,2025-09-15 07:37:38,Wound Care,North,The nurse changed the incision site. The patient is stable.
+6c42438d-639b-47e8-bb36-951b05e1589e,P83768,N5647,08/27/2025 16:07,"August 28, 2025 05:38AM",Medication Administration,West,The nurse administered the oral dose. The patient is comfortable.
+7e81f2e2-e09e-42cf-9b84-0c04cad2af17,P51093,N4803,2025-09-04 12:26:44,2025/09/04 12:33,Wound Cae,South,The nurse delivered the injection. The patient is comfortable.
+e8c1a4d5-8718-4a79-9f24-06657901435d,P61936,N6797,2025-08-27 12:03:21,2025-08-27 12:48:21,Medication Administration,West,The nurse administered the oral dose. The patient is improving. Monitoring is required.
+22ae4434-7ccb-4780-93c4-0ad433036c5c,P99631,N8880,2025-09-11 04:39:21,2025-09-11 06:16:21,Physical Therapy,East,The nurse guided the strength training. The patient is stable.
+f06b3845-fb03-4319-a832-2db1701b18b2,P21550,N7325,09/07/2025 11:21,"September 07, 2025 12:32PM",Wound Care,North,The nurse applied the incision site. The patient is stable.
+5b360d80-0d87-448b-a1a5-f3263d962c4a,P31555,N6256,"September 18, 2025 06:23AM",2025-09-18 08:12:55,General Check-up,East,The nurse observed the temperature. The patient is comfortable.
+14d93452-c96d-49e2-89cc-454cee67a8fd,P41942,N1960,09/16/2025 22:41,2025-09-16 23:17:21,Physical Therapy,South,Ongoing assessment is required. The nurse assisted the mobility exercise. The patient is weak.
+ae45d1f8-2774-412f-b594-06461d04c2a8,P38920,N9851,2025-09-12 04:08:04,"September 12, 2025 05:31AM",General Check-up,Wsst,
+6ec1b80a-b325-4990-ad17-9c929efb015c,P40161,N1568,2025-08-29 07:17:21,,Wound Care,South,The nurse applied the incision site. >>>???<<< The patient is weak. ///\\ Review is required. ~~~
+f78a8b8d-71c4-4324-a0c2-7475b2f1da05,P38690,N4983,2025-09-07 13:37:53,2025/09/07 15:16,Pyhcisal Therapy,South,The nurse delivered the injection. The patient is stable.
+9e734871-dbe7-4366-b7ae-c44b43ad37f9,P22128,N5881,"September 15, 2025 10:30AM",2025-09-15 15:53:29,Wound Cae,Wsst,Review is required. The nurse guided the mobility exercise. The patient is weak.
+d4b834c8-c9c3-452c-80c3-45de1b13717a,P67964,N9403,2025/08/28 01:23,2025-08-28 03:21:31,Medication Administration,East,The nurse delivered the injection. The patient is stable.
+5fbf8eba-4b1d-4261-89fe-6f37f4f0bc56,P69047,N3178,2025-09-06 22:08:34,2025-09-06 23:48:34,Medication Administration,North,Action is required. The nurse provided the injection. The patient is in pain.
+826e8c7f-6f68-4435-99db-5e56093972a4,P30369,N8880,2025-08-21 22:08:06,2025/08/21 23:45,Wound Care,East,The nurse applied the incision site. The patient is restless. Critical is required.
+1d295fd4-14e0-4daa-b28f-932616d49bea,P17551,N1148,2025-09-06 10:40:01,2025-09-06 11:15:01,Pyhcisal Therapy,South,The nurse dressed the incision site. The patient is comfortable.
+d25cc20a-272b-4bb8-bc6f-0c2e1f79ca6f,P14313,N8880,2025-08-28 22:13:29,2025-08-28 22:51:29,Wound Care,West,
+a464254d-f8e6-4cec-b6c8-caeecaca43a8,P65395,N3933,09/10/2025 20:56,2025-09-10 21:10:19,General Check-up,Wsst,
+e44dbd31-5a07-4908-8819-512d7d224666,P55858,N9821,2025/08/20 13:01,2025/08/20 13:17,Medication Administration,West,ASAP is required. The nurse delivered the oral dose. The patient is in pain.
+c44f4a3b-12cf-47f9-b4e5-ee8ba3efe144,P34938,N9783,2025/09/05 01:44,2025-09-05 01:58:08,General Check-up,West,The nurse monitored the oxygen level. The patient is improving. Follow-up is required.
+ccc7d3b6-30ea-44be-8501-a09af5bb6531,P64612,N3012,"September 13, 2025 10:10PM",,Medication Administration,South,The nurse administered the injection. The patient is comfortable.
+8450876d-9d9d-425c-bc71-0edbdca07689,P47490,N9098,2025-09-16 19:11:24,2025-09-16 20:46:24,General Check-up,North,Ongoing assessment is required. The nurse checked the vital signs. The patient is dizzy.
+c832a50b-daef-4ca3-8528-49dd59c2dbaa,P72043,N4192,2025-09-11 02:23:21,,Physical Therapy,South,Critical is required. The nurse assisted the range of motion. The patient is restless.
+4d4d07be-c5a8-4eab-8218-3fc271aa8df0,P41955,N5170,2025-09-14 19:32:09,2025-09-14 19:45:09,General Check-up,South,The nurse reviewed the oxygen level. The patient is stable.
+51f2210c-843a-4d28-964d-5e5662bf2e21,P39656,N7969,2025/09/08 18:00,2025-09-08 18:45:51,Medicatn Adminstratino,West,The nurse changed the incision site. The patient is improving. Ongoing assessment is required.
+b64842f1-f839-4423-905c-cb8466dea497,P13118,N8221,2025-09-16 00:58:02,2025-09-16 02:52:02,Physical Therapy,West,The nurse monitored the strength training. The patient is restless. Critical is required.
+ce11f81c-419e-41e9-9af1-cea30a6283ab,P98420,N1568,09/05/2025 14:30,2025-09-05 15:50:20,General Check-up,North,The nurse observed the temperature. The patient is dizzy. Monitoring is required.
+1a0ddd23-c80e-464e-927d-14747d07b542,P88018,N8221,2025/08/20 01:09,2025-08-20 01:23:03,Wound Care,South,The nurse dressed the bandage. ###$$$%%%^^^ The patient is improving. N/A Ongoing assessment is required. ~~~
+aa42943b-e8dd-4a9c-b1b5-bfde2374dce1,P15966,N6797,2025-09-07 04:09:22,2025-09-07 04:43:22,Physical Therapy,East,Action is required. The nurse monitored the gait practice. The patient is in pain.
+b21ea300-e42e-4eb3-9158-8754d32b0a69,P71094,N7948,08/27/2025 07:51,2025-08-27 09:12:51,Pyhcisal Therapy,West,Ongoing assessment is required. The nurse checked the vital signs. The patient is weak.
+41c6071d-0760-4fa6-bf8b-b3f3de99ac77,P26222,N8957,09/03/2025 00:42,"September 03, 2025 02:02AM",Medication Administration,West,The nurse provided the oral dose. The patient is dizzy. Monitoring is required.
+c0dd7389-ae83-4fd9-b4ec-33b6d6ddbd25,P28278,N5275,2025-09-08 11:09:33,2025-09-08 12:46:33,Physical Therapy,South,The nurse guided the mobility exercise. The patient is restless. Action is required.
+73807388-3de8-42bb-a7c2-ff85268e9977,P35935,N3012,2025-08-21 13:44:57,,Physical Therapy,West,The nurse guided the range of motion. The patient is dizzy. Ongoing assessment is required.
+3c1a8399-6ac4-413f-bed3-134f88ae8c3e,P79678,N3280,2025-09-14 14:35:00,2025-09-14 15:01:00,Medication Administration,East,The nurse delivered the injection. The patient is stable.
+9f2e5eec-f5f8-4504-8fb7-a4a72e6e1c1d,P69363,N1415,2025-09-18 02:20:39,2025-09-18 02:44:39,Medication Administration,North,The nurse delivered the injection. xyz123 The patient is stable. >>>???<<<
+a165ef28-a4f1-48ea-a587-94fda113690a,P65943,N6797,2025-09-13 07:19:43,2025-09-13 08:02:43,General Check-up,West,The nurse checked the vital signs. The patient is in pain. Critical is required.
+4053a2c1-b4b3-4375-9cc6-8220d53fa278,P84794,N9993,08/25/2025 03:59,,Wound Care,East,
+67176624-29c0-4692-b3fa-870b98bd05e2,P59768,N9098,2025-09-04 07:36:07,2025-09-04 09:25:07,Wound Care,West,
+258cdb2a-a9b1-447d-8170-89315ccb6674,P77303,N3028,2025-08-20 19:38:18,2025-08-20 20:56:18,Wound Care,South,The nurse applied the incision site. The patient is dizzy. Review is required.
+17d43fba-3f83-493a-b32b-c6cf964bd8fd,P89148,N2141,2025-09-17 04:52:54,2025/09/17 06:30,Wound Care,North,The nurse dressed the wound dressing. The patient is restless. Critical is required.
+c16be89a-a340-4478-8064-6b8d6b0b397f,P17551,N7300,"September 03, 2025 10:59PM",,Medication Administration,North,The nurse administered the oral dose. The patient is stable.
+1fd82a41-6a65-4be7-bde7-54ffac03d85f,P40161,N5590,2025-09-16 21:53:22,2025-09-16 23:10:22,Wound Care,North,The nurse cleaned the incision site. The patient is stable.
+84b9b502-cdfc-4e76-913d-50224983de30,P89954,N8721,2025/08/23 01:18,2025-08-23 02:09:12,General Check-up,West,The nurse reviewed the blood pressure. The patient is restless. ASAP is required.
+fd67e511-b631-4c9a-a885-1ef3a49217bf,P58604,N1252,2025/08/19 20:14,2025-08-19 20:35:08,General Check-up,East,The nurse monitored the blood pressure. The patient is comfortable.
+3d07ea7a-f271-46a6-9425-fa9974aac91a,P54995,N2273,2025-08-30 20:05:47,2025-08-30 21:51:47,Wound Care,South,The nurse applied the wound dressing. The patient is weak. Monitoring is required.
+dbba69de-10a5-4588-98de-a80fd6aa0e5e,P57919,N3280,2025-08-28 19:36:43,"August 28, 2025 09:26PM",Medication Administration,East,Urgent is required. The nurse provided the medication. The patient is restless.
+6d851ded-1ce0-47c5-ac28-4b3c770553b6,P63937,N9926,2025-09-13 10:30:59,2025/09/13 11:12,Physical Therapy,East,The nurse encouraged the mobility exercise. The patient is in pain. Action is required.
+7bfd7e78-6b16-40c4-ae6e-356cb6329cd4,P92673,N2340,2025-08-27 16:43:42,2025-08-27 16:55:42,Physical Therapy,South,ASAP is required. The nurse monitored the range of motion. The patient is in pain.
+bccf70b6-3859-41e0-a5ef-02be5112f596,P43502,N3507,2025/09/01 01:24,"September 01, 2025 01:49AM",Wound Care,South,The nurse dressed the incision site. The patient is dizzy. Ongoing assessment is required.
+a0196e61-0142-46d9-a43a-816270518466,P38425,N3507,2025-09-17 06:41:10,2025-09-17 07:34:10,Physical Therapy,Notrh,Ongoing assessment is required. The nurse monitored the range of motion. The patient is improving.
+a06147c5-fdb1-43b5-b915-ebc3b17cd6df,P40234,N2804,2025-08-26 23:12:35,08/26/2025 23:40,Physical Therapy,South,The nurse encouraged the gait practice. The patient is restless. Critical is required.
+35bfbff6-c882-440c-8721-00deae33ce55,P69020,N5275,2025-09-08 02:31:24,2025-09-08 02:45:24,Wound Care,West,The nurse cleaned the wound dressing. The patient is in pain. Critical is required.
+ccc6d183-3881-483c-b970-1be4f8d2debe,P69363,N7276,2025-09-04 04:43:20,2025-09-04 05:08:20,General Check-up,Wsst,The nurse reviewed the patient condition. The patient is comfortable.
+f65706db-ca41-45d5-a9e7-3679055adc78,P61643,N5275,2025-08-28 23:56:25,,Wound Cae,South,Critical is required. The nurse monitored the oxygen level. The patient is in pain.
+2c401c60-fbff-446b-ae47-f4b070e4a96b,P23151,N2141,2025-08-25 00:48:42,"August 25, 2025 02:15AM",Pyhcisal Therapy,West,Critical is required. The nurse provided the oral dose. The patient is in pain.
+c80761c3-a7f7-4e5e-ba91-920a8a30fb1c,P10799,N2248,09/05/2025 04:16,2025-09-05 05:00:46,Medication Administration,South,The nurse administered the oral dose. N/A The patient is comfortable. ###$$$%%%^^^
+e60d32c2-f55b-4eb6-bd78-6962befdb722,P42155,N6256,2025-08-29 20:45:54,08/29/2025 22:45,Wound Care,North,Review is required. The nurse applied the bandage. The patient is weak.
+cdc62541-819a-4942-b311-a5488523f03f,P99162,N5633,2025-09-04 18:26:51,2025/09/04 20:00,Physical Therapy,North,The nurse guided the gait practice. ~~~ The patient is improving. N/A Ongoing assessment is required. ##--##
+432cf1f3-3dc1-4a97-9ff4-724c2db2d1b7,P43344,N1975,2025-09-17 05:03:28,2025-09-17 06:11:28,Physical Therapy,East,The nurse encouraged the gait practice. The patient is comfortable.
+2ce25bf7-30be-4aad-a17a-101cac12f58b,P25976,N5472,2025-08-22 07:56:09,08/22/2025 08:27,General Chek-up,East,The nurse changed the wound dressing. The patient is improving. Monitoring is required.
+ec09fa84-50de-4670-91f1-83a2b290f1cb,P89830,N1066,2025-08-26 06:00:49,2025-08-26 06:01:49,Medication Administration,North,Follow-up is required. The nurse delivered the oral dose. The patient is improving.
+b15c8ae9-d1a9-446d-be6d-7a6cc3a2b2f2,P40051,N4957,2025-09-02 06:28:32,2025-09-02 08:19:32,Wound Care,West,The nurse dressed the wound dressing. The patient is improving. Follow-up is required.
+27be9a63-e178-4ddd-b579-a6425f24de35,P25961,N1066,2025-09-12 20:56:12,2025-09-12 21:08:12,Physical Therapy,North,The nurse monitored the strength training. The patient is improving. Monitoring is required.
+d82a0472-0d24-4d32-b2c4-dd437f8fce1a,P42865,N9821,2025-08-27 16:00:35,2025-08-27 16:15:35,General Check-up,North,The nurse checked the blood pressure. The patient is restless. Urgent is required.
+40ef16dc-0712-4c82-8b62-4fe512d4be06,P50876,N8068,2025-09-16 03:26:51,2025-09-16 05:03:51,General Check-up,North,
+8dd60537-4084-4161-a674-8be320f1a77f,P54147,N5170,2025-08-19 20:07:55,2025-08-19 21:40:55,Wound Care,East,The nurse dressed the wound dressing. The patient is dizzy. Follow-up is required.
+a866cce6-f010-48df-be8f-89eea19bb916,P46211,N6598,2025-09-18 07:56:12,2025-09-18 08:25:12,General Check-up,West,The nurse reviewed the vital signs. The patient is stable.
+62a79457-7439-4509-92b6-c6cb52ff3968,P74908,N7676,2025-08-24 20:03:20,"August 24, 2025 08:13PM",Medication Administration,North,The nurse delivered the oral dose. The patient is stable.
+1b7b80df-afe3-4b29-9bb5-d50cb995b1a5,P13878,N3681,"August 19, 2025 12:19PM",2025-08-19 13:46:52,Physical Therapy,West,The nurse guided the strength training. The patient is dizzy. Ongoing assessment is required.
+6a7cb188-5590-460d-a4d9-5c56c707fb8f,P12020,N3280,2025-09-05 18:54:31,2025-09-05 20:03:31,Wound Care,North,The nurse applied the bandage. The patient is in pain. Critical is required.
+b16257ff-36be-4bee-91db-51f38c5533e6,P88018,N2340,2025-08-19 14:22:52,"August 19, 2025 03:02PM",Medication Administration,South,Follow-up is required. The nurse delivered the oral dose. The patient is improving.
+3aa0090a-e409-4b3a-8146-a27cae61a29d,P95038,N5633,2025-09-06 07:31:07,2025-09-06 08:33:07,Wound Care,South,The nurse changed the wound dressing. The patient is comfortable.
+1ba14e72-b8f6-4666-979e-de4b852bbab9,P51923,N8286,2025-08-23 13:54:56,08/23/2025 15:30,Medication Administration,North,
+f269a806-0aea-462d-b7c9-3ae18970c58c,P22006,N2340,2025-09-10 07:08:39,,Wound Care,East,The nurse dressed the incision site. The patient is comfortable.
+d88924fe-60d3-4cd1-8743-b35d760c3a9a,P42578,N7992,2025/09/06 11:22,09/06/2025 12:41,General Check-up,North,The nurse reviewed the vital signs. The patient is dizzy. Review is required.
+62c7c3d9-ee40-4b35-bd83-41263fdf8f8c,P74564,N9346,09/07/2025 14:01,,Medication Administration,North,The nurse administered the injection. The patient is comfortable.
+d9a63460-e6f3-4421-8db8-7078a1829cb4,P24047,N4178,09/04/2025 08:35,2025-09-04 09:33:17,Physical Therapy,North,The nurse guided the range of motion. The patient is comfortable.
+009bf2f9-68b5-4542-bb44-9a7fc2ddb527,P99162,N9196,2025/09/08 04:18,2025-09-08 05:48:50,Wound Care,North,Monitoring is required. The nurse changed the incision site. The patient is improving.
+d88083f0-6815-4bdf-9fef-25f05f8396c1,P55975,N3763,"September 13, 2025 06:54PM",2025-09-13 19:33:22,General Check-up,West,The nurse observed the patient condition. The patient is in pain. ASAP is required.
+4c594405-d0ce-4655-a9ff-a60e0e9aecbe,P61519,N4803,2025-09-12 19:52:35,2025-09-12 20:39:35,Physical Therapy,North,The nurse monitored the strength training. The patient is in pain. Urgent is required.
+b5aea71f-2335-43de-8526-d5cc759ba83a,P20594,N7992,2025-08-21 10:09:18,2025/08/21 11:24,Wound Care,South,Monitoring is required. The nurse cleaned the incision site. The patient is weak.
+a3954385-2058-4f0a-a44d-113268b0d5c7,P91039,N3088,2025-09-13 20:30:00,2025-09-13 22:23:00,Wound Care,East,
+167415ca-5ceb-4a59-8e9b-ba24f510987f,P69665,N6068,2025-09-02 04:00:58,2025-09-02 05:27:58,Medication Administration,North,Urgent is required. The nurse administered the medication. The patient is in pain.
+f87c6b5a-655e-4fc0-9c41-11180530e8d9,P17166,N7368,08/28/2025 14:39,2025-08-29 09:11:59,Physical Therapy,North,The nurse encouraged the mobility exercise. The patient is stable.
+a072c6af-c11b-4155-b93d-fa4c32564776,P75020,N9428,2025-09-12 04:15:41,2025-09-12 04:28:41,Physical Therapy,West,
+75f5aca3-38b1-48fb-83f1-805a7fa3e054,P33058,N5881,09/04/2025 15:01,,Wound Care,West,The nurse applied the incision site. The patient is stable.
+b16281b9-a824-4c11-aed4-bb6b0409a005,P64231,N8221,2025-09-07 20:03:46,2025-09-07 20:12:26,Physical Therapy,West,The nurse assisted the strength training. The patient is improving. Follow-up is required.
+170b3733-e6fb-4215-bcb9-6b1960f2e8d1,P65395,N9403,2025-09-05 18:38:26,,Pyhcisal Therapy,Soutth,The nurse administered the IV line. The patient is comfortable.
+2fe1a0bc-5ff2-4c2c-ae2f-cdd5db41dcda,P36670,N4192,2025/08/29 18:12,2025/08/29 19:46,Medicatn Adminstratino,Wsst,The nurse administered the oral dose. The patient is improving. Monitoring is required.
+6f186495-c702-4b82-bb19-677f4608fa9c,P57322,N8955,2025/08/30 11:06,2025-08-30 11:53:24,General Check-up,East,The nurse observed the temperature. The patient is dizzy. Ongoing assessment is required.
+017db6be-a7d5-4571-bda2-a1ff89d90e13,P62729,N9851,2025-08-25 12:40:10,2025-08-25 12:41:24,Wound Care,South,The nurse changed the bandage. ###$$$%%%^^^ The patient is weak. >>>???<<< Follow-up is required. xyz123
+293a0b44-9414-46c6-883e-b2d6ac134c7c,P18410,N3943,09/12/2025 22:04,2025/09/12 23:12,Wound Care,North,The nurse dressed the incision site. The patient is improving. Ongoing assessment is required.
+aa0dd82c-c55f-45db-ac92-feb06670df76,P72901,N6598,"August 31, 2025 09:02PM",2025/08/31 22:32,Physical Therapy,North,The nurse encouraged the range of motion. The patient is comfortable.
+b4077ee4-14ca-4f52-907d-21f21b71835c,P74869,N1451,08/28/2025 19:34,"August 28, 2025 07:57PM",Physical Therapy,North,
+243761f0-559d-4ac2-a809-043489d96d33,P96262,N9346,2025-08-24 03:32:45,2025-08-24 04:27:45,Medication Administration,East,
+b16281b9-a824-4c11-aed4-bb6b0409a005,P40492,N7676,2025-09-13 18:27:59,09/13/2025 20:00,Physical Therapy,West,
+7e55b133-e0ea-4172-9667-375cdcd5f5c7,P78241,N3280,2025-08-24 10:49:01,"August 24, 2025 12:15PM",Wound Care,North,Action is required. The nurse changed the incision site. The patient is in pain.
+2d733677-ffb9-40ee-9453-31fe520317fc,P90140,N1415,2025-08-30 03:20:19,"August 30, 2025 03:42AM",Wound Care,North,The nurse cleaned the bandage. The patient is dizzy. Follow-up is required.
+a3ece2e0-4324-4777-81b0-fbe2b07d8823,P31799,N9783,2025-09-13 02:27:55,2025-09-13 04:19:55,Medication Administration,North,The nurse provided the IV line. The patient is comfortable.
+6152c735-ecf9-44a0-b1eb-38d4483e9e4a,P40161,N4957,08/30/2025 17:47,2025-08-30 18:17:28,Physical Therapy,East,The nurse assisted the range of motion. The patient is dizzy. Ongoing assessment is required.
+14bcd25f-bc9e-4f84-850e-251aa3e76034,P86665,N5698,2025-08-21 05:28:28,2025-08-21 05:56:28,Physical Therapy,West,
+b14938c9-6c2e-469a-9202-9dcabe8ac6fa,P38281,N2044,2025-09-05 05:14:32,,Wound Care,West,The nurse changed the incision site. The patient is stable.
+d6e1f74b-d314-484d-8dc2-2ea89f70c9a8,P63554,N5881,2025-09-13 19:31:20,2025-09-13 21:23:20,Wound Care,North,The nurse applied the incision site. The patient is restless. Urgent is required.
+d29a6cee-e5f9-46cd-85f3-0cc7d5c085df,P61080,N1975,2025/09/09 09:09,09/10/2025 01:13,Wound Care,North,The nurse cleaned the bandage. The patient is weak. Ongoing assessment is required.
+e81a3a0a-1ebb-42ee-abc2-ac236c77df4f,P23065,N5551,2025-08-23 15:10:54,2025-08-23 16:58:54,Physical Therapy,North,Urgent is required. The nurse monitored the mobility exercise. The patient is restless.
+7acb7b33-189d-4647-bf59-d89f7520656d,P50292,N9428,09/12/2025 03:21,09/12/2025 03:31,Medication Administration,South,The nurse delivered the oral dose. The patient is dizzy. Follow-up is required.
+f5121c7a-9b6b-4c9c-8cd0-a0a2978d1fb7,P47490,N6322,2025-08-24 12:50:33,2025-08-24 12:55:17,Wound Care,North,Ongoing assessment is required. ~@#` The nurse cleaned the bandage. ~@#` The patient is weak. !!!
+5e96fbe0-6d32-46d8-9fd4-ba4d0be24810,P42915,N5170,2025-09-17 06:36:43,2025-09-17 08:27:43,Physical Therapy,South,The nurse encouraged the strength training. The patient is stable.
+0b2cc71c-8a9d-4b92-b1c3-2abf3073eef9,P20842,N6025,2025-08-22 07:06:18,2025-08-23 00:55:48,Wound Care,North,The nurse cleaned the bandage. The patient is stable.
+78dd7c48-352e-4647-a7d7-88e0a842049b,P30993,N3933,2025-08-24 08:37:43,2025-08-24 10:21:43,Pyhcisal Therapy,West,
+6a86721c-bff3-456b-9617-d48fc6415389,P16871,N5562,2025-08-29 06:56:28,2025-08-29 08:35:28,Medicatn Adminstratino,North,The nurse administered the injection. The patient is stable.
+265066d0-6ba7-4658-b9a4-bda4789c92b7,P61643,N4192,2025-08-24 15:53:22,"August 24, 2025 05:46PM",General Check-up,East,The nurse reviewed the patient condition. The patient is comfortable.
+cdb1d213-6ec3-4074-932f-669c70fb8743,P41758,N9346,2025-09-05 00:02:01,2025-09-05 01:17:01,Wound Care,West,Monitoring is required. The nurse changed the incision site. The patient is improving.
+0a77d9f1-2e64-4ab0-a9d7-4fa4174f5515,P38740,N4881,"August 21, 2025 03:50PM",2025-08-21 17:49:13,Medication Administration,East,The nurse delivered the injection. The patient is comfortable.
+a479261a-862b-4764-a80b-559a0c93b15b,P28577,N5698,2025-09-01 16:43:50,2025-09-01 17:27:50,General Check-up,West,
+fc781e23-38aa-46e9-8488-7b12df3c5428,P19469,N9403,2025-08-29 14:29:55,2025-08-29 14:39:55,Wound Care,South,Critical is required. The nurse applied the incision site. The patient is in pain.
+71cb3fd0-5678-44d9-a832-4f72218fdbda,P94789,N4754,2025-09-14 21:10:47,09/14/2025 21:24,General Check-up,West,The nurse observed the blood pressure. The patient is comfortable.
+f03966b2-0466-43d8-8897-0abc29c70423,P37321,N8250,2025-09-12 06:12:03,,Physical Therapy,Notrh,The nurse guided the strength training. The patient is in pain. Action is required.
+0e7ea739-1d31-4588-9d15-cee64a87366a,P74604,N2340,2025-09-07 14:59:08,2025-09-07 15:51:08,Physical Therapy,South,
+38101e55-73db-44e7-ab13-e6a7757bcf74,P81529,N9403,2025-09-15 17:21:38,2025/09/15 17:37,Wound Cae,East,The nurse dressed the wound dressing. The patient is restless. Critical is required.
+3ec3079b-7ebc-4df0-a6a6-69ff060000e4,P34370,N1960,2025-08-30 02:36:51,"August 30, 2025 02:54AM",General Check-up,West,Critical is required. The nurse observed the temperature. The patient is in pain.
+60db1a0e-4638-4fd5-befa-d1504270fcc4,P13984,N2838,2025-09-04 13:36:05,2025-09-04 15:13:05,General Check-up,West,The nurse checked the blood pressure. The patient is stable.
+11106e2e-c7ff-4d17-90ed-e2a73f42dd27,P21488,N5472,2025-09-01 19:19:14,2025/09/01 20:18,Medication Administration,West,Monitoring is required. The nurse provided the IV line. The patient is dizzy.
+3a5c54a6-b324-4104-b0b1-d160ab1849d7,P69982,N7717,2025-08-24 05:16:56,2025-08-24 05:54:56,General Chek-up,South,The nurse monitored the blood pressure. The patient is comfortable.
+dc7adaac-8ae6-4c46-96fb-870b77b35b47,P27013,N7717,2025-08-26 02:02:20,08/26/2025 20:38,General Check-up,South,The nurse reviewed the temperature. The patient is stable.
+26e8f2af-6c83-4a41-b7a5-7f66d4f49507,P39388,N3178,"September 09, 2025 06:08AM",2025/09/09 08:03,Medication Administration,West,Ongoing assessment is required. The nurse administered the injection. The patient is improving.
+c107d993-1680-44a9-96af-b778c2576de7,P46716,N1960,2025-09-09 11:12:55,2025-09-09 12:35:55,General Check-up,East,ASAP is required. The nurse observed the temperature. The patient is restless.
+537dfc3d-6e86-4085-8c28-4f71234cf798,P42155,N1252,2025-08-21 16:56:37,2025-08-21 18:33:37,Medication Administration,North,The nurse administered the injection. The patient is stable.
+97460e40-5599-48d9-a166-0673b90bb954,P36998,N8957,2025-09-04 07:23:42,2025-09-04 08:42:42,Physical Therapy,East,The nurse guided the gait practice. The patient is restless. Urgent is required.
+2b053b6f-0047-498e-a605-d6ce0d00959d,P24424,N8721,2025-09-07 05:04:41,2025-09-07 06:33:41,Medication Administration,East,The nurse provided the injection. The patient is improving. Monitoring is required.
+76b38bc6-7f62-4d1f-9329-c52d6c0d348a,P27013,N8955,2025-09-07 08:55:40,2025-09-07 09:30:40,General Check-up,North,Ongoing assessment is required. ~~~ The nurse reviewed the blood pressure. ##--## The patient is improving. ###$$$%%%^^^
+5d177dfa-0c29-43b8-be69-b07aa71db52d,P23065,N6322,2025-08-27 21:37:18,2025-08-27 22:28:18,Wound Care,Soutth,Monitoring is required. The nurse dressed the incision site. The patient is improving.
+32e27f96-ad51-423d-9c22-ede60cc664fc,P35358,N3507,2025-08-20 10:24:02,2025-08-20 10:28:32,Medication Administration,West,The nurse provided the oral dose. The patient is comfortable.
+d90cc26c-8f62-4014-9ca4-cb3d1ef037b9,P10799,N5551,2025-08-25 08:35:49,2025-08-25 09:51:49,General Check-up,East,The nurse reviewed the blood pressure. The patient is stable.
+09425b83-b441-4ec8-bad2-f3d872266058,P96204,N9428,2025-09-14 17:30:16,09/14/2025 17:59,Medication Administration,East,The nurse administered the IV line. The patient is restless. Urgent is required.
+83a2d1bb-5a06-49b3-b1a8-72ac8f2f93bd,P63937,N1960,2025-09-02 04:48:57,2025/09/02 05:15,General Check-up,North,The nurse checked the patient condition. The patient is weak. Monitoring is required.
+66753810-a24f-4a23-89f2-1ccc4730916a,P46752,N4605,2025-09-15 06:58:05,09/15/2025 07:02,General Check-up,South,Follow-up is required. N/A The nurse observed the patient condition. >>>???<<< The patient is weak. N/A
+c40b9642-a435-4956-a37a-ec73752c4cec,P76532,N3088,2025-08-23 04:58:33,08/23/2025 06:42,Medication Administration,East,The nurse delivered the oral dose. The patient is comfortable.
+d8ed0850-9cb3-49a2-aa94-0e1668f5d091,P72941,N3178,"September 10, 2025 04:33AM","September 10, 2025 05:22AM",Wound Care,East,Follow-up is required. ///\\ The nurse dressed the incision site. ~@#` The patient is dizzy. ***CONFIDENTIAL***
+613f6f9b-1cad-480b-bc9b-0a8324f091c3,P79915,N1960,09/03/2025 23:17,09/04/2025 00:56,Medication Administration,East,The nurse delivered the medication. The patient is improving. Monitoring is required.
+41ff19fa-3760-41a2-a2fb-884b45529835,P47463,N4983,2025-08-22 00:30:20,2025-08-22 01:00:20,General Check-up,South,Follow-up is required. The nurse checked the patient condition. The patient is improving.
+98ec25d5-af2b-4d84-a77e-d1a276430235,P21488,N1148,2025-09-06 07:33:27,"September 06, 2025 08:08AM",Medication Administration,West,The nurse delivered the oral dose. The patient is restless. Urgent is required.
+412bf0b1-061b-465e-95e6-b2cc42501189,P24151,N1380,2025-08-29 21:41:43,2025/08/29 22:42,Wound Care,North,
+8d334bdf-0927-4c26-b1f0-4d6fc497a377,P74515,N8068,2025-09-02 06:25:53,"September 02, 2025 08:16AM",General Check-up,South,Critical is required. The nurse reviewed the oxygen level. The patient is restless.
+26acd956-6e21-4acc-a298-bd142dfc9ccf,P18243,N5275,2025-08-27 17:31:39,"August 27, 2025 06:43PM",Wound Care,South,
+ba7a9785-4d4f-4c00-a86d-476347948cd1,P26012,N4875,08/23/2025 05:25,2025-08-23 06:22:01,Wound Cae,West,The nurse observed the patient condition. The patient is comfortable.
+7c4e4a77-6786-4905-a89f-f8224f3a32fb,P46211,N6322,"September 01, 2025 04:13AM",09/01/2025 05:14,General Check-up,North,The nurse reviewed the temperature. N/A The patient is in pain. !!! ASAP is required. N/A
+6a5b163e-4107-4546-8e8b-f88c568740a5,P35198,N4983,2025-09-15 17:28:50,2025-09-15 17:52:50,Wound Care,East,The nurse dressed the bandage. ~@#` The patient is improving. xyz123 Monitoring is required. ###$$$%%%^^^
+c6ddfe78-ee4b-4201-9672-1b8b2790c754,P39656,N1148,2025-08-22 13:24:44,2025-08-22 14:33:44,Wound Care,South,Critical is required. The nurse cleaned the incision site. The patient is in pain.
+7a2e87cc-ce8d-48f0-8b7d-ffe81a6754a3,P68008,N7717,09/11/2025 22:24,2025-09-11 23:57:42,Wound Care,North,The nurse applied the bandage. The patient is comfortable.
+a04b3d01-7f3e-42eb-ba47-32e57c5be010,P22982,N2248,2025-08-26 08:22:17,2025-08-26 10:06:17,Medication Administration,South,Action is required. xyz123 The nurse delivered the medication. N/A The patient is in pain. ###$$$%%%^^^
+4b7a93f7-9607-41eb-826c-9d79c5b20627,P90140,N4983,2025-08-29 00:06:52,2025/08/29 01:52,Physical Therapy,South,The nurse assisted the range of motion. The patient is in pain. ASAP is required.
+e9aadc80-388a-4e1d-844a-10438d9cc8d7,P69665,N6515,2025-09-01 22:05:23,2025-09-02 00:04:23,Wound Care,North,The nurse cleaned the incision site. The patient is weak. Follow-up is required.
+3cecf442-dbbe-4ff9-9429-bb38ccbc82a3,P94171,N6515,2025-08-21 12:05:39,2025-08-21 12:21:39,Physical Therapy,East,The nurse monitored the gait practice. The patient is comfortable.
+28e14b49-ed29-4d98-9545-ea2eba8087b2,P57919,N5590,2025-09-14 11:34:55,,Medication Administration,North,The nurse provided the medication. The patient is dizzy. Follow-up is required.
+263e117a-9fbe-4399-8124-df594770e3a5,P47749,N2248,09/01/2025 09:57,2025-09-01 10:12:38,Wound Care,West,
+04fa18e2-0f11-408a-ae2e-b10b319092c4,P28278,N2273,2025-09-13 14:27:51,2025-09-13 15:44:51,General Check-up,North,The nurse reviewed the blood pressure. The patient is stable.
+f39ebb11-5f49-4dcc-b3a2-b48124286a16,P95148,N1519,2025-08-28 00:06:55,2025-08-28 00:20:55,General Check-up,North,The nurse checked the blood pressure. The patient is in pain. Critical is required.
+96f990c8-3ff9-4562-892b-23b2cd9e7368,P15966,N8068,2025-09-08 01:24:45,"September 08, 2025 01:36AM",General Check-up,East,Ongoing assessment is required. The nurse observed the temperature. The patient is weak.
+ef407040-b988-43e0-946d-59bbd11b005f,P50501,N1451,2025/08/23 03:52,08/23/2025 05:26,Physical Therapy,East,Monitoring is required. N/A The nurse assisted the range of motion. N/A The patient is improving. ***CONFIDENTIAL***
+21da467a-ae88-4c9b-970c-27a507b350cc,P21555,N1415,2025/08/20 03:51,2025-08-20 04:58:27,Medication Administration,West,Monitoring is required. The nurse delivered the IV line. The patient is dizzy.
+1c2dfff9-7677-41b8-b81f-c62ad90b06c1,P72592,N3978,2025-08-26 10:31:35,08/26/2025 12:02,Physical Therapy,North,Monitoring is required. The nurse monitored the range of motion. The patient is weak.
+3abd6c21-5373-428b-8635-e49409d53943,P74515,N7658,2025-09-03 10:19:14,2025/09/03 11:13,Wound Care,South,Monitoring is required. The nurse dressed the bandage. The patient is improving.
+795504bf-d2a4-4e2c-b734-5414d2851748,P92300,N2141,"September 02, 2025 02:02AM",2025-09-02 03:44:28,Medication Administration,South,ASAP is required. !!! The nurse provided the medication. !!! The patient is restless. ###$$$%%%^^^
+d978d74f-26ec-4152-bd3c-b1ff16e84aa8,P52569,N1148,"September 16, 2025 10:16AM",2025-09-16 10:26:30,General Check-up,South,ASAP is required. The nurse checked the vital signs. The patient is in pain.
+ca657da9-dc86-40ab-b62c-08aab3ca0892,P24151,N3280,2025-08-28 23:28:40,,Physical Therapy,West,Critical is required. The nurse guided the gait practice. The patient is restless.
+cbd2fdc0-25a7-45a7-a3ec-096e19526868,P88600,N3933,2025-08-26 20:50:45,08/26/2025 22:43,Medication Administration,West,The nurse administered the injection. The patient is stable.
+9430d558-c1de-43b9-8ee5-7661d38810b7,P35198,N7658,2025-09-09 22:48:05,2025-09-09 23:24:05,Medication Administration,West,The nurse administered the medication. The patient is dizzy. Follow-up is required.
+ccc6d183-3881-483c-b970-1be4f8d2debe,P53879,N1841,2025/08/20 12:48,2025-08-20 16:36:48,Wound Cae,South,The nurse delivered the IV line. The patient is in pain. ASAP is required.
+9cca5588-af12-4424-afc8-eb301e86c902,P96262,N4192,2025-09-14 07:57:21,2025-09-14 08:09:21,Physical Therapy,West,The nurse encouraged the gait practice. The patient is restless. Critical is required.
+40d95183-794c-440f-a2cc-5d194e4dd921,P67227,N3933,08/29/2025 08:44,2025-08-29 09:50:05,Medication Administration,East,The nurse delivered the medication. The patient is dizzy. Ongoing assessment is required.
+364104f6-cd23-44fe-80ef-5ef73b20bd26,P43492,N5633,2025-08-28 21:21:12,,Wound Care,West,
+c592d08a-072e-4723-a588-cae32010a1ba,P29486,N2804,2025-09-01 18:44:57,2025-09-01 20:18:57,General Check-up,East,The nurse observed the temperature. The patient is restless. ASAP is required.
+a28cb902-28d6-473b-ad60-1cfee5cfb32a,P51682,N7325,2025-08-26 05:29:55,2025-08-26 06:26:55,Pyhcisal Therapy,West,The nurse administered the IV line. The patient is comfortable.
+9265e57e-c916-48a8-a2ad-14235bed3c8d,P83843,N9098,"September 17, 2025 05:54AM",2025-09-17 07:09:11,Wound Care,East,The nurse applied the wound dressing. The patient is restless. ASAP is required.
+e3622925-a868-4f48-92be-0f0b0c87091b,P13118,N9926,2025-08-24 02:05:06,2025/08/24 03:14,Wound Care,West,Action is required. The nurse dressed the incision site. The patient is restless.
+c7c11023-7dac-4c1f-979b-89eb1ed4147e,P52839,N9242,2025-09-18 02:16:48,2025-09-18 04:01:48,Medication Administration,West,The nurse administered the injection. The patient is dizzy. Monitoring is required.
+8a064954-16a8-43c7-8e13-20e53dcece05,P30665,N1252,2025-09-03 02:41:15,2025-09-03 03:00:15,General Chek-up,East,Critical is required. The nurse reviewed the patient condition. The patient is restless.
+f15ef078-eb2e-4837-a058-0f9b1f111ef4,P42361,N4192,2025-08-21 23:48:53,2025-08-22 00:05:53,Medication Administration,North,The nurse delivered the medication. The patient is stable.
+0e13ee2c-89d2-4805-aaa5-dd558eb353e5,P96712,N9438,2025-08-28 02:07:57,2025-08-28 03:59:57,Physical Therapy,South,The nurse guided the gait practice. The patient is stable.
+4327357f-eea4-4773-8840-9ced1d086873,P89305,N1841,"September 07, 2025 05:39AM",2025-09-07 10:56:21,Medication Administration,North,The nurse provided the oral dose. The patient is restless. ASAP is required.
+f231ef46-3b95-4bd6-8a58-af827b965fe1,P59362,N1148,2025-09-15 17:50:57,2025-09-15 18:09:57,Physical Therapy,West,The nurse monitored the range of motion. The patient is stable.
+883b9be6-60e0-40ee-8f88-6b4ba94566e3,P73090,N5472,2025-08-31 11:10:55,2025/08/31 11:40,Physical Therapy,West,The nurse encouraged the range of motion. The patient is dizzy. Review is required.
+818aca18-6df1-4edc-808d-7761beb816a5,P70172,N9428,2025-08-28 05:36:05,,General Check-up,North,The nurse reviewed the vital signs. The patient is comfortable.
+c1c93f32-b6fa-41e2-aa19-d00223d82e22,P64395,N8916,2025-09-09 13:53:08,,Medication Administration,East,
+24bd67e5-65b8-41ec-8377-908ed4626deb,P35358,N9783,2025-08-29 17:59:17,2025-08-29 18:49:17,Physical Therapy,East,Ongoing assessment is required. The nurse assisted the gait practice. The patient is weak.
+98791880-9b98-477d-ae19-539456337ba3,P34793,N8721,2025-09-15 11:42:33,2025-09-15 13:00:33,Physical Therapy,South,Review is required. The nurse encouraged the mobility exercise. The patient is dizzy.
+31078f46-814e-44d4-a445-cad3abbea765,P12243,N4957,2025/08/21 08:25,08/21/2025 08:52,General Check-up,South,The nurse monitored the patient condition. The patient is dizzy. Review is required.
+3c755c3f-ddfe-4a1e-8cbd-354ed4e679f5,P64429,N6797,2025-09-11 02:32:24,2025-09-11 03:02:24,General Check-up,West,The nurse observed the blood pressure. The patient is comfortable.
+db5430a2-aadd-4062-822f-11beaeb058a3,P60650,N8221,2025-09-04 10:38:50,"September 04, 2025 12:03PM",General Check-up,North,The nurse observed the blood pressure. The patient is stable.
+cf26149b-3546-446f-8298-67e335a40629,P59451,N3997,2025-09-02 02:47:43,,Physical Therapy,West,The nurse assisted the mobility exercise. The patient is stable.
+5de5120c-9198-445c-99e6-77dc515c6b0c,P99404,N9242,2025-08-25 17:59:34,2025-08-25 19:59:34,Physical Therapy,South,Follow-up is required. The nurse encouraged the strength training. The patient is dizzy.
+0d587b1c-3023-4c92-976e-adef9cad430d,P95155,N4983,2025-08-20 14:45:31,2025-08-20 15:54:31,Medication Administration,West,The nurse administered the injection. The patient is improving. Follow-up is required.
+b0cb545a-4161-4ffe-97f3-fb88446024ac,P68514,N4192,2025-09-10 21:53:51,2025-09-10 23:15:51,Medication Administration,West,The nurse administered the injection. The patient is stable.
+50c9187e-958d-48f4-a1f0-a9d7cfead6ee,P78241,N3280,2025-09-16 06:08:51,2025-09-16 07:58:51,Medication Administration,North,The nurse provided the medication. The patient is weak. Monitoring is required.
+f839ac6d-4a30-42bf-a095-29b358948944,P61251,N1252,2025/09/05 13:04,2025-09-05 13:59:00,General Check-up,South,The nurse checked the temperature. The patient is improving. Ongoing assessment is required.
+f54184fa-e530-4363-a432-838991c5333a,P86797,N4983,2025-09-16 12:56:18,2025-09-16 13:26:18,Wound Care,South,The nurse changed the bandage. The patient is restless. Urgent is required.
+bc813e7f-7bbb-49b3-9984-e7c4721c4693,P94789,N5881,2025-08-31 06:00:12,2025-08-31 07:21:12,Medication Administration,South,Monitoring is required. The nurse provided the medication. The patient is improving.
+ac18481e-7c65-4be3-9d70-2086b7979281,P31555,N9851,2025-09-07 18:01:45,"September 07, 2025 06:58PM",Wound Care,West,The nurse dressed the bandage. The patient is dizzy. Monitoring is required.
+cfa3bfd7-c5c1-4ccc-ac90-750e0a08305d,P28278,N8250,2025-08-20 03:57:58,2025-08-20 12:17:35,Medication Administration,North,The nurse provided the IV line. The patient is comfortable.
+fd146741-45a8-4a6c-a6c4-5aac60422953,P92406,N8880,2025-09-15 01:35:05,"September 15, 2025 03:17AM",Pyhcisal Therapy,South,The nurse delivered the medication. The patient is weak. Monitoring is required.
+ed079929-92dc-443d-8eee-97f3e81d7743,P28501,N7802,2025/09/09 01:43,2025/09/09 02:52,Wound Care,East,Monitoring is required. The nurse dressed the bandage. The patient is weak.
+dc04178c-8238-43f8-8fd2-f95abff9dd91,P27118,N7325,2025-08-29 09:36:01,08/29/2025 11:16,Medication Administration,East,
+f662a9de-ea2b-4fce-b60e-e4a69ba27dd9,P99404,N7948,2025-08-25 06:51:31,2025-08-25 07:22:31,Pyhcisal Therapy,North,The nurse provided the injection. The patient is improving. Ongoing assessment is required.
+8bb83f0e-4eae-4293-9c95-454d95a17b5d,P86804,N1960,08/29/2025 23:18,,General Check-up,West,Review is required. The nurse checked the vital signs. The patient is improving.
+cac818d4-eb50-4985-af3b-5304ea836088,P27001,N8880,2025-08-31 18:34:25,2025-08-31 19:27:25,Physical Therapy,West,Action is required. The nurse assisted the strength training. The patient is restless.
+c466951c-4ed8-4f41-bcf5-87fa2231de30,P57997,N8916,2025-09-17 11:39:22,2025-09-17 13:11:22,Physical Therapy,East,ASAP is required. The nurse encouraged the mobility exercise. The patient is in pain.
+13a07d8b-b51a-4297-b44f-86ff4db73353,P89830,N3028,2025-09-07 18:07:57,2025-09-07 18:42:57,Pyhcisal Therapy,East,The nurse guided the range of motion. The patient is dizzy. Monitoring is required.
+6c4252ef-855d-4afe-878b-23083d20a6e4,P22435,N4957,2025-08-29 13:51:48,2025-08-30 09:34:36,Physical Therapy,South,The nurse guided the strength training. The patient is dizzy. Follow-up is required.
+a2d1b4cb-28b1-428f-928d-edcbe3dbd2e0,P48948,N8068,2025/08/29 05:48,2025-08-29 06:20:13,General Check-up,North,Review is required. The nurse monitored the temperature. The patient is dizzy.
+cc248126-04d2-4900-aea2-c4cb6a684ed3,P84794,N9821,2025-09-02 02:54:02,,Wound Care,East,The nurse changed the incision site. The patient is dizzy. Monitoring is required.
+cc43ba89-5f17-42cc-a14a-f5bd2479d49b,P92654,N8880,2025-09-13 06:23:00,2025-09-13 06:40:00,General Check-up,North,Urgent is required. The nurse observed the vital signs. The patient is in pain.
+74a6e85d-92c6-46dd-b3e1-df8e749cea9a,P69685,N5551,2025-08-29 06:02:00,2025-08-29 06:26:00,Medicatn Adminstratino,West,Urgent is required. The nurse provided the IV line. The patient is restless.
+1055d02d-3484-430b-bfb2-b59fc9431683,P60246,N1066,2025-09-07 19:42:23,2025-09-07 20:53:23,Wound Care,South,The nurse changed the bandage. The patient is in pain. Critical is required.
+dd78459e-14bd-46f2-80e3-846247846498,P68008,N5633,2025-08-25 23:23:30,2025-08-25 23:45:30,Wound Cae,South,The nurse guided the range of motion. The patient is comfortable.
+21fb3c2e-e137-4379-ab08-bee17a1d4dda,P13878,N6068,2025-08-20 14:05:35,2025-08-20 16:03:35,Physical Therapy,North,Monitoring is required. The nurse encouraged the gait practice. The patient is weak.
+e523684e-7b18-4657-8358-2c5d10fc6129,P87348,N3681,09/01/2025 14:28,,Wound Care,South,The nurse changed the wound dressing. The patient is improving. Review is required.
+55bfac11-3826-43de-bcee-2eccfe4911eb,P94002,N8916,2025-08-24 10:59:24,2025-08-24 11:20:24,Physical Therapy,West,
+99c86d22-a03a-4f7b-9ffd-e97a324022ed,P94519,N9438,2025-09-11 02:02:48,2025-09-11 03:41:48,Medicatn Adminstratino,East,The nurse changed the wound dressing. The patient is improving. Ongoing assessment is required.
+63dc88be-fa2f-4658-9b68-cfb0dc3359e1,P64395,N7992,2025-09-07 03:35:05,2025-09-07 04:04:05,General Check-up,East,The nurse reviewed the patient condition. The patient is improving. Monitoring is required.
+0ed0b14b-72a2-4afd-bf25-6a4637d41262,P52296,N9880,2025-09-10 15:30:14,2025-09-10 17:20:14,General Check-up,North,The nurse reviewed the temperature. The patient is weak. Follow-up is required.
+be7a4529-1537-4d3d-8044-34176f6fd056,P69665,N1841,2025-09-05 13:55:48,"September 05, 2025 03:26PM",Physical Therapy,South,ASAP is required. The nurse assisted the mobility exercise. The patient is restless.
+58ff56c1-a66c-4f6d-a7d4-edd9a7bb6ccb,P31135,N4803,2025-08-20 21:51:44,2025-08-20 22:52:44,General Check-up,South,Monitoring is required. The nurse checked the patient condition. The patient is improving.
+2125fe98-ab5d-477a-a692-1839e2a17091,P61519,N4701,2025-09-14 09:19:24,"September 14, 2025 11:06AM",Wound Care,West,Review is required. The nurse changed the incision site. The patient is dizzy.
+ce86fad0-87b4-4a6a-8718-4907ed523d4b,P66547,N4983,2025/08/29 07:37,2025-08-29 08:47:47,General Check-up,South,The nurse observed the oxygen level. The patient is comfortable.
+a0586566-f894-4dca-9c05-28fba69a0d3f,P68008,N8880,2025-09-12 04:13:32,2025-09-12 04:38:32,Wound Care,South,The nurse changed the bandage. The patient is in pain. Critical is required.
+384e25a1-1b69-4178-94b9-3c7e0b19130f,P59144,N8721,2025-09-12 17:05:54,2025-09-12 19:04:54,General Check-up,West,Critical is required. The nurse monitored the vital signs. The patient is restless.
+dd1181a8-3d10-4ff1-882b-cd747187f225,P72592,N7368,2025-09-02 17:55:36,2025-09-02 18:56:36,General Check-up,North,The nurse reviewed the oxygen level. The patient is comfortable.
+473a2a20-ef4a-42bb-886e-95f0862b2155,P35990,N5698,2025-09-13 10:33:47,2025-09-13 12:23:47,Physical Therapy,East,Ongoing assessment is required. The nurse assisted the mobility exercise. The patient is improving.
+1ff29126-3c78-45b8-83af-b0c858c199f0,P95234,N7717,2025/08/30 01:43,2025-08-30 03:17:35,Wound Cae,North,Monitoring is required. The nurse observed the vital signs. The patient is dizzy.
+1c7b6baf-6ed1-41c7-bd7f-81e1da0930c3,P39388,N7300,08/29/2025 07:10,2025-08-29 08:15:44,Wound Care,West,ASAP is required. The nurse dressed the wound dressing. The patient is restless.
+c7ae5d9a-8f3f-4c40-b211-85ca24a59bda,P34361,N3933,2025-08-25 03:57:29,,Wound Care,South,Critical is required. The nurse applied the incision site. The patient is in pain.
+32a00560-4aa6-480a-87a3-b10697f0c5a7,P64566,N2141,2025/09/12 12:01,2025-09-13 06:14:00,General Check-up,North,The nurse observed the oxygen level. The patient is stable.
