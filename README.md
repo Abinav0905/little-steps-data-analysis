@@ -86,7 +86,6 @@ A small group of nurses consistently logs travel times well above the overall av
 
 ### 5. Nurse Notes Analysis
 Visits where notes mentioned "critical", "urgent", or "ASAP" tended to run longer than average. "Stable" patient visits were on the shorter end. This suggests that clinical complexity captured in free-text notes is a meaningful signal for expected visit duration — even without structured tagging.
-
 ---
 
 ### Operational Recommendations
@@ -94,7 +93,6 @@ Visits where notes mentioned "critical", "urgent", or "ASAP" tended to run longe
 2. **Service-type aware scheduling** – Use per-service average durations as the baseline for time-slot allocation rather than a flat estimate.
 3. **Structured nurse notes** – Introduce a mandatory quick-select status field (e.g. Stable / Needs Follow-up / Urgent) at visit start, in addition to free-text notes. This enables real-time schedule adjustments downstream.
 4. **Improve data collection** – Collect actual GPS-derived travel timestamps to replace the gap heuristic used here. Missing `visit_end_time` for 10% of records is a significant data quality gap that should be addressed at the point of entry.
-
 ---
 
 ## Assumptions & Challenges
